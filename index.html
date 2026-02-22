@@ -81,6 +81,7 @@
             font-weight: 600;
         }
         
+        input[type="text"],
         select {
             width: 100%;
             padding: 12px 14px;
@@ -88,15 +89,24 @@
             border-radius: 8px;
             background: white;
             font-size: 0.95em;
-            cursor: pointer;
             transition: all 0.2s;
             color: #495057;
         }
         
+        select {
+            cursor: pointer;
+        }
+        
+        input[type="text"]::placeholder {
+            color: #adb5bd;
+        }
+        
+        input[type="text"]:hover,
         select:hover {
             border-color: #4a90e2;
         }
         
+        input[type="text"]:focus,
         select:focus {
             border-color: #4a90e2;
             box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
@@ -610,6 +620,10 @@
                 margin-bottom: 18px;
             }
             
+            input[type="text"] {
+                font-size: 0.9em;
+            }
+            
             .stats {
                 display: grid;
                 grid-template-columns: repeat(3, 1fr);
@@ -759,6 +773,11 @@
         
         <div class="main-content">
             <div class="sidebar">
+                <div class="filter-section">
+                    <div class="filter-label">Search Destination</div>
+                    <input type="text" id="destinationSearch" placeholder="e.g., Miami, Calgary..." oninput="filterDeals()">
+                </div>
+                
                 <div class="filter-section">
                     <div class="filter-label">Filter by Month</div>
                     <select id="monthFilter" onchange="filterDeals()">
@@ -964,12 +983,18 @@
         }
         
         function filterDeals() {
+            const searchQuery = document.getElementById('destinationSearch').value.toLowerCase().trim();
             const selectedMonth = document.getElementById('monthFilter').value;
             const tripType = document.getElementById('tripType').value;
             const sortBy = document.getElementById('sortBy').value;
             
             let filtered = Object.entries(database.destinations)
                 .map(([name, data]) => {
+                    // Filter by destination name
+                    if (searchQuery && !name.toLowerCase().includes(searchQuery)) {
+                        return null;
+                    }
+                    
                     let deals = data.deals;
                     
                     // Filter by month
