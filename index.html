@@ -1,0 +1,1303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deals from Toronto</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif;
+            background: #f8f9fa;
+            color: #2c3e50;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        h1 {
+            font-size: 2.2em;
+            font-weight: 500;
+            color: #1a1a1a;
+            letter-spacing: -0.5px;
+        }
+        
+        h1 .separator {
+            color: #6c757d;
+            font-weight: 300;
+            margin: 0 12px;
+        }
+        
+        h1 .subtitle {
+            font-weight: 300;
+            color: #6c757d;
+        }
+        
+        .main-content {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 30px;
+            margin-bottom: 25px;
+        }
+        
+        .sidebar {
+            background: white;
+            border-radius: 12px;
+            padding: 28px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+            border: 1px solid #e9ecef;
+            height: fit-content;
+            position: sticky;
+            top: 20px;
+        }
+        
+        .filter-section {
+            margin-bottom: 24px;
+        }
+        
+        .filter-label {
+            font-size: 0.75em;
+            color: #6c757d;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            font-weight: 600;
+        }
+        
+        select {
+            width: 100%;
+            padding: 12px 14px;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            background: white;
+            font-size: 0.95em;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: #495057;
+        }
+        
+        select:hover {
+            border-color: #4a90e2;
+        }
+        
+        select:focus {
+            border-color: #4a90e2;
+            box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
+            outline: none;
+        }
+        
+        .stats {
+            margin-top: 28px;
+            padding-top: 28px;
+            border-top: 1px solid #e9ecef;
+        }
+        
+        .stat {
+            margin-bottom: 20px;
+        }
+        
+        .stat-value {
+            font-size: 2.2em;
+            font-weight: 600;
+            color: #4a90e2;
+        }
+        
+        .stat-label {
+            font-size: 0.85em;
+            color: #6c757d;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 4px;
+        }
+        
+        .map-container {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+            border: 1px solid #e9ecef;
+            height: 500px;
+        }
+        
+        #map {
+            height: 100%;
+            border-radius: 8px;
+        }
+        
+        .destinations-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 18px;
+            margin-top: 0;
+        }
+        
+        .destination-card {
+            background: white;
+            border: 1px solid #e9ecef;
+            border-radius: 10px;
+            padding: 18px;
+            cursor: pointer;
+            transition: all 0.25s ease;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+        }
+        
+        .destination-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.08);
+            border-color: #4a90e2;
+        }
+        
+        .dest-name {
+            font-size: 1.15em;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+            line-height: 1.3;
+        }
+        
+        .dest-price {
+            font-size: 1.75em;
+            font-weight: 700;
+            color: #4a90e2;
+            margin-bottom: 8px;
+        }
+        
+        .dest-meta {
+            color: #6c757d;
+            font-size: 0.85em;
+        }
+        
+        .weekend-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #56ab2f, #a8e063);
+            color: white;
+            font-size: 0.7em;
+            font-weight: 600;
+            padding: 4px 10px;
+            border-radius: 12px;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        
+        .modal-content {
+            max-width: 1400px;
+            margin: 50px auto;
+            background: white;
+            border-radius: 12px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        
+        .modal-body {
+            display: grid;
+            grid-template-columns: 280px 1fr 320px;
+            gap: 30px;
+        }
+        
+        .destination-info {
+            background: #f8f9fa;
+            padding: 0;
+            border-radius: 10px;
+            overflow: hidden;
+            border: 1px solid #e9ecef;
+        }
+        
+        .dest-image-header {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+            display: block;
+        }
+        
+        .dest-info-content {
+            padding: 24px;
+        }
+        
+        .destination-info h3 {
+            font-size: 1.2em;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 12px;
+        }
+        
+        .destination-info p {
+            font-size: 0.92em;
+            line-height: 1.6;
+            color: #495057;
+            margin-bottom: 16px;
+        }
+        
+        .destination-info .highlights {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #e9ecef;
+        }
+        
+        .destination-info .highlights h4 {
+            font-size: 0.85em;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+        
+        .destination-info ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .destination-info li {
+            font-size: 0.88em;
+            color: #495057;
+            padding: 5px 0;
+            padding-left: 18px;
+            position: relative;
+            line-height: 1.4;
+        }
+        
+        .destination-info li:before {
+            content: "✈";
+            position: absolute;
+            left: 0;
+            color: #4a90e2;
+            font-size: 0.9em;
+        }
+        
+        .wiki-link {
+            display: inline-block;
+            margin-top: 12px;
+            font-size: 0.85em;
+            color: #4a90e2;
+            text-decoration: none;
+        }
+        
+        .wiki-link:hover {
+            text-decoration: underline;
+        }
+        
+        .deals-list {
+            flex: 1;
+        }
+        
+        .dates-sidebar {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            max-height: 600px;
+            overflow-y: auto;
+            border: 1px solid #e9ecef;
+        }
+        
+        .dates-sidebar h3 {
+            font-size: 1em;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 16px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .month-group {
+            margin-bottom: 20px;
+        }
+        
+        .month-header {
+            font-size: 0.85em;
+            font-weight: 600;
+            color: #4a90e2;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .date-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 12px;
+            margin-bottom: 6px;
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 1px solid #e9ecef;
+            gap: 8px;
+        }
+        
+        .date-item:hover {
+            background: #fff;
+            border-color: #4a90e2;
+            transform: translateX(4px);
+        }
+        
+        .date-item.active {
+            background: #4a90e2;
+            border-color: #4a90e2;
+        }
+        
+        .date-item.active .date-text,
+        .date-item.active .date-price {
+            color: white;
+        }
+        
+        .date-text {
+            font-size: 0.82em;
+            color: #495057;
+            line-height: 1.3;
+            flex: 1;
+        }
+        
+        .date-price {
+            font-size: 0.9em;
+            font-weight: 700;
+            color: #4a90e2;
+            white-space: nowrap;
+        }
+        
+        .date-badges {
+            display: flex;
+            gap: 4px;
+            margin-top: 4px;
+        }
+        
+        .mini-badge {
+            font-size: 0.65em;
+            padding: 2px 6px;
+            border-radius: 8px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+        
+        .badge-cheapest {
+            background: #ffc107;
+            color: #856404;
+        }
+        
+        .badge-weekend {
+            background: #56ab2f;
+            color: white;
+        }
+        
+        .selected-deal {
+            background: white;
+            border: 1px solid #e9ecef;
+            border-radius: 10px;
+            padding: 28px;
+        }
+        
+        .selected-deal h3 {
+            font-size: 1.3em;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 16px;
+        }
+        
+        .selected-deal .deal-dates {
+            font-size: 1.1em;
+        }
+        
+        .selected-deal .deal-price {
+            font-size: 2em;
+        }
+        
+        .loading-info {
+            color: #6c757d;
+            font-style: italic;
+            font-size: 0.9em;
+        }
+        
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 32px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #e9ecef;
+        }
+        
+        .modal-title {
+            font-size: 1.8em;
+            font-weight: 600;
+            color: #1a1a1a;
+        }
+        
+        .close-btn {
+            font-size: 1.8em;
+            cursor: pointer;
+            color: #adb5bd;
+            line-height: 1;
+            transition: all 0.2s;
+            width: 36px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+        }
+        
+        .close-btn:hover {
+            background: #f8f9fa;
+            color: #495057;
+        }
+        
+        .deal-item {
+            background: #f8f9fa;
+            padding: 24px;
+            margin-bottom: 16px;
+            border-radius: 8px;
+            border-left: 3px solid #4a90e2;
+        }
+        
+        .deal-dates {
+            font-size: 1.05em;
+            font-weight: 500;
+            color: #495057;
+            margin-bottom: 8px;
+        }
+        
+        .deal-price {
+            font-size: 1.8em;
+            font-weight: 700;
+            color: #4a90e2;
+            margin-bottom: 14px;
+        }
+        
+        .book-btn {
+            background: #4a90e2;
+            color: white;
+            border: none;
+            padding: 12px 28px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.95em;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        
+        .book-btn:hover {
+            background: #357abd;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 8px rgba(74, 144, 226, 0.2);
+        }
+        
+        .historical {
+            background: #fff9e6;
+            padding: 18px;
+            border-radius: 8px;
+            margin-bottom: 24px;
+            border-left: 3px solid #ffc107;
+            font-size: 0.95em;
+            color: #856404;
+        }
+        
+        .footer {
+            text-align: center;
+            color: #6c757d;
+            margin-top: 50px;
+            font-size: 0.9em;
+        }
+        
+        .no-results {
+            text-align: center;
+            padding: 80px 20px;
+            color: #6c757d;
+            font-size: 1.2em;
+            font-weight: 400;
+        }
+        
+        .leaflet-popup-content-wrapper {
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .popup-content {
+            font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif;
+        }
+        
+        .popup-title {
+            font-weight: 600;
+            font-size: 1.05em;
+            margin-bottom: 4px;
+            color: #1a1a1a;
+        }
+        
+        .popup-price {
+            color: #4a90e2;
+            font-weight: 700;
+            font-size: 1.3em;
+        }
+        
+        @media (max-width: 1024px) {
+            .main-content {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+            
+            .sidebar {
+                position: relative;
+                top: 0;
+                padding: 24px;
+            }
+            
+            .map-container {
+                height: 400px;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 25px 15px;
+            }
+            
+            header {
+                margin-bottom: 20px;
+            }
+            
+            h1 {
+                font-size: 1.5em;
+                line-height: 1.4;
+            }
+            
+            h1 .separator {
+                display: block;
+                margin: 4px 0;
+                visibility: hidden;
+            }
+            
+            h1 .subtitle {
+                display: block;
+                font-size: 0.85em;
+                margin-top: 4px;
+            }
+            
+            .sidebar {
+                padding: 20px;
+            }
+            
+            .filter-section {
+                margin-bottom: 18px;
+            }
+            
+            .stats {
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 15px;
+                margin-top: 20px;
+                padding-top: 20px;
+            }
+            
+            .stat {
+                margin-bottom: 0;
+                text-align: center;
+            }
+            
+            .stat-value {
+                font-size: 1.8em;
+            }
+            
+            .stat-label {
+                font-size: 0.7em;
+            }
+            
+            .map-container {
+                height: 350px;
+                padding: 15px;
+            }
+            
+            .destinations-grid {
+                grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+                gap: 12px;
+            }
+            
+            .destination-card {
+                padding: 18px;
+            }
+            
+            .dest-name {
+                font-size: 1.1em;
+                margin-bottom: 10px;
+            }
+            
+            .dest-price {
+                font-size: 1.6em;
+                margin-bottom: 8px;
+            }
+            
+            .dest-meta {
+                font-size: 0.85em;
+            }
+            
+            .modal {
+                padding: 10px;
+            }
+            
+            .modal-content {
+                margin: 20px auto;
+                padding: 25px;
+                border-radius: 10px;
+            }
+            
+            .modal-body {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+            
+            .destination-info {
+                order: 1;
+            }
+            
+            .deals-list {
+                order: 2;
+            }
+            
+            .dates-sidebar {
+                order: 3;
+                max-height: 400px;
+            }
+            
+            .modal-header {
+                margin-bottom: 20px;
+                padding-bottom: 15px;
+            }
+            
+            .modal-title {
+                font-size: 1.4em;
+            }
+            
+            .deal-item {
+                padding: 18px;
+                margin-bottom: 12px;
+            }
+            
+            .deal-dates {
+                font-size: 0.95em;
+            }
+            
+            .deal-price {
+                font-size: 1.5em;
+                margin-bottom: 12px;
+            }
+            
+            .book-btn {
+                padding: 11px 24px;
+                font-size: 0.9em;
+                width: 100%;
+            }
+            
+            .historical {
+                padding: 15px;
+                font-size: 0.9em;
+                margin-bottom: 20px;
+            }
+            
+            .footer {
+                font-size: 0.8em;
+                margin-top: 30px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.3em;
+            }
+            
+            .destinations-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .destination-card {
+                padding: 16px;
+            }
+            
+            .stat-value {
+                font-size: 1.5em;
+            }
+            
+            .modal-content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Deals from Toronto<span class="separator">|</span><span class="subtitle">Find your Next Destination</span></h1>
+        </header>
+        
+        <div class="main-content">
+            <div class="sidebar">
+                <div class="filter-section">
+                    <div class="filter-label">Filter by Month</div>
+                    <select id="monthFilter" onchange="filterDeals()">
+                        <option value="">All Months</option>
+                    </select>
+                </div>
+                
+                <div class="filter-section">
+                    <div class="filter-label">Trip Type</div>
+                    <select id="tripType" onchange="filterDeals()">
+                        <option value="all">All Trips</option>
+                        <option value="weekend">Weekend Deals Only</option>
+                    </select>
+                </div>
+                
+                <div class="filter-section">
+                    <div class="filter-label">Sort By</div>
+                    <select id="sortBy" onchange="filterDeals()">
+                        <option value="price">Price (Low → High)</option>
+                        <option value="deals">Most Deals</option>
+                        <option value="name">A → Z</option>
+                    </select>
+                </div>
+                
+                <div class="stats">
+                    <div class="stat">
+                        <div class="stat-value" id="destCount">-</div>
+                        <div class="stat-label">Destinations</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-value" id="dealsCount">-</div>
+                        <div class="stat-label">Total Deals</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-value" id="cheapestPrice">-</div>
+                        <div class="stat-label">Starting From</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="map-container">
+                <div id="map"></div>
+            </div>
+        </div>
+        
+        <div class="destinations-grid" id="destinationsGrid"></div>
+        
+        <div class="footer" id="footer"></div>
+    </div>
+    
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="modalTitle"></h2>
+                <span class="close-btn" onclick="closeModal()">&times;</span>
+            </div>
+            <div id="modalContent"></div>
+        </div>
+    </div>
+    
+    <script>
+        let database = null;
+        let map = null;
+        let markers = [];
+        
+        // Destination highlights (curated top attractions)
+        const destinationHighlights = {
+            'Halifax': ['Halifax Citadel', 'Peggy\'s Cove', 'Maritime Museum', 'Public Gardens', 'Waterfront Boardwalk'],
+            'Calgary': ['Calgary Tower', 'Heritage Park', 'Calgary Stampede', 'Glenbow Museum', 'Prince\'s Island Park'],
+            'Vancouver': ['Stanley Park', 'Capilano Suspension Bridge', 'Granville Island', 'Grouse Mountain', 'Gastown'],
+            'Edmonton': ['West Edmonton Mall', 'Fort Edmonton Park', 'Royal Alberta Museum', 'River Valley', 'Elk Island National Park'],
+            'Montreal': ['Old Montreal', 'Mount Royal', 'Notre-Dame Basilica', 'Jean-Talon Market', 'Biodome'],
+            'Orlando': ['Walt Disney World', 'Universal Studios', 'SeaWorld', 'Kennedy Space Center', 'ICON Park'],
+            'Miami': ['South Beach', 'Art Deco District', 'Vizcaya Museum', 'Everglades', 'Wynwood Walls'],
+            'Las Vegas': ['The Strip', 'Fremont Street', 'Red Rock Canyon', 'Bellagio Fountains', 'High Roller'],
+            'New York': ['Statue of Liberty', 'Central Park', 'Times Square', 'Empire State Building', 'Brooklyn Bridge'],
+            'Cancún': ['Mayan Ruins', 'Isla Mujeres', 'Xcaret Park', 'Chichen Itza', 'Cenotes'],
+            'Punta Cana': ['Bavaro Beach', 'Saona Island', 'Indigenous Eyes Park', 'Hoyo Azul', 'Altos de Chavón'],
+            'Los Angeles': ['Hollywood Sign', 'Santa Monica Pier', 'Griffith Observatory', 'Getty Center', 'Venice Beach'],
+            'San Francisco': ['Golden Gate Bridge', 'Alcatraz', 'Fisherman\'s Wharf', 'Cable Cars', 'Chinatown'],
+            'Nashville': ['Grand Ole Opry', 'Broadway', 'Country Music Hall of Fame', 'Ryman Auditorium', 'Parthenon'],
+            'Charleston': ['Historic District', 'Rainbow Row', 'Waterfront Park', 'Fort Sumter', 'Magnolia Plantation'],
+            'Fort Lauderdale': ['Las Olas Beach', 'Hugh Taylor Birch Park', 'Riverwalk', 'Museum of Discovery', 'Everglades'],
+            'Tampa': ['Busch Gardens', 'Florida Aquarium', 'Ybor City', 'Clearwater Beach', 'Lowry Park Zoo'],
+            'Phoenix': ['Desert Botanical Garden', 'Camelback Mountain', 'Heard Museum', 'Papago Park', 'Old Town Scottsdale'],
+            'Denver': ['Red Rocks Park', 'Rocky Mountain National Park', '16th Street Mall', 'Union Station', 'Art Museum'],
+            'Nassau': ['Atlantis Paradise', 'Cable Beach', 'Queen\'s Staircase', 'Blue Lagoon Island', 'Fort Charlotte'],
+            'Varadero': ['Varadero Beach', 'Josone Park', 'Bellamar Caves', 'Delfinario', 'Ambrosio Cave'],
+            'Mexico': ['Zócalo', 'Templo Mayor', 'Chapultepec Castle', 'Frida Kahlo Museum', 'Teotihuacan'],
+            'Cozumel': ['Palancar Reef', 'Chankanaab Park', 'San Gervasio Ruins', 'Punta Sur', 'Paradise Beach'],
+            'San Juan': ['Old San Juan', 'El Morro Fort', 'Castillo San Cristóbal', 'La Perla', 'Condado Beach']
+        };
+        
+        // City coordinates for map
+        const cityData = {
+            'Halifax': [44.6488, -63.5752],
+            'Calgary': [51.0447, -114.0719],
+            'Miami': [25.7617, -80.1918],
+            'Fort Lauderdale': [26.1224, -80.1373],
+            'Orlando': [28.5383, -81.3792],
+            'Tampa': [27.9506, -82.4572],
+            'Vancouver': [49.2827, -123.1207],
+            'Edmonton': [53.5461, -113.4938],
+            'New York': [40.7128, -74.0060],
+            'Newark': [40.7128, -74.0060],
+            'Toronto': [43.6532, -79.3832],
+            'Montreal': [45.5017, -73.5673],
+            'Cancún': [21.1619, -86.8515],
+            'Cozumel': [20.4230, -86.9223],
+            'Punta Cana': [18.5601, -68.3725],
+            'Nassau': [25.0443, -77.3504],
+            'San Juan': [18.4655, -66.1057],
+            'Varadero': [23.1536, -81.2541],
+            'Mexico': [19.4326, -99.1332],
+            'Los Angeles': [34.0522, -118.2437],
+            'Las Vegas': [36.1699, -115.1398],
+            'Phoenix': [33.4484, -112.0740],
+            'Denver': [39.7392, -104.9903],
+            'Nashville': [36.1627, -86.7816],
+            'Fort Myers': [26.6406, -81.8723],
+            'Sarasota': [27.3364, -82.5307],
+            'Daytona Beach': [29.2108, -81.0228],
+            'West Palm Beach': [26.7153, -80.0534],
+            'La Romana': [18.4273, -68.9728],
+            'Hamilton': [43.2557, -79.8711],
+            'Mazatlán': [23.2494, -106.4111]
+        };
+        
+        async function loadData() {
+            try {
+                const response = await fetch('deals-database.json');
+                database = await response.json();
+                initMap();
+                populateMonthFilter();
+                filterDeals();
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('destinationsGrid').innerHTML = 
+                    '<div class="no-results">Error loading data. Please refresh.</div>';
+            }
+        }
+        
+        function initMap() {
+            map = L.map('map').setView([30, -20], 2);
+            
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                attribution: '© OpenStreetMap, © CartoDB',
+                maxZoom: 19
+            }).addTo(map);
+        }
+        
+        function populateMonthFilter() {
+            const months = new Set();
+            Object.values(database.destinations).forEach(dest => {
+                dest.deals.forEach(deal => {
+                    const date = new Date(deal.depart_date);
+                    const monthYear = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
+                    months.add(monthYear);
+                });
+            });
+            
+            const select = document.getElementById('monthFilter');
+            [...months].sort().forEach(month => {
+                const option = document.createElement('option');
+                option.value = month;
+                option.textContent = month;
+                select.appendChild(option);
+            });
+        }
+        
+        function isWeekendDeal(deal) {
+            // Extract day of week from dates string
+            // Format: "Mon, May 4 – Tue, May 12"
+            const parts = deal.dates.split(' – ');
+            if (parts.length !== 2) return false;
+            
+            const departDay = parts[0].split(',')[0];
+            const returnDay = parts[1].split(',')[0];
+            
+            // Weekend patterns: Fri-Mon, Fri-Sun, Sat-Mon, Sat-Sun, Thu-Mon
+            return (
+                (departDay === 'Fri' && returnDay === 'Mon') ||
+                (departDay === 'Fri' && returnDay === 'Sun') ||
+                (departDay === 'Sat' && returnDay === 'Mon') ||
+                (departDay === 'Sat' && returnDay === 'Sun') ||
+                (departDay === 'Thu' && returnDay === 'Mon')
+            );
+        }
+        
+        function getWeekendPattern(deal) {
+            const parts = deal.dates.split(' – ');
+            if (parts.length !== 2) return '';
+            
+            const departDay = parts[0].split(',')[0];
+            const returnDay = parts[1].split(',')[0];
+            
+            if (departDay === 'Fri' && returnDay === 'Mon') return 'Fri-Mon';
+            if (departDay === 'Fri' && returnDay === 'Sun') return 'Fri-Sun';
+            if (departDay === 'Sat' && returnDay === 'Mon') return 'Sat-Mon';
+            if (departDay === 'Sat' && returnDay === 'Sun') return 'Sat-Sun';
+            if (departDay === 'Thu' && returnDay === 'Mon') return 'Thu-Mon';
+            return '';
+        }
+        
+        function filterDeals() {
+            const selectedMonth = document.getElementById('monthFilter').value;
+            const tripType = document.getElementById('tripType').value;
+            const sortBy = document.getElementById('sortBy').value;
+            
+            let filtered = Object.entries(database.destinations)
+                .map(([name, data]) => {
+                    let deals = data.deals;
+                    
+                    // Filter by month
+                    if (selectedMonth) {
+                        deals = deals.filter(deal => {
+                            const date = new Date(deal.depart_date);
+                            const monthYear = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
+                            return monthYear === selectedMonth;
+                        });
+                    }
+                    
+                    // Filter by trip type
+                    if (tripType === 'weekend') {
+                        deals = deals.filter(deal => isWeekendDeal(deal));
+                    }
+                    
+                    if (deals.length === 0) return null;
+                    
+                    const cheapest = Math.min(...deals.map(d => d.price_value));
+                    const hasWeekend = deals.some(d => isWeekendDeal(d));
+                    
+                    return [name, {
+                        ...data,
+                        deals: deals,
+                        cheapest_current: `CA$${cheapest.toLocaleString()}`,
+                        hasWeekend: hasWeekend
+                    }];
+                })
+                .filter(item => item !== null);
+            
+            if (sortBy === 'price') {
+                filtered.sort((a, b) => {
+                    const priceA = parseInt(a[1].cheapest_current.replace(/[CA$,]/g, ''));
+                    const priceB = parseInt(b[1].cheapest_current.replace(/[CA$,]/g, ''));
+                    return priceA - priceB;
+                });
+            } else if (sortBy === 'deals') {
+                filtered.sort((a, b) => b[1].deals.length - a[1].deals.length);
+            } else {
+                filtered.sort((a, b) => a[0].localeCompare(b[0]));
+            }
+            
+            renderDashboard(filtered);
+        }
+        
+        function renderDashboard(destinations) {
+            const totalDeals = destinations.reduce((sum, [_, d]) => sum + d.deals.length, 0);
+            const cheapest = destinations.length > 0 ? destinations[0][1].cheapest_current : '-';
+            
+            document.getElementById('destCount').textContent = destinations.length;
+            document.getElementById('dealsCount').textContent = totalDeals;
+            document.getElementById('cheapestPrice').textContent = cheapest;
+            
+            updateMap(destinations);
+            
+            const grid = document.getElementById('destinationsGrid');
+            if (destinations.length === 0) {
+                grid.innerHTML = '<div class="no-results">No deals found for selected month</div>';
+                return;
+            }
+            
+            grid.innerHTML = destinations.map(([name, data]) => {
+                const weekendBadge = data.hasWeekend ? '<div class="weekend-badge">🎉 Weekend</div>' : '';
+                return `
+                    <div class="destination-card" onclick="showDeals('${name.replace(/'/g, "\\'")}')">
+                        ${weekendBadge}
+                        <div class="dest-name">${name}</div>
+                        <div class="dest-price">${data.cheapest_current}</div>
+                        <div class="dest-meta">${data.deals.length} deals</div>
+                    </div>
+                `;
+            }).join('');
+            
+            const lastUpdate = database.last_updated ? 
+                new Date(database.last_updated).toLocaleString() : 'Unknown';
+            document.getElementById('footer').innerHTML = 
+                `<strong>Curated deals from Google Flights</strong><br>
+                Last updated: ${lastUpdate} • ${database.processed_message_ids.length} emails processed`;
+        }
+        
+        function updateMap(destinations) {
+            markers.forEach(m => map.removeLayer(m));
+            markers = [];
+            
+            destinations.forEach(([name, data]) => {
+                const mainCity = name.split(',')[0].trim();
+                const coords = cityData[mainCity];
+                
+                if (coords) {
+                    const marker = L.marker(coords).addTo(map);
+                    marker.bindPopup(`
+                        <div class="popup-content">
+                            <div class="popup-title">${name}</div>
+                            <div class="popup-price">${data.cheapest_current}</div>
+                            <div style="color: #6c757d; font-size: 0.9em; margin-top: 4px;">
+                                ${data.deals.length} deals
+                            </div>
+                        </div>
+                    `);
+                    marker.on('click', () => showDeals(name));
+                    markers.push(marker);
+                }
+            });
+        }
+        
+        async function fetchDestinationInfo(destination) {
+            // Extract main city name (remove country/state)
+            const cityName = destination.split(',')[0].trim();
+            
+            try {
+                // Wikipedia API - get full info including image
+                const response = await fetch(
+                    `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(cityName)}`
+                );
+                
+                if (!response.ok) throw new Error('Wikipedia fetch failed');
+                
+                const data = await response.json();
+                
+                // Get highlights from our curated list, or generic ones
+                const highlights = destinationHighlights[cityName] || [
+                    'Historic landmarks',
+                    'Local cuisine',
+                    'Cultural attractions',
+                    'Shopping districts',
+                    'Natural scenery'
+                ];
+                
+                return {
+                    description: data.extract || `${cityName} is a popular travel destination with rich culture and attractions.`,
+                    url: data.content_urls?.desktop?.page || `https://en.wikipedia.org/wiki/${encodeURIComponent(cityName)}`,
+                    image: data.originalimage?.source || data.thumbnail?.source || '',
+                    highlights: highlights
+                };
+            } catch (error) {
+                console.error('Error fetching destination info:', error);
+                
+                const highlights = destinationHighlights[cityName] || ['Explore the city', 'Local culture', 'Must-see attractions'];
+                
+                return {
+                    description: `${cityName} is a popular travel destination. Discover its unique attractions and culture.`,
+                    url: `https://en.wikipedia.org/wiki/${encodeURIComponent(cityName)}`,
+                    image: '',
+                    highlights: highlights
+                };
+            }
+        }
+        
+        async function showDeals(destination) {
+            const data = database.destinations[destination];
+            const selectedMonth = document.getElementById('monthFilter').value;
+            
+            let deals = data.deals;
+            if (selectedMonth) {
+                deals = deals.filter(deal => {
+                    const date = new Date(deal.depart_date);
+                    const monthYear = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
+                    return monthYear === selectedMonth;
+                });
+            }
+            
+            const sorted = [...deals].sort((a, b) => a.price_value - b.price_value);
+            const cheapestPrice = sorted[0].price_value;
+            const historical = database.historical_prices[destination];
+            
+            document.getElementById('modalTitle').textContent = 
+                `${data.origin} → ${destination}`;
+            
+            // Group deals by month
+            const dealsByMonth = {};
+            sorted.forEach(deal => {
+                const date = new Date(deal.depart_date);
+                const monthYear = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
+                if (!dealsByMonth[monthYear]) {
+                    dealsByMonth[monthYear] = [];
+                }
+                dealsByMonth[monthYear].push(deal);
+            });
+            
+            // Build dates sidebar
+            let datesSidebar = '<h3>📅 All Dates</h3>';
+            Object.entries(dealsByMonth).forEach(([month, monthDeals]) => {
+                datesSidebar += `<div class="month-group">`;
+                datesSidebar += `<div class="month-header">${month}</div>`;
+                monthDeals.forEach((deal, idx) => {
+                    const isCheapest = deal.price_value === cheapestPrice;
+                    const isWeekend = isWeekendDeal(deal);
+                    
+                    let badges = '<div class="date-badges">';
+                    if (isCheapest) badges += '<span class="mini-badge badge-cheapest">Best</span>';
+                    if (isWeekend) badges += '<span class="mini-badge badge-weekend">Weekend</span>';
+                    badges += '</div>';
+                    
+                    const hasBadges = isCheapest || isWeekend;
+                    
+                    datesSidebar += `
+                        <div class="date-item ${idx === 0 && month === Object.keys(dealsByMonth)[0] ? 'active' : ''}" 
+                             onclick="selectDeal('${destination}', ${deals.indexOf(deal)})"
+                             data-deal-index="${deals.indexOf(deal)}">
+                            <div style="flex: 1;">
+                                <div class="date-text">${deal.dates.replace(' – ', '\n')}</div>
+                                ${hasBadges ? badges : ''}
+                            </div>
+                            <div class="date-price">${deal.price}</div>
+                        </div>
+                    `;
+                });
+                datesSidebar += '</div>';
+            });
+            
+            // Build selected deal display (start with first deal)
+            const firstDeal = sorted[0];
+            const weekendBadge = isWeekendDeal(firstDeal) ? 
+                `<div class="weekend-badge">🎉 ${getWeekendPattern(firstDeal)}</div>` : '';
+            
+            let selectedDealHTML = '';
+            if (historical && historical.lowest_ever !== data.cheapest_current) {
+                selectedDealHTML += `
+                    <div class="historical">
+                        <strong>Historical Low:</strong> ${historical.lowest_ever}
+                        (${new Date(historical.date).toLocaleDateString()})
+                    </div>
+                `;
+            }
+            
+            selectedDealHTML += `
+                <div class="selected-deal" id="selectedDeal">
+                    <h3>Selected Deal</h3>
+                    ${weekendBadge}
+                    <div class="deal-dates">${firstDeal.dates}</div>
+                    <div class="deal-price">${firstDeal.price}</div>
+                    <a href="${firstDeal.url}" target="_blank" rel="noopener noreferrer">
+                        <button class="book-btn">
+                            Search on Google Flights →
+                        </button>
+                    </a>
+                </div>
+            `;
+            
+            // Show modal with loading state
+            document.getElementById('modalContent').innerHTML = `
+                <div class="modal-body">
+                    <div class="destination-info">
+                        <div class="dest-info-content">
+                            <h3>About ${destination.split(',')[0]}</h3>
+                            <p class="loading-info">Loading destination info...</p>
+                        </div>
+                    </div>
+                    <div class="deals-list">
+                        ${selectedDealHTML}
+                    </div>
+                    <div class="dates-sidebar">
+                        ${datesSidebar}
+                    </div>
+                </div>
+            `;
+            document.getElementById('modal').style.display = 'block';
+            
+            // Store deals globally for selectDeal function
+            window.currentDeals = sorted;
+            window.currentDestination = destination;
+            
+            // Fetch and update destination info
+            const info = await fetchDestinationInfo(destination);
+            
+            const imageHTML = info.image ? 
+                `<img src="${info.image}" alt="${destination.split(',')[0]}" class="dest-image-header">` : '';
+            
+            const highlightsHTML = info.highlights ? `
+                <div class="highlights">
+                    <h4>✨ Top Attractions</h4>
+                    <ul>
+                        ${info.highlights.map(h => `<li>${h}</li>`).join('')}
+                    </ul>
+                </div>
+            ` : '';
+            
+            const infoHTML = `
+                ${imageHTML}
+                <div class="dest-info-content">
+                    <h3>About ${destination.split(',')[0]}</h3>
+                    <p>${info.description}</p>
+                    ${highlightsHTML}
+                    ${info.url ? `<a href="${info.url}" target="_blank" class="wiki-link">Read more on Wikipedia →</a>` : ''}
+                </div>
+            `;
+            
+            document.querySelector('.destination-info').innerHTML = infoHTML;
+        }
+        
+        function selectDeal(destination, dealIndex) {
+            const deal = window.currentDeals[dealIndex];
+            
+            // Update active state on date items
+            document.querySelectorAll('.date-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            document.querySelector(`[data-deal-index="${dealIndex}"]`).classList.add('active');
+            
+            // Update selected deal display
+            const weekendBadge = isWeekendDeal(deal) ? 
+                `<div class="weekend-badge">🎉 ${getWeekendPattern(deal)}</div>` : '';
+            
+            const selectedDealHTML = `
+                <h3>Selected Deal</h3>
+                ${weekendBadge}
+                <div class="deal-dates">${deal.dates}</div>
+                <div class="deal-price">${deal.price}</div>
+                <a href="${deal.url}" target="_blank" rel="noopener noreferrer">
+                    <button class="book-btn">
+                        Search on Google Flights →
+                    </button>
+                </a>
+            `;
+            
+            document.getElementById('selectedDeal').innerHTML = selectedDealHTML;
+        }
+        
+        function closeModal() {
+            document.getElementById('modal').style.display = 'none';
+        }
+        
+        window.onclick = function(e) {
+            if (e.target == document.getElementById('modal')) closeModal();
+        }
+        
+        loadData();
+        setInterval(loadData, 5 * 60 * 1000);
+    </script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+*.log
+
+# Scripts (keep private)
+process-emails-batch.py
+sync-to-beelink.sh
+
+# Environment
+.env
+.DS_Store
+
+# Vercel
+.vercel
