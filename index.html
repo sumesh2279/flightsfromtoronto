@@ -1133,7 +1133,6 @@
             
             const sorted = [...deals].sort((a, b) => a.price_value - b.price_value);
             const cheapestPrice = sorted[0].price_value;
-            const historical = database.historical_prices[destination];
             
             document.getElementById('modalTitle').textContent = 
                 `${data.origin} → ${destination}`;
@@ -1185,17 +1184,7 @@
             const weekendBadge = isWeekendDeal(firstDeal) ? 
                 `<div class="weekend-badge">🎉 ${getWeekendPattern(firstDeal)}</div>` : '';
             
-            let selectedDealHTML = '';
-            if (historical && historical.lowest_ever !== data.cheapest_current) {
-                selectedDealHTML += `
-                    <div class="historical">
-                        <strong>Historical Low:</strong> ${historical.lowest_ever}
-                        (${new Date(historical.date).toLocaleDateString()})
-                    </div>
-                `;
-            }
-            
-            selectedDealHTML += `
+            const selectedDealHTML = `
                 <div class="selected-deal" id="selectedDeal">
                     <h3>Selected Deal</h3>
                     ${weekendBadge}
