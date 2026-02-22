@@ -81,7 +81,6 @@
             font-weight: 600;
         }
         
-        input[type="text"],
         select {
             width: 100%;
             padding: 12px 14px;
@@ -89,24 +88,15 @@
             border-radius: 8px;
             background: white;
             font-size: 0.95em;
+            cursor: pointer;
             transition: all 0.2s;
             color: #495057;
         }
         
-        select {
-            cursor: pointer;
-        }
-        
-        input[type="text"]::placeholder {
-            color: #adb5bd;
-        }
-        
-        input[type="text"]:hover,
         select:hover {
             border-color: #4a90e2;
         }
         
-        input[type="text"]:focus,
         select:focus {
             border-color: #4a90e2;
             box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
@@ -620,10 +610,6 @@
                 margin-bottom: 18px;
             }
             
-            input[type="text"] {
-                font-size: 0.9em;
-            }
-            
             .stats {
                 display: grid;
                 grid-template-columns: repeat(3, 1fr);
@@ -774,8 +760,10 @@
         <div class="main-content">
             <div class="sidebar">
                 <div class="filter-section">
-                    <div class="filter-label">Search Destination</div>
-                    <input type="text" id="destinationSearch" placeholder="e.g., Miami, Calgary..." oninput="filterDeals()">
+                    <div class="filter-label">Select Destination</div>
+                    <select id="destinationFilter" onchange="filterDeals()">
+                        <option value="">All Destinations</option>
+                    </select>
                 </div>
                 
                 <div class="filter-section">
@@ -911,6 +899,7 @@
                 const response = await fetch('deals-database.json');
                 database = await response.json();
                 initMap();
+                populateDestinationFilter();
                 populateMonthFilter();
                 filterDeals();
             } catch (error) {
@@ -927,6 +916,18 @@
                 attribution: '© OpenStreetMap, © CartoDB',
                 maxZoom: 19
             }).addTo(map);
+        }
+        
+        function populateDestinationFilter() {
+            const destinations = Object.keys(database.destinations).sort();
+            const select = document.getElementById('destinationFilter');
+            
+            destinations.forEach(dest => {
+                const option = document.createElement('option');
+                option.value = dest;
+                option.textContent = dest;
+                select.appendChild(option);
+            });
         }
         
         function populateMonthFilter() {
@@ -983,15 +984,15 @@
         }
         
         function filterDeals() {
-            const searchQuery = document.getElementById('destinationSearch').value.toLowerCase().trim();
+            const selectedDestination = document.getElementById('destinationFilter').value;
             const selectedMonth = document.getElementById('monthFilter').value;
             const tripType = document.getElementById('tripType').value;
             const sortBy = document.getElementById('sortBy').value;
             
             let filtered = Object.entries(database.destinations)
                 .map(([name, data]) => {
-                    // Filter by destination name
-                    if (searchQuery && !name.toLowerCase().includes(searchQuery)) {
+                    // Filter by destination
+                    if (selectedDestination && name !== selectedDestination) {
                         return null;
                     }
                     
