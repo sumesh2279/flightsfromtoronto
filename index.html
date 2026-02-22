@@ -1190,10 +1190,13 @@
                     
                     const hasBadges = isCheapest || isWeekend;
                     
+                    // Find correct index in sorted deals array
+                    const dealIndex = sorted.indexOf(deal);
+                    
                     datesSidebar += `
-                        <div class="date-item ${idx === 0 && month === Object.keys(dealsByMonth)[0] ? 'active' : ''}" 
-                             onclick="selectDeal('${destination}', ${deals.indexOf(deal)})"
-                             data-deal-index="${deals.indexOf(deal)}">
+                        <div class="date-item ${dealIndex === 0 ? 'active' : ''}" 
+                             onclick="selectDeal('${destination.replace(/'/g, "\\'")}', ${dealIndex})"
+                             data-deal-index="${dealIndex}">
                             <div style="flex: 1;">
                                 <div class="date-text">${deal.dates.replace(' – ', '\n')}</div>
                                 ${hasBadges ? badges : ''}

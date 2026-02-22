@@ -409,13 +409,7 @@
           "depart_date": "2026-03-26",
           "return_date": "2026-04-01",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Canc%C3%BAn on 2026-03-26 returning 2026-04-01"
-        }
-      ]
-    },
-    "Canc\u00fan, Cozumel": {
-      "origin": "Toronto",
-      "cheapest_current": "CA$289",
-      "deals": [
+        },
         {
           "dates": "Thu, Mar 26 \u2013 Thu, Apr 2",
           "price": "CA$360",
@@ -583,219 +577,7 @@
           "depart_date": "2026-04-16",
           "return_date": "2026-04-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-04-16 returning 2026-04-23"
-        }
-      ]
-    },
-    "Montego Bay": {
-      "origin": "Toronto",
-      "cheapest_current": "CA$383",
-      "deals": [
-        {
-          "dates": "Sat, Mar 7 \u2013 Sat, Mar 14",
-          "price": "CA$587",
-          "price_value": 587,
-          "depart_date": "2026-03-07",
-          "return_date": "2026-03-14",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-07 returning 2026-03-14"
         },
-        {
-          "dates": "Sun, Mar 8 \u2013 Mon, Mar 16",
-          "price": "CA$449",
-          "price_value": 449,
-          "depart_date": "2026-03-08",
-          "return_date": "2026-03-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-08 returning 2026-03-16"
-        },
-        {
-          "dates": "Mon, Mar 23 \u2013 Tue, Mar 31",
-          "price": "CA$449",
-          "price_value": 449,
-          "depart_date": "2026-03-23",
-          "return_date": "2026-03-31",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-23 returning 2026-03-31"
-        },
-        {
-          "dates": "Mon, Mar 16 \u2013 Tue, Mar 24",
-          "price": "CA$449",
-          "price_value": 449,
-          "depart_date": "2026-03-16",
-          "return_date": "2026-03-24",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-16 returning 2026-03-24"
-        },
-        {
-          "dates": "Sun, Apr 19 \u2013 Sun, Apr 26",
-          "price": "CA$383",
-          "price_value": 383,
-          "depart_date": "2026-04-19",
-          "return_date": "2026-04-26",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-19 returning 2026-04-26"
-        },
-        {
-          "dates": "Sun, Apr 12 \u2013 Sat, Apr 18",
-          "price": "CA$427",
-          "price_value": 427,
-          "depart_date": "2026-04-12",
-          "return_date": "2026-04-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-12 returning 2026-04-18"
-        },
-        {
-          "dates": "Sun, Apr 5 \u2013 Sat, Apr 11",
-          "price": "CA$433",
-          "price_value": 433,
-          "depart_date": "2026-04-05",
-          "return_date": "2026-04-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-05 returning 2026-04-11"
-        },
-        {
-          "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
-          "price": "CA$430",
-          "price_value": 430,
-          "depart_date": "2026-07-02",
-          "return_date": "2026-07-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-02 returning 2026-07-08"
-        },
-        {
-          "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
-          "price": "CA$430",
-          "price_value": 430,
-          "depart_date": "2026-07-09",
-          "return_date": "2026-07-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-09 returning 2026-07-15"
-        },
-        {
-          "dates": "Thu, Jul 16 \u2013 Wed, Jul 22",
-          "price": "CA$430",
-          "price_value": 430,
-          "depart_date": "2026-07-16",
-          "return_date": "2026-07-22",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-16 returning 2026-07-22"
-        },
-        {
-          "dates": "Mon, Aug 24 \u2013 Sun, Aug 30",
-          "price": "CA$466",
-          "price_value": 466,
-          "depart_date": "2026-08-24",
-          "return_date": "2026-08-30",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-08-24 returning 2026-08-30"
-        },
-        {
-          "dates": "Thu, Aug 27 \u2013 Wed, Sep 2",
-          "price": "CA$466",
-          "price_value": 466,
-          "depart_date": "2026-08-27",
-          "return_date": "2026-09-02",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-08-27 returning 2026-09-02"
-        },
-        {
-          "dates": "Sat, Aug 1 \u2013 Fri, Aug 7",
-          "price": "CA$491",
-          "price_value": 491,
-          "depart_date": "2026-08-01",
-          "return_date": "2026-08-07",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-08-01 returning 2026-08-07"
-        },
-        {
-          "dates": "Mon, Jun 1 \u2013 Sun, Jun 7",
-          "price": "CA$384",
-          "price_value": 384,
-          "depart_date": "2026-06-01",
-          "return_date": "2026-06-07",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-06-01 returning 2026-06-07"
-        },
-        {
-          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
-          "price": "CA$384",
-          "price_value": 384,
-          "depart_date": "2026-06-04",
-          "return_date": "2026-06-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-06-04 returning 2026-06-10"
-        },
-        {
-          "dates": "Thu, Jun 11 \u2013 Wed, Jun 17",
-          "price": "CA$384",
-          "price_value": 384,
-          "depart_date": "2026-06-11",
-          "return_date": "2026-06-17",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-06-11 returning 2026-06-17"
-        },
-        {
-          "dates": "Sat, Mar 21 \u2013 Sat, Mar 28",
-          "price": "CA$418",
-          "price_value": 418,
-          "depart_date": "2026-03-21",
-          "return_date": "2026-03-28",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-21 returning 2026-03-28"
-        },
-        {
-          "dates": "Mon, Mar 9 \u2013 Sun, Mar 15",
-          "price": "CA$429",
-          "price_value": 429,
-          "depart_date": "2026-03-09",
-          "return_date": "2026-03-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-09 returning 2026-03-15"
-        },
-        {
-          "dates": "Mon, Mar 16 \u2013 Wed, Mar 25",
-          "price": "CA$429",
-          "price_value": 429,
-          "depart_date": "2026-03-16",
-          "return_date": "2026-03-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-16 returning 2026-03-25"
-        },
-        {
-          "dates": "Mon, Apr 27 \u2013 Tue, May 5",
-          "price": "CA$457",
-          "price_value": 457,
-          "depart_date": "2026-04-27",
-          "return_date": "2026-05-05",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-27 returning 2026-05-05"
-        },
-        {
-          "dates": "Sat, Apr 11 \u2013 Sat, Apr 18",
-          "price": "CA$421",
-          "price_value": 421,
-          "depart_date": "2026-04-11",
-          "return_date": "2026-04-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-11 returning 2026-04-18"
-        },
-        {
-          "dates": "Sat, Apr 25 \u2013 Fri, May 1",
-          "price": "CA$421",
-          "price_value": 421,
-          "depart_date": "2026-04-25",
-          "return_date": "2026-05-01",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-25 returning 2026-05-01"
-        },
-        {
-          "dates": "Fri, Apr 17 \u2013 Sat, Apr 25",
-          "price": "CA$421",
-          "price_value": 421,
-          "depart_date": "2026-04-17",
-          "return_date": "2026-04-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-17 returning 2026-04-25"
-        },
-        {
-          "dates": "Fri, Jul 17 \u2013 Thu, Jul 23",
-          "price": "CA$597",
-          "price_value": 597,
-          "depart_date": "2026-07-17",
-          "return_date": "2026-07-23",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-17 returning 2026-07-23"
-        },
-        {
-          "dates": "Thu, Jul 23 \u2013 Wed, Jul 29",
-          "price": "CA$597",
-          "price_value": 597,
-          "depart_date": "2026-07-23",
-          "return_date": "2026-07-29",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-23 returning 2026-07-29"
-        }
-      ]
-    },
-    "Canc\u00fan, Tulum": {
-      "origin": "Toronto",
-      "cheapest_current": "CA$289",
-      "deals": [
         {
           "dates": "Thu, Mar 26 \u2013 Thu, Apr 2",
           "price": "CA$360",
@@ -1019,6 +801,212 @@
           "depart_date": "2026-04-09",
           "return_date": "2026-04-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Tulum on 2026-04-09 returning 2026-04-16"
+        }
+      ]
+    },
+    "Montego Bay": {
+      "origin": "Toronto",
+      "cheapest_current": "CA$383",
+      "deals": [
+        {
+          "dates": "Sat, Mar 7 \u2013 Sat, Mar 14",
+          "price": "CA$587",
+          "price_value": 587,
+          "depart_date": "2026-03-07",
+          "return_date": "2026-03-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-07 returning 2026-03-14"
+        },
+        {
+          "dates": "Sun, Mar 8 \u2013 Mon, Mar 16",
+          "price": "CA$449",
+          "price_value": 449,
+          "depart_date": "2026-03-08",
+          "return_date": "2026-03-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-08 returning 2026-03-16"
+        },
+        {
+          "dates": "Mon, Mar 23 \u2013 Tue, Mar 31",
+          "price": "CA$449",
+          "price_value": 449,
+          "depart_date": "2026-03-23",
+          "return_date": "2026-03-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-23 returning 2026-03-31"
+        },
+        {
+          "dates": "Mon, Mar 16 \u2013 Tue, Mar 24",
+          "price": "CA$449",
+          "price_value": 449,
+          "depart_date": "2026-03-16",
+          "return_date": "2026-03-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-16 returning 2026-03-24"
+        },
+        {
+          "dates": "Sun, Apr 19 \u2013 Sun, Apr 26",
+          "price": "CA$383",
+          "price_value": 383,
+          "depart_date": "2026-04-19",
+          "return_date": "2026-04-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-19 returning 2026-04-26"
+        },
+        {
+          "dates": "Sun, Apr 12 \u2013 Sat, Apr 18",
+          "price": "CA$427",
+          "price_value": 427,
+          "depart_date": "2026-04-12",
+          "return_date": "2026-04-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-12 returning 2026-04-18"
+        },
+        {
+          "dates": "Sun, Apr 5 \u2013 Sat, Apr 11",
+          "price": "CA$433",
+          "price_value": 433,
+          "depart_date": "2026-04-05",
+          "return_date": "2026-04-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-05 returning 2026-04-11"
+        },
+        {
+          "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
+          "price": "CA$430",
+          "price_value": 430,
+          "depart_date": "2026-07-02",
+          "return_date": "2026-07-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-02 returning 2026-07-08"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
+          "price": "CA$430",
+          "price_value": 430,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-09 returning 2026-07-15"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Wed, Jul 22",
+          "price": "CA$430",
+          "price_value": 430,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-16 returning 2026-07-22"
+        },
+        {
+          "dates": "Mon, Aug 24 \u2013 Sun, Aug 30",
+          "price": "CA$466",
+          "price_value": 466,
+          "depart_date": "2026-08-24",
+          "return_date": "2026-08-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-08-24 returning 2026-08-30"
+        },
+        {
+          "dates": "Thu, Aug 27 \u2013 Wed, Sep 2",
+          "price": "CA$466",
+          "price_value": 466,
+          "depart_date": "2026-08-27",
+          "return_date": "2026-09-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-08-27 returning 2026-09-02"
+        },
+        {
+          "dates": "Sat, Aug 1 \u2013 Fri, Aug 7",
+          "price": "CA$491",
+          "price_value": 491,
+          "depart_date": "2026-08-01",
+          "return_date": "2026-08-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-08-01 returning 2026-08-07"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Sun, Jun 7",
+          "price": "CA$384",
+          "price_value": 384,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-06-01 returning 2026-06-07"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
+          "price": "CA$384",
+          "price_value": 384,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-06-04 returning 2026-06-10"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Wed, Jun 17",
+          "price": "CA$384",
+          "price_value": 384,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-06-11 returning 2026-06-17"
+        },
+        {
+          "dates": "Sat, Mar 21 \u2013 Sat, Mar 28",
+          "price": "CA$418",
+          "price_value": 418,
+          "depart_date": "2026-03-21",
+          "return_date": "2026-03-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-21 returning 2026-03-28"
+        },
+        {
+          "dates": "Mon, Mar 9 \u2013 Sun, Mar 15",
+          "price": "CA$429",
+          "price_value": 429,
+          "depart_date": "2026-03-09",
+          "return_date": "2026-03-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-09 returning 2026-03-15"
+        },
+        {
+          "dates": "Mon, Mar 16 \u2013 Wed, Mar 25",
+          "price": "CA$429",
+          "price_value": 429,
+          "depart_date": "2026-03-16",
+          "return_date": "2026-03-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-03-16 returning 2026-03-25"
+        },
+        {
+          "dates": "Mon, Apr 27 \u2013 Tue, May 5",
+          "price": "CA$457",
+          "price_value": 457,
+          "depart_date": "2026-04-27",
+          "return_date": "2026-05-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-27 returning 2026-05-05"
+        },
+        {
+          "dates": "Sat, Apr 11 \u2013 Sat, Apr 18",
+          "price": "CA$421",
+          "price_value": 421,
+          "depart_date": "2026-04-11",
+          "return_date": "2026-04-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-11 returning 2026-04-18"
+        },
+        {
+          "dates": "Sat, Apr 25 \u2013 Fri, May 1",
+          "price": "CA$421",
+          "price_value": 421,
+          "depart_date": "2026-04-25",
+          "return_date": "2026-05-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-25 returning 2026-05-01"
+        },
+        {
+          "dates": "Fri, Apr 17 \u2013 Sat, Apr 25",
+          "price": "CA$421",
+          "price_value": 421,
+          "depart_date": "2026-04-17",
+          "return_date": "2026-04-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-04-17 returning 2026-04-25"
+        },
+        {
+          "dates": "Fri, Jul 17 \u2013 Thu, Jul 23",
+          "price": "CA$597",
+          "price_value": 597,
+          "depart_date": "2026-07-17",
+          "return_date": "2026-07-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-17 returning 2026-07-23"
+        },
+        {
+          "dates": "Thu, Jul 23 \u2013 Wed, Jul 29",
+          "price": "CA$597",
+          "price_value": 597,
+          "depart_date": "2026-07-23",
+          "return_date": "2026-07-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-23 returning 2026-07-29"
         }
       ]
     },
@@ -1621,132 +1609,6 @@
           "depart_date": "2026-07-16",
           "return_date": "2026-07-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-16 returning 2026-07-23"
-        }
-      ]
-    },
-    "Samana, Santo Domingo": {
-      "origin": "Toronto",
-      "cheapest_current": "CA$376",
-      "deals": [
-        {
-          "dates": "Thu, Apr 16 \u2013 Thu, Apr 23",
-          "price": "CA$376",
-          "price_value": 376,
-          "depart_date": "2026-04-16",
-          "return_date": "2026-04-23",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-16 returning 2026-04-23"
-        },
-        {
-          "dates": "Thu, Apr 23 \u2013 Thu, Apr 30",
-          "price": "CA$376",
-          "price_value": 376,
-          "depart_date": "2026-04-23",
-          "return_date": "2026-04-30",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-23 returning 2026-04-30"
-        },
-        {
-          "dates": "Mon, Jul 13 \u2013 Wed, Jul 22",
-          "price": "CA$576",
-          "price_value": 576,
-          "depart_date": "2026-07-13",
-          "return_date": "2026-07-22",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-07-13 returning 2026-07-22"
-        },
-        {
-          "dates": "Sun, Jul 5 \u2013 Sat, Jul 11",
-          "price": "CA$668",
-          "price_value": 668,
-          "depart_date": "2026-07-05",
-          "return_date": "2026-07-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-07-05 returning 2026-07-11"
-        },
-        {
-          "dates": "Fri, Jul 24 \u2013 Thu, Jul 30",
-          "price": "CA$675",
-          "price_value": 675,
-          "depart_date": "2026-07-24",
-          "return_date": "2026-07-30",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-07-24 returning 2026-07-30"
-        },
-        {
-          "dates": "Mon, Mar 16 \u2013 Tue, Mar 24",
-          "price": "CA$670",
-          "price_value": 670,
-          "depart_date": "2026-03-16",
-          "return_date": "2026-03-24",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-03-16 returning 2026-03-24"
-        },
-        {
-          "dates": "Thu, Apr 9 \u2013 Thu, Apr 16",
-          "price": "CA$411",
-          "price_value": 411,
-          "depart_date": "2026-04-09",
-          "return_date": "2026-04-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-09 returning 2026-04-16"
-        },
-        {
-          "dates": "Sun, Apr 5 \u2013 Sun, Apr 12",
-          "price": "CA$414",
-          "price_value": 414,
-          "depart_date": "2026-04-05",
-          "return_date": "2026-04-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-05 returning 2026-04-12"
-        },
-        {
-          "dates": "Thu, Apr 23 \u2013 Wed, Apr 29",
-          "price": "CA$412",
-          "price_value": 412,
-          "depart_date": "2026-04-23",
-          "return_date": "2026-04-29",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-23 returning 2026-04-29"
-        },
-        {
-          "dates": "Sun, Apr 19 \u2013 Mon, Apr 27",
-          "price": "CA$412",
-          "price_value": 412,
-          "depart_date": "2026-04-19",
-          "return_date": "2026-04-27",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-19 returning 2026-04-27"
-        },
-        {
-          "dates": "Sun, Mar 29 \u2013 Sun, Apr 5",
-          "price": "CA$417",
-          "price_value": 417,
-          "depart_date": "2026-03-29",
-          "return_date": "2026-04-05",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-03-29 returning 2026-04-05"
-        },
-        {
-          "dates": "Sun, Mar 22 \u2013 Sun, Mar 29",
-          "price": "CA$464",
-          "price_value": 464,
-          "depart_date": "2026-03-22",
-          "return_date": "2026-03-29",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-03-22 returning 2026-03-29"
-        },
-        {
-          "dates": "Thu, Mar 5 \u2013 Wed, Mar 11",
-          "price": "CA$506",
-          "price_value": 506,
-          "depart_date": "2026-03-05",
-          "return_date": "2026-03-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-03-05 returning 2026-03-11"
-        },
-        {
-          "dates": "Sun, Feb 22 \u2013 Sun, Mar 1",
-          "price": "CA$501",
-          "price_value": 501,
-          "depart_date": "2026-02-22",
-          "return_date": "2026-03-01",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-02-22 returning 2026-03-01"
-        },
-        {
-          "dates": "Sun, Apr 12 \u2013 Sun, Apr 19",
-          "price": "CA$412",
-          "price_value": 412,
-          "depart_date": "2026-04-12",
-          "return_date": "2026-04-19",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-12 returning 2026-04-19"
         }
       ]
     },
@@ -4086,316 +3948,6 @@
         }
       ]
     },
-    "Fort Lauderdale, Miami": {
-      "origin": "Toronto",
-      "cheapest_current": "CA$145",
-      "deals": [
-        {
-          "dates": "Thu, Mar 19 \u2013 Thu, Mar 26",
-          "price": "CA$194",
-          "price_value": 194,
-          "depart_date": "2026-03-19",
-          "return_date": "2026-03-26",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-03-19 returning 2026-03-26"
-        },
-        {
-          "dates": "Thu, Mar 26 \u2013 Thu, Apr 2",
-          "price": "CA$209",
-          "price_value": 209,
-          "depart_date": "2026-03-26",
-          "return_date": "2026-04-02",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-03-26 returning 2026-04-02"
-        },
-        {
-          "dates": "Sat, Mar 7 \u2013 Fri, Mar 13",
-          "price": "CA$210",
-          "price_value": 210,
-          "depart_date": "2026-03-07",
-          "return_date": "2026-03-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-03-07 returning 2026-03-13"
-        },
-        {
-          "dates": "Sun, Jul 5 \u2013 Tue, Jul 14",
-          "price": "CA$306",
-          "price_value": 306,
-          "depart_date": "2026-07-05",
-          "return_date": "2026-07-14",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-05 returning 2026-07-14"
-        },
-        {
-          "dates": "Sun, Aug 2 \u2013 Tue, Aug 11",
-          "price": "CA$210",
-          "price_value": 210,
-          "depart_date": "2026-08-02",
-          "return_date": "2026-08-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-02 returning 2026-08-11"
-        },
-        {
-          "dates": "Thu, Aug 13 \u2013 Thu, Aug 20",
-          "price": "CA$265",
-          "price_value": 265,
-          "depart_date": "2026-08-13",
-          "return_date": "2026-08-20",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-13 returning 2026-08-20"
-        },
-        {
-          "dates": "Sat, Aug 8 \u2013 Sat, Aug 15",
-          "price": "CA$306",
-          "price_value": 306,
-          "depart_date": "2026-08-08",
-          "return_date": "2026-08-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-08 returning 2026-08-15"
-        },
-        {
-          "dates": "Sun, May 31 \u2013 Tue, Jun 9",
-          "price": "CA$171",
-          "price_value": 171,
-          "depart_date": "2026-05-31",
-          "return_date": "2026-06-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-05-31 returning 2026-06-09"
-        },
-        {
-          "dates": "Sun, May 10 \u2013 Sat, May 16",
-          "price": "CA$252",
-          "price_value": 252,
-          "depart_date": "2026-05-10",
-          "return_date": "2026-05-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-05-10 returning 2026-05-16"
-        },
-        {
-          "dates": "Sun, Aug 2 \u2013 Sun, Aug 9",
-          "price": "CA$267",
-          "price_value": 267,
-          "depart_date": "2026-08-02",
-          "return_date": "2026-08-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-02 returning 2026-08-09"
-        },
-        {
-          "dates": "Thu, Aug 20 \u2013 Thu, Aug 27",
-          "price": "CA$267",
-          "price_value": 267,
-          "depart_date": "2026-08-20",
-          "return_date": "2026-08-27",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-20 returning 2026-08-27"
-        },
-        {
-          "dates": "Mon, Mar 23 \u2013 Wed, Apr 1",
-          "price": "CA$145",
-          "price_value": 145,
-          "depart_date": "2026-03-23",
-          "return_date": "2026-04-01",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-03-23 returning 2026-04-01"
-        },
-        {
-          "dates": "Mon, Mar 30 \u2013 Wed, Apr 8",
-          "price": "CA$186",
-          "price_value": 186,
-          "depart_date": "2026-03-30",
-          "return_date": "2026-04-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-03-30 returning 2026-04-08"
-        },
-        {
-          "dates": "Sat, Mar 21 \u2013 Fri, Mar 27",
-          "price": "CA$228",
-          "price_value": 228,
-          "depart_date": "2026-03-21",
-          "return_date": "2026-03-27",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-03-21 returning 2026-03-27"
-        },
-        {
-          "dates": "Mon, Apr 20 \u2013 Wed, Apr 29",
-          "price": "CA$146",
-          "price_value": 146,
-          "depart_date": "2026-04-20",
-          "return_date": "2026-04-29",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-04-20 returning 2026-04-29"
-        },
-        {
-          "dates": "Thu, Apr 9 \u2013 Wed, Apr 15",
-          "price": "CA$171",
-          "price_value": 171,
-          "depart_date": "2026-04-09",
-          "return_date": "2026-04-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-04-09 returning 2026-04-15"
-        },
-        {
-          "dates": "Sat, Jun 13 \u2013 Sun, Jun 21",
-          "price": "CA$171",
-          "price_value": 171,
-          "depart_date": "2026-06-13",
-          "return_date": "2026-06-21",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-13 returning 2026-06-21"
-        },
-        {
-          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
-          "price": "CA$314",
-          "price_value": 314,
-          "depart_date": "2026-06-01",
-          "return_date": "2026-06-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-01 returning 2026-06-09"
-        },
-        {
-          "dates": "Mon, Apr 13 \u2013 Wed, Apr 22",
-          "price": "CA$146",
-          "price_value": 146,
-          "depart_date": "2026-04-13",
-          "return_date": "2026-04-22",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-04-13 returning 2026-04-22"
-        },
-        {
-          "dates": "Mon, Apr 6 \u2013 Wed, Apr 15",
-          "price": "CA$156",
-          "price_value": 156,
-          "depart_date": "2026-04-06",
-          "return_date": "2026-04-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-04-06 returning 2026-04-15"
-        },
-        {
-          "dates": "Sun, Jul 19 \u2013 Tue, Jul 28",
-          "price": "CA$196",
-          "price_value": 196,
-          "depart_date": "2026-07-19",
-          "return_date": "2026-07-28",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-19 returning 2026-07-28"
-        },
-        {
-          "dates": "Sun, Jul 12 \u2013 Tue, Jul 21",
-          "price": "CA$226",
-          "price_value": 226,
-          "depart_date": "2026-07-12",
-          "return_date": "2026-07-21",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-12 returning 2026-07-21"
-        },
-        {
-          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
-          "price": "CA$186",
-          "price_value": 186,
-          "depart_date": "2026-06-04",
-          "return_date": "2026-06-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-04 returning 2026-06-11"
-        },
-        {
-          "dates": "Thu, Jun 11 \u2013 Thu, Jun 18",
-          "price": "CA$227",
-          "price_value": 227,
-          "depart_date": "2026-06-11",
-          "return_date": "2026-06-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-11 returning 2026-06-18"
-        },
-        {
-          "dates": "Sun, Jun 28 \u2013 Tue, Jul 7",
-          "price": "CA$252",
-          "price_value": 252,
-          "depart_date": "2026-06-28",
-          "return_date": "2026-07-07",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-28 returning 2026-07-07"
-        },
-        {
-          "dates": "Sat, May 23 \u2013 Sat, May 30",
-          "price": "CA$197",
-          "price_value": 197,
-          "depart_date": "2026-05-23",
-          "return_date": "2026-05-30",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-05-23 returning 2026-05-30"
-        },
-        {
-          "dates": "Thu, May 7 \u2013 Thu, May 14",
-          "price": "CA$227",
-          "price_value": 227,
-          "depart_date": "2026-05-07",
-          "return_date": "2026-05-14",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-05-07 returning 2026-05-14"
-        },
-        {
-          "dates": "Sat, May 30 \u2013 Sat, Jun 6",
-          "price": "CA$227",
-          "price_value": 227,
-          "depart_date": "2026-05-30",
-          "return_date": "2026-06-06",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-05-30 returning 2026-06-06"
-        },
-        {
-          "dates": "Mon, Mar 2 \u2013 Wed, Mar 11",
-          "price": "CA$156",
-          "price_value": 156,
-          "depart_date": "2026-03-02",
-          "return_date": "2026-03-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-03-02 returning 2026-03-11"
-        },
-        {
-          "dates": "Thu, Mar 5 \u2013 Wed, Mar 11",
-          "price": "CA$196",
-          "price_value": 196,
-          "depart_date": "2026-03-05",
-          "return_date": "2026-03-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-03-05 returning 2026-03-11"
-        },
-        {
-          "dates": "Thu, Mar 19 \u2013 Wed, Mar 25",
-          "price": "CA$228",
-          "price_value": 228,
-          "depart_date": "2026-03-19",
-          "return_date": "2026-03-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-03-19 returning 2026-03-25"
-        },
-        {
-          "dates": "Mon, Feb 23 \u2013 Wed, Mar 4",
-          "price": "CA$187",
-          "price_value": 187,
-          "depart_date": "2026-02-23",
-          "return_date": "2026-03-04",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-02-23 returning 2026-03-04"
-        },
-        {
-          "dates": "Thu, Feb 26 \u2013 Thu, Mar 5",
-          "price": "CA$171",
-          "price_value": 171,
-          "depart_date": "2026-02-26",
-          "return_date": "2026-03-05",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-02-26 returning 2026-03-05"
-        },
-        {
-          "dates": "Thu, Jun 11 \u2013 Sat, Jun 20",
-          "price": "CA$239",
-          "price_value": 239,
-          "depart_date": "2026-06-11",
-          "return_date": "2026-06-20",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-11 returning 2026-06-20"
-        },
-        {
-          "dates": "Mon, Jun 29 \u2013 Tue, Jul 7",
-          "price": "CA$296",
-          "price_value": 296,
-          "depart_date": "2026-06-29",
-          "return_date": "2026-07-07",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-29 returning 2026-07-07"
-        },
-        {
-          "dates": "Sun, Jul 26 \u2013 Tue, Aug 4",
-          "price": "CA$187",
-          "price_value": 187,
-          "depart_date": "2026-07-26",
-          "return_date": "2026-08-04",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-26 returning 2026-08-04"
-        },
-        {
-          "dates": "Thu, Jul 30 \u2013 Thu, Aug 6",
-          "price": "CA$187",
-          "price_value": 187,
-          "depart_date": "2026-07-30",
-          "return_date": "2026-08-06",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-30 returning 2026-08-06"
-        },
-        {
-          "dates": "Sun, Jul 5 \u2013 Sat, Jul 11",
-          "price": "CA$228",
-          "price_value": 228,
-          "depart_date": "2026-07-05",
-          "return_date": "2026-07-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-05 returning 2026-07-11"
-        }
-      ]
-    },
     "Cura\u00e7ao": {
       "origin": "Toronto",
       "cheapest_current": "CA$334",
@@ -4631,268 +4183,6 @@
           "depart_date": "2026-07-19",
           "return_date": "2026-07-27",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-07-19 returning 2026-07-27"
-        }
-      ]
-    },
-    "Fort Lauderdale, West Palm Beach": {
-      "origin": "Toronto",
-      "cheapest_current": "CA$146",
-      "deals": [
-        {
-          "dates": "Thu, Mar 26 \u2013 Thu, Apr 2",
-          "price": "CA$209",
-          "price_value": 209,
-          "depart_date": "2026-03-26",
-          "return_date": "2026-04-02",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-03-26 returning 2026-04-02"
-        },
-        {
-          "dates": "Sat, Mar 7 \u2013 Fri, Mar 13",
-          "price": "CA$210",
-          "price_value": 210,
-          "depart_date": "2026-03-07",
-          "return_date": "2026-03-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-03-07 returning 2026-03-13"
-        },
-        {
-          "dates": "Thu, Mar 19 \u2013 Thu, Mar 26",
-          "price": "CA$251",
-          "price_value": 251,
-          "depart_date": "2026-03-19",
-          "return_date": "2026-03-26",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-03-19 returning 2026-03-26"
-        },
-        {
-          "dates": "Sun, Aug 2 \u2013 Tue, Aug 11",
-          "price": "CA$210",
-          "price_value": 210,
-          "depart_date": "2026-08-02",
-          "return_date": "2026-08-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-02 returning 2026-08-11"
-        },
-        {
-          "dates": "Thu, Aug 13 \u2013 Thu, Aug 20",
-          "price": "CA$265",
-          "price_value": 265,
-          "depart_date": "2026-08-13",
-          "return_date": "2026-08-20",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-13 returning 2026-08-20"
-        },
-        {
-          "dates": "Sat, Aug 8 \u2013 Sat, Aug 15",
-          "price": "CA$306",
-          "price_value": 306,
-          "depart_date": "2026-08-08",
-          "return_date": "2026-08-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-08 returning 2026-08-15"
-        },
-        {
-          "dates": "Sun, Jul 12 \u2013 Tue, Jul 21",
-          "price": "CA$226",
-          "price_value": 226,
-          "depart_date": "2026-07-12",
-          "return_date": "2026-07-21",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-07-12 returning 2026-07-21"
-        },
-        {
-          "dates": "Sat, Jul 18 \u2013 Sat, Jul 25",
-          "price": "CA$237",
-          "price_value": 237,
-          "depart_date": "2026-07-18",
-          "return_date": "2026-07-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-07-18 returning 2026-07-25"
-        },
-        {
-          "dates": "Sun, Aug 2 \u2013 Sun, Aug 9",
-          "price": "CA$267",
-          "price_value": 267,
-          "depart_date": "2026-08-02",
-          "return_date": "2026-08-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-02 returning 2026-08-09"
-        },
-        {
-          "dates": "Thu, Aug 20 \u2013 Thu, Aug 27",
-          "price": "CA$267",
-          "price_value": 267,
-          "depart_date": "2026-08-20",
-          "return_date": "2026-08-27",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-20 returning 2026-08-27"
-        },
-        {
-          "dates": "Mon, Apr 20 \u2013 Wed, Apr 29",
-          "price": "CA$146",
-          "price_value": 146,
-          "depart_date": "2026-04-20",
-          "return_date": "2026-04-29",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-04-20 returning 2026-04-29"
-        },
-        {
-          "dates": "Mon, Apr 6 \u2013 Wed, Apr 15",
-          "price": "CA$171",
-          "price_value": 171,
-          "depart_date": "2026-04-06",
-          "return_date": "2026-04-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-04-06 returning 2026-04-15"
-        },
-        {
-          "dates": "Thu, Apr 9 \u2013 Wed, Apr 15",
-          "price": "CA$171",
-          "price_value": 171,
-          "depart_date": "2026-04-09",
-          "return_date": "2026-04-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-04-09 returning 2026-04-15"
-        },
-        {
-          "dates": "Sat, Jun 13 \u2013 Sun, Jun 21",
-          "price": "CA$171",
-          "price_value": 171,
-          "depart_date": "2026-06-13",
-          "return_date": "2026-06-21",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-06-13 returning 2026-06-21"
-        },
-        {
-          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
-          "price": "CA$314",
-          "price_value": 314,
-          "depart_date": "2026-06-01",
-          "return_date": "2026-06-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-06-01 returning 2026-06-09"
-        },
-        {
-          "dates": "Thu, Aug 6 \u2013 Thu, Aug 13",
-          "price": "CA$237",
-          "price_value": 237,
-          "depart_date": "2026-08-06",
-          "return_date": "2026-08-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-06 returning 2026-08-13"
-        },
-        {
-          "dates": "Sun, Aug 2 \u2013 Sat, Aug 8",
-          "price": "CA$267",
-          "price_value": 267,
-          "depart_date": "2026-08-02",
-          "return_date": "2026-08-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-02 returning 2026-08-08"
-        },
-        {
-          "dates": "Sun, Jul 19 \u2013 Tue, Jul 28",
-          "price": "CA$196",
-          "price_value": 196,
-          "depart_date": "2026-07-19",
-          "return_date": "2026-07-28",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-07-19 returning 2026-07-28"
-        },
-        {
-          "dates": "Mon, Feb 23 \u2013 Wed, Mar 4",
-          "price": "CA$171",
-          "price_value": 171,
-          "depart_date": "2026-02-23",
-          "return_date": "2026-03-04",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-02-23 returning 2026-03-04"
-        },
-        {
-          "dates": "Sat, Feb 28 \u2013 Fri, Mar 6",
-          "price": "CA$266",
-          "price_value": 266,
-          "depart_date": "2026-02-28",
-          "return_date": "2026-03-06",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-02-28 returning 2026-03-06"
-        },
-        {
-          "dates": "Sat, May 23 \u2013 Sat, May 30",
-          "price": "CA$197",
-          "price_value": 197,
-          "depart_date": "2026-05-23",
-          "return_date": "2026-05-30",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-23 returning 2026-05-30"
-        },
-        {
-          "dates": "Thu, May 7 \u2013 Thu, May 14",
-          "price": "CA$227",
-          "price_value": 227,
-          "depart_date": "2026-05-07",
-          "return_date": "2026-05-14",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-07 returning 2026-05-14"
-        },
-        {
-          "dates": "Sat, May 30 \u2013 Sat, Jun 6",
-          "price": "CA$227",
-          "price_value": 227,
-          "depart_date": "2026-05-30",
-          "return_date": "2026-06-06",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-30 returning 2026-06-06"
-        },
-        {
-          "dates": "Mon, Mar 2 \u2013 Wed, Mar 11",
-          "price": "CA$156",
-          "price_value": 156,
-          "depart_date": "2026-03-02",
-          "return_date": "2026-03-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-03-02 returning 2026-03-11"
-        },
-        {
-          "dates": "Thu, Mar 5 \u2013 Wed, Mar 11",
-          "price": "CA$196",
-          "price_value": 196,
-          "depart_date": "2026-03-05",
-          "return_date": "2026-03-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-03-05 returning 2026-03-11"
-        },
-        {
-          "dates": "Thu, Mar 19 \u2013 Wed, Mar 25",
-          "price": "CA$228",
-          "price_value": 228,
-          "depart_date": "2026-03-19",
-          "return_date": "2026-03-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-03-19 returning 2026-03-25"
-        },
-        {
-          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
-          "price": "CA$197",
-          "price_value": 197,
-          "depart_date": "2026-06-04",
-          "return_date": "2026-06-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-06-04 returning 2026-06-11"
-        },
-        {
-          "dates": "Thu, Jun 11 \u2013 Sat, Jun 20",
-          "price": "CA$239",
-          "price_value": 239,
-          "depart_date": "2026-06-11",
-          "return_date": "2026-06-20",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-06-11 returning 2026-06-20"
-        },
-        {
-          "dates": "Mon, Jun 29 \u2013 Tue, Jul 7",
-          "price": "CA$296",
-          "price_value": 296,
-          "depart_date": "2026-06-29",
-          "return_date": "2026-07-07",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-06-29 returning 2026-07-07"
-        },
-        {
-          "dates": "Sun, Jul 26 \u2013 Tue, Aug 4",
-          "price": "CA$187",
-          "price_value": 187,
-          "depart_date": "2026-07-26",
-          "return_date": "2026-08-04",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-07-26 returning 2026-08-04"
-        },
-        {
-          "dates": "Thu, Jul 30 \u2013 Thu, Aug 6",
-          "price": "CA$187",
-          "price_value": 187,
-          "depart_date": "2026-07-30",
-          "return_date": "2026-08-06",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-07-30 returning 2026-08-06"
-        },
-        {
-          "dates": "Sun, Jul 5 \u2013 Sat, Jul 11",
-          "price": "CA$228",
-          "price_value": 228,
-          "depart_date": "2026-07-05",
-          "return_date": "2026-07-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-07-05 returning 2026-07-11"
         }
       ]
     },
@@ -10178,108 +9468,6 @@
         }
       ]
     },
-    "La Romana, Punta Cana": {
-      "origin": "Toronto",
-      "cheapest_current": "CA$327",
-      "deals": [
-        {
-          "dates": "Sat, May 23 \u2013 Sat, May 30",
-          "price": "CA$376",
-          "price_value": 376,
-          "depart_date": "2026-05-23",
-          "return_date": "2026-05-30",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-05-23 returning 2026-05-30"
-        },
-        {
-          "dates": "Sat, May 30 \u2013 Sat, Jun 6",
-          "price": "CA$418",
-          "price_value": 418,
-          "depart_date": "2026-05-30",
-          "return_date": "2026-06-06",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-05-30 returning 2026-06-06"
-        },
-        {
-          "dates": "Sat, May 9 \u2013 Sat, May 16",
-          "price": "CA$418",
-          "price_value": 418,
-          "depart_date": "2026-05-09",
-          "return_date": "2026-05-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-05-09 returning 2026-05-16"
-        },
-        {
-          "dates": "Mon, Jul 20 \u2013 Tue, Jul 28",
-          "price": "CA$446",
-          "price_value": 446,
-          "depart_date": "2026-07-20",
-          "return_date": "2026-07-28",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-07-20 returning 2026-07-28"
-        },
-        {
-          "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
-          "price": "CA$466",
-          "price_value": 466,
-          "depart_date": "2026-07-02",
-          "return_date": "2026-07-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-07-02 returning 2026-07-08"
-        },
-        {
-          "dates": "Thu, Jul 9 \u2013 Thu, Jul 16",
-          "price": "CA$466",
-          "price_value": 466,
-          "depart_date": "2026-07-09",
-          "return_date": "2026-07-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-07-09 returning 2026-07-16"
-        },
-        {
-          "dates": "Fri, Apr 10 \u2013 Sat, Apr 18",
-          "price": "CA$346",
-          "price_value": 346,
-          "depart_date": "2026-04-10",
-          "return_date": "2026-04-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-04-10 returning 2026-04-18"
-        },
-        {
-          "dates": "Fri, Apr 17 \u2013 Thu, Apr 23",
-          "price": "CA$359",
-          "price_value": 359,
-          "depart_date": "2026-04-17",
-          "return_date": "2026-04-23",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-04-17 returning 2026-04-23"
-        },
-        {
-          "dates": "Fri, Feb 27 \u2013 Thu, Mar 5",
-          "price": "CA$359",
-          "price_value": 359,
-          "depart_date": "2026-02-27",
-          "return_date": "2026-03-05",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-02-27 returning 2026-03-05"
-        },
-        {
-          "dates": "Fri, Apr 10 \u2013 Thu, Apr 16",
-          "price": "CA$327",
-          "price_value": 327,
-          "depart_date": "2026-04-10",
-          "return_date": "2026-04-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-04-10 returning 2026-04-16"
-        },
-        {
-          "dates": "Sat, Apr 18 \u2013 Sat, Apr 25",
-          "price": "CA$327",
-          "price_value": 327,
-          "depart_date": "2026-04-18",
-          "return_date": "2026-04-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-04-18 returning 2026-04-25"
-        },
-        {
-          "dates": "Mon, Apr 6 \u2013 Tue, Apr 14",
-          "price": "CA$390",
-          "price_value": 390,
-          "depart_date": "2026-04-06",
-          "return_date": "2026-04-14",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-04-06 returning 2026-04-14"
-        }
-      ]
-    },
     "Cairo": {
       "origin": "Toronto",
       "cheapest_current": "CA$1,097",
@@ -11257,196 +10445,6 @@
           "depart_date": "2026-07-24",
           "return_date": "2026-07-30",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-07-24 returning 2026-07-30"
-        }
-      ]
-    },
-    "Daytona Beach, Orlando": {
-      "origin": "Toronto",
-      "cheapest_current": "CA$163",
-      "deals": [
-        {
-          "dates": "Fri, Mar 6 \u2013 Thu, Mar 12",
-          "price": "CA$163",
-          "price_value": 163,
-          "depart_date": "2026-03-06",
-          "return_date": "2026-03-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-03-06 returning 2026-03-12"
-        },
-        {
-          "dates": "Fri, Mar 27 \u2013 Thu, Apr 2",
-          "price": "CA$163",
-          "price_value": 163,
-          "depart_date": "2026-03-27",
-          "return_date": "2026-04-02",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-03-27 returning 2026-04-02"
-        },
-        {
-          "dates": "Mon, Mar 2 \u2013 Wed, Mar 11",
-          "price": "CA$241",
-          "price_value": 241,
-          "depart_date": "2026-03-02",
-          "return_date": "2026-03-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-03-02 returning 2026-03-11"
-        },
-        {
-          "dates": "Sun, Mar 22 \u2013 Tue, Mar 31",
-          "price": "CA$189",
-          "price_value": 189,
-          "depart_date": "2026-03-22",
-          "return_date": "2026-03-31",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-03-22 returning 2026-03-31"
-        },
-        {
-          "dates": "Mon, Mar 9 \u2013 Mon, Mar 16",
-          "price": "CA$239",
-          "price_value": 239,
-          "depart_date": "2026-03-09",
-          "return_date": "2026-03-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-03-09 returning 2026-03-16"
-        },
-        {
-          "dates": "Mon, Jun 1 \u2013 Mon, Jun 8",
-          "price": "CA$291",
-          "price_value": 291,
-          "depart_date": "2026-06-01",
-          "return_date": "2026-06-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-06-01 returning 2026-06-08"
-        },
-        {
-          "dates": "Sun, Jun 7 \u2013 Mon, Jun 15",
-          "price": "CA$361",
-          "price_value": 361,
-          "depart_date": "2026-06-07",
-          "return_date": "2026-06-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-06-07 returning 2026-06-15"
-        },
-        {
-          "dates": "Mon, Jun 15 \u2013 Tue, Jun 23",
-          "price": "CA$420",
-          "price_value": 420,
-          "depart_date": "2026-06-15",
-          "return_date": "2026-06-23",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-06-15 returning 2026-06-23"
-        },
-        {
-          "dates": "Mon, May 4 \u2013 Sun, May 10",
-          "price": "CA$265",
-          "price_value": 265,
-          "depart_date": "2026-05-04",
-          "return_date": "2026-05-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-05-04 returning 2026-05-10"
-        },
-        {
-          "dates": "Mon, May 11 \u2013 Sun, May 17",
-          "price": "CA$273",
-          "price_value": 273,
-          "depart_date": "2026-05-11",
-          "return_date": "2026-05-17",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-05-11 returning 2026-05-17"
-        },
-        {
-          "dates": "Mon, May 18 \u2013 Sun, May 24",
-          "price": "CA$328",
-          "price_value": 328,
-          "depart_date": "2026-05-18",
-          "return_date": "2026-05-24",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-05-18 returning 2026-05-24"
-        },
-        {
-          "dates": "Mon, May 4 \u2013 Tue, May 12",
-          "price": "CA$318",
-          "price_value": 318,
-          "depart_date": "2026-05-04",
-          "return_date": "2026-05-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-05-04 returning 2026-05-12"
-        },
-        {
-          "dates": "Fri, May 29 \u2013 Thu, Jun 4",
-          "price": "CA$363",
-          "price_value": 363,
-          "depart_date": "2026-05-29",
-          "return_date": "2026-06-04",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-05-29 returning 2026-06-04"
-        },
-        {
-          "dates": "Mon, Mar 9 \u2013 Tue, Mar 17",
-          "price": "CA$173",
-          "price_value": 173,
-          "depart_date": "2026-03-09",
-          "return_date": "2026-03-17",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-03-09 returning 2026-03-17"
-        },
-        {
-          "dates": "Thu, Mar 19 \u2013 Thu, Mar 26",
-          "price": "CA$224",
-          "price_value": 224,
-          "depart_date": "2026-03-19",
-          "return_date": "2026-03-26",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-03-19 returning 2026-03-26"
-        },
-        {
-          "dates": "Mon, Mar 2 \u2013 Tue, Mar 10",
-          "price": "CA$247",
-          "price_value": 247,
-          "depart_date": "2026-03-02",
-          "return_date": "2026-03-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-03-02 returning 2026-03-10"
-        },
-        {
-          "dates": "Mon, Apr 13 \u2013 Wed, Apr 22",
-          "price": "CA$189",
-          "price_value": 189,
-          "depart_date": "2026-04-13",
-          "return_date": "2026-04-22",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-04-13 returning 2026-04-22"
-        },
-        {
-          "dates": "Sun, Apr 5 \u2013 Mon, Apr 13",
-          "price": "CA$210",
-          "price_value": 210,
-          "depart_date": "2026-04-05",
-          "return_date": "2026-04-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-04-05 returning 2026-04-13"
-        },
-        {
-          "dates": "Mon, Apr 20 \u2013 Mon, Apr 27",
-          "price": "CA$225",
-          "price_value": 225,
-          "depart_date": "2026-04-20",
-          "return_date": "2026-04-27",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-04-20 returning 2026-04-27"
-        },
-        {
-          "dates": "Mon, Feb 23 \u2013 Wed, Mar 4",
-          "price": "CA$211",
-          "price_value": 211,
-          "depart_date": "2026-02-23",
-          "return_date": "2026-03-04",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-02-23 returning 2026-03-04"
-        },
-        {
-          "dates": "Thu, Mar 5 \u2013 Thu, Mar 12",
-          "price": "CA$211",
-          "price_value": 211,
-          "depart_date": "2026-03-05",
-          "return_date": "2026-03-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-03-05 returning 2026-03-12"
-        },
-        {
-          "dates": "Thu, Mar 19 \u2013 Wed, Mar 25",
-          "price": "CA$225",
-          "price_value": 225,
-          "depart_date": "2026-03-19",
-          "return_date": "2026-03-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-03-19 returning 2026-03-25"
-        },
-        {
-          "dates": "Mon, Feb 23 \u2013 Mon, Mar 2",
-          "price": "CA$234",
-          "price_value": 234,
-          "depart_date": "2026-02-23",
-          "return_date": "2026-03-02",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-02-23 returning 2026-03-02"
         }
       ]
     },
@@ -13002,212 +12000,6 @@
         }
       ]
     },
-    "Sarasota, Tampa": {
-      "origin": "Toronto",
-      "cheapest_current": "CA$247",
-      "deals": [
-        {
-          "dates": "Mon, Jul 13 \u2013 Sun, Jul 19",
-          "price": "CA$320",
-          "price_value": 320,
-          "depart_date": "2026-07-13",
-          "return_date": "2026-07-19",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-07-13 returning 2026-07-19"
-        },
-        {
-          "dates": "Mon, Jul 20 \u2013 Sun, Jul 26",
-          "price": "CA$352",
-          "price_value": 352,
-          "depart_date": "2026-07-20",
-          "return_date": "2026-07-26",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-07-20 returning 2026-07-26"
-        },
-        {
-          "dates": "Mon, Jul 27 \u2013 Sun, Aug 2",
-          "price": "CA$352",
-          "price_value": 352,
-          "depart_date": "2026-07-27",
-          "return_date": "2026-08-02",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-07-27 returning 2026-08-02"
-        },
-        {
-          "dates": "Sun, May 17 \u2013 Mon, May 25",
-          "price": "CA$273",
-          "price_value": 273,
-          "depart_date": "2026-05-17",
-          "return_date": "2026-05-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-17 returning 2026-05-25"
-        },
-        {
-          "dates": "Fri, May 29 \u2013 Thu, Jun 4",
-          "price": "CA$273",
-          "price_value": 273,
-          "depart_date": "2026-05-29",
-          "return_date": "2026-06-04",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-29 returning 2026-06-04"
-        },
-        {
-          "dates": "Sun, May 3 \u2013 Sun, May 10",
-          "price": "CA$274",
-          "price_value": 274,
-          "depart_date": "2026-05-03",
-          "return_date": "2026-05-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-03 returning 2026-05-10"
-        },
-        {
-          "dates": "Thu, Apr 9 \u2013 Wed, Apr 15",
-          "price": "CA$285",
-          "price_value": 285,
-          "depart_date": "2026-04-09",
-          "return_date": "2026-04-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-04-09 returning 2026-04-15"
-        },
-        {
-          "dates": "Thu, Apr 16 \u2013 Wed, Apr 22",
-          "price": "CA$285",
-          "price_value": 285,
-          "depart_date": "2026-04-16",
-          "return_date": "2026-04-22",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-04-16 returning 2026-04-22"
-        },
-        {
-          "dates": "Mon, Apr 6 \u2013 Mon, Apr 13",
-          "price": "CA$288",
-          "price_value": 288,
-          "depart_date": "2026-04-06",
-          "return_date": "2026-04-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-04-06 returning 2026-04-13"
-        },
-        {
-          "dates": "Mon, Mar 2 \u2013 Tue, Mar 10",
-          "price": "CA$247",
-          "price_value": 247,
-          "depart_date": "2026-03-02",
-          "return_date": "2026-03-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-03-02 returning 2026-03-10"
-        },
-        {
-          "dates": "Thu, Mar 5 \u2013 Wed, Mar 11",
-          "price": "CA$247",
-          "price_value": 247,
-          "depart_date": "2026-03-05",
-          "return_date": "2026-03-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-03-05 returning 2026-03-11"
-        },
-        {
-          "dates": "Thu, Mar 19 \u2013 Wed, Mar 25",
-          "price": "CA$247",
-          "price_value": 247,
-          "depart_date": "2026-03-19",
-          "return_date": "2026-03-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-03-19 returning 2026-03-25"
-        },
-        {
-          "dates": "Sun, Mar 1 \u2013 Tue, Mar 10",
-          "price": "CA$275",
-          "price_value": 275,
-          "depart_date": "2026-03-01",
-          "return_date": "2026-03-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-03-01 returning 2026-03-10"
-        },
-        {
-          "dates": "Mon, Mar 23 \u2013 Mon, Mar 30",
-          "price": "CA$275",
-          "price_value": 275,
-          "depart_date": "2026-03-23",
-          "return_date": "2026-03-30",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-03-23 returning 2026-03-30"
-        },
-        {
-          "dates": "Thu, Mar 26 \u2013 Wed, Apr 1",
-          "price": "CA$291",
-          "price_value": 291,
-          "depart_date": "2026-03-26",
-          "return_date": "2026-04-01",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-03-26 returning 2026-04-01"
-        },
-        {
-          "dates": "Mon, Feb 23 \u2013 Mon, Mar 2",
-          "price": "CA$271",
-          "price_value": 271,
-          "depart_date": "2026-02-23",
-          "return_date": "2026-03-02",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-02-23 returning 2026-03-02"
-        },
-        {
-          "dates": "Fri, Feb 27 \u2013 Thu, Mar 5",
-          "price": "CA$284",
-          "price_value": 284,
-          "depart_date": "2026-02-27",
-          "return_date": "2026-03-05",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-02-27 returning 2026-03-05"
-        },
-        {
-          "dates": "Mon, Feb 23 \u2013 Tue, Mar 3",
-          "price": "CA$306",
-          "price_value": 306,
-          "depart_date": "2026-02-23",
-          "return_date": "2026-03-03",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-02-23 returning 2026-03-03"
-        },
-        {
-          "dates": "Sat, Feb 28 \u2013 Fri, Mar 6",
-          "price": "CA$313",
-          "price_value": 313,
-          "depart_date": "2026-02-28",
-          "return_date": "2026-03-06",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-02-28 returning 2026-03-06"
-        },
-        {
-          "dates": "Fri, Jun 5 \u2013 Thu, Jun 11",
-          "price": "CA$265",
-          "price_value": 265,
-          "depart_date": "2026-06-05",
-          "return_date": "2026-06-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-06-05 returning 2026-06-11"
-        },
-        {
-          "dates": "Fri, Jun 12 \u2013 Thu, Jun 18",
-          "price": "CA$265",
-          "price_value": 265,
-          "depart_date": "2026-06-12",
-          "return_date": "2026-06-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-06-12 returning 2026-06-18"
-        },
-        {
-          "dates": "Sat, Jun 20 \u2013 Sat, Jun 27",
-          "price": "CA$265",
-          "price_value": 265,
-          "depart_date": "2026-06-20",
-          "return_date": "2026-06-27",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-06-20 returning 2026-06-27"
-        },
-        {
-          "dates": "Mon, Jul 6 \u2013 Sun, Jul 12",
-          "price": "CA$266",
-          "price_value": 266,
-          "depart_date": "2026-07-06",
-          "return_date": "2026-07-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-07-06 returning 2026-07-12"
-        },
-        {
-          "dates": "Sun, Jul 12 \u2013 Sat, Jul 18",
-          "price": "CA$266",
-          "price_value": 266,
-          "depart_date": "2026-07-12",
-          "return_date": "2026-07-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-07-12 returning 2026-07-18"
-        },
-        {
-          "dates": "Sun, Jul 19 \u2013 Sat, Jul 25",
-          "price": "CA$266",
-          "price_value": 266,
-          "depart_date": "2026-07-19",
-          "return_date": "2026-07-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-07-19 returning 2026-07-25"
-        }
-      ]
-    },
     "Nashville": {
       "origin": "Toronto",
       "cheapest_current": "CA$267",
@@ -14099,6 +12891,1196 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-05-18 returning 2026-05-26"
         }
       ]
+    },
+    "Fort Lauderdale": {
+      "origin": "Toronto",
+      "cheapest_current": "CA$145",
+      "deals": [
+        {
+          "dates": "Thu, Mar 19 \u2013 Thu, Mar 26",
+          "price": "CA$194",
+          "price_value": 194,
+          "depart_date": "2026-03-19",
+          "return_date": "2026-03-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-03-19 returning 2026-03-26"
+        },
+        {
+          "dates": "Thu, Mar 26 \u2013 Thu, Apr 2",
+          "price": "CA$209",
+          "price_value": 209,
+          "depart_date": "2026-03-26",
+          "return_date": "2026-04-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-03-26 returning 2026-04-02"
+        },
+        {
+          "dates": "Sat, Mar 7 \u2013 Fri, Mar 13",
+          "price": "CA$210",
+          "price_value": 210,
+          "depart_date": "2026-03-07",
+          "return_date": "2026-03-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-03-07 returning 2026-03-13"
+        },
+        {
+          "dates": "Sun, Jul 5 \u2013 Tue, Jul 14",
+          "price": "CA$306",
+          "price_value": 306,
+          "depart_date": "2026-07-05",
+          "return_date": "2026-07-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-07-05 returning 2026-07-14"
+        },
+        {
+          "dates": "Sun, Aug 2 \u2013 Tue, Aug 11",
+          "price": "CA$210",
+          "price_value": 210,
+          "depart_date": "2026-08-02",
+          "return_date": "2026-08-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-02 returning 2026-08-11"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Thu, Aug 20",
+          "price": "CA$265",
+          "price_value": 265,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-13 returning 2026-08-20"
+        },
+        {
+          "dates": "Sat, Aug 8 \u2013 Sat, Aug 15",
+          "price": "CA$306",
+          "price_value": 306,
+          "depart_date": "2026-08-08",
+          "return_date": "2026-08-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-08 returning 2026-08-15"
+        },
+        {
+          "dates": "Sun, May 31 \u2013 Tue, Jun 9",
+          "price": "CA$171",
+          "price_value": 171,
+          "depart_date": "2026-05-31",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-05-31 returning 2026-06-09"
+        },
+        {
+          "dates": "Sun, May 10 \u2013 Sat, May 16",
+          "price": "CA$252",
+          "price_value": 252,
+          "depart_date": "2026-05-10",
+          "return_date": "2026-05-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-05-10 returning 2026-05-16"
+        },
+        {
+          "dates": "Sun, Aug 2 \u2013 Sun, Aug 9",
+          "price": "CA$267",
+          "price_value": 267,
+          "depart_date": "2026-08-02",
+          "return_date": "2026-08-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-02 returning 2026-08-09"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Thu, Aug 27",
+          "price": "CA$267",
+          "price_value": 267,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-20 returning 2026-08-27"
+        },
+        {
+          "dates": "Mon, Mar 23 \u2013 Wed, Apr 1",
+          "price": "CA$145",
+          "price_value": 145,
+          "depart_date": "2026-03-23",
+          "return_date": "2026-04-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-03-23 returning 2026-04-01"
+        },
+        {
+          "dates": "Mon, Mar 30 \u2013 Wed, Apr 8",
+          "price": "CA$186",
+          "price_value": 186,
+          "depart_date": "2026-03-30",
+          "return_date": "2026-04-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-03-30 returning 2026-04-08"
+        },
+        {
+          "dates": "Sat, Mar 21 \u2013 Fri, Mar 27",
+          "price": "CA$228",
+          "price_value": 228,
+          "depart_date": "2026-03-21",
+          "return_date": "2026-03-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-03-21 returning 2026-03-27"
+        },
+        {
+          "dates": "Mon, Apr 20 \u2013 Wed, Apr 29",
+          "price": "CA$146",
+          "price_value": 146,
+          "depart_date": "2026-04-20",
+          "return_date": "2026-04-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-04-20 returning 2026-04-29"
+        },
+        {
+          "dates": "Thu, Apr 9 \u2013 Wed, Apr 15",
+          "price": "CA$171",
+          "price_value": 171,
+          "depart_date": "2026-04-09",
+          "return_date": "2026-04-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-04-09 returning 2026-04-15"
+        },
+        {
+          "dates": "Sat, Jun 13 \u2013 Sun, Jun 21",
+          "price": "CA$171",
+          "price_value": 171,
+          "depart_date": "2026-06-13",
+          "return_date": "2026-06-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-06-13 returning 2026-06-21"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
+          "price": "CA$314",
+          "price_value": 314,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Mon, Apr 13 \u2013 Wed, Apr 22",
+          "price": "CA$146",
+          "price_value": 146,
+          "depart_date": "2026-04-13",
+          "return_date": "2026-04-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-04-13 returning 2026-04-22"
+        },
+        {
+          "dates": "Mon, Apr 6 \u2013 Wed, Apr 15",
+          "price": "CA$156",
+          "price_value": 156,
+          "depart_date": "2026-04-06",
+          "return_date": "2026-04-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-04-06 returning 2026-04-15"
+        },
+        {
+          "dates": "Sun, Jul 19 \u2013 Tue, Jul 28",
+          "price": "CA$196",
+          "price_value": 196,
+          "depart_date": "2026-07-19",
+          "return_date": "2026-07-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-19 returning 2026-07-28"
+        },
+        {
+          "dates": "Sun, Jul 12 \u2013 Tue, Jul 21",
+          "price": "CA$226",
+          "price_value": 226,
+          "depart_date": "2026-07-12",
+          "return_date": "2026-07-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-12 returning 2026-07-21"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
+          "price": "CA$186",
+          "price_value": 186,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-06-04 returning 2026-06-11"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Thu, Jun 18",
+          "price": "CA$227",
+          "price_value": 227,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-06-11 returning 2026-06-18"
+        },
+        {
+          "dates": "Sun, Jun 28 \u2013 Tue, Jul 7",
+          "price": "CA$252",
+          "price_value": 252,
+          "depart_date": "2026-06-28",
+          "return_date": "2026-07-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-06-28 returning 2026-07-07"
+        },
+        {
+          "dates": "Sat, May 23 \u2013 Sat, May 30",
+          "price": "CA$197",
+          "price_value": 197,
+          "depart_date": "2026-05-23",
+          "return_date": "2026-05-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-05-23 returning 2026-05-30"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Thu, May 14",
+          "price": "CA$227",
+          "price_value": 227,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-05-07 returning 2026-05-14"
+        },
+        {
+          "dates": "Sat, May 30 \u2013 Sat, Jun 6",
+          "price": "CA$227",
+          "price_value": 227,
+          "depart_date": "2026-05-30",
+          "return_date": "2026-06-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-05-30 returning 2026-06-06"
+        },
+        {
+          "dates": "Mon, Mar 2 \u2013 Wed, Mar 11",
+          "price": "CA$156",
+          "price_value": 156,
+          "depart_date": "2026-03-02",
+          "return_date": "2026-03-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-03-02 returning 2026-03-11"
+        },
+        {
+          "dates": "Thu, Mar 5 \u2013 Wed, Mar 11",
+          "price": "CA$196",
+          "price_value": 196,
+          "depart_date": "2026-03-05",
+          "return_date": "2026-03-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-03-05 returning 2026-03-11"
+        },
+        {
+          "dates": "Thu, Mar 19 \u2013 Wed, Mar 25",
+          "price": "CA$228",
+          "price_value": 228,
+          "depart_date": "2026-03-19",
+          "return_date": "2026-03-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-03-19 returning 2026-03-25"
+        },
+        {
+          "dates": "Mon, Feb 23 \u2013 Wed, Mar 4",
+          "price": "CA$187",
+          "price_value": 187,
+          "depart_date": "2026-02-23",
+          "return_date": "2026-03-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-02-23 returning 2026-03-04"
+        },
+        {
+          "dates": "Thu, Feb 26 \u2013 Thu, Mar 5",
+          "price": "CA$171",
+          "price_value": 171,
+          "depart_date": "2026-02-26",
+          "return_date": "2026-03-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale on 2026-02-26 returning 2026-03-05"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Sat, Jun 20",
+          "price": "CA$239",
+          "price_value": 239,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-06-11 returning 2026-06-20"
+        },
+        {
+          "dates": "Mon, Jun 29 \u2013 Tue, Jul 7",
+          "price": "CA$296",
+          "price_value": 296,
+          "depart_date": "2026-06-29",
+          "return_date": "2026-07-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-06-29 returning 2026-07-07"
+        },
+        {
+          "dates": "Sun, Jul 26 \u2013 Tue, Aug 4",
+          "price": "CA$187",
+          "price_value": 187,
+          "depart_date": "2026-07-26",
+          "return_date": "2026-08-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-26 returning 2026-08-04"
+        },
+        {
+          "dates": "Thu, Jul 30 \u2013 Thu, Aug 6",
+          "price": "CA$187",
+          "price_value": 187,
+          "depart_date": "2026-07-30",
+          "return_date": "2026-08-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-30 returning 2026-08-06"
+        },
+        {
+          "dates": "Sun, Jul 5 \u2013 Sat, Jul 11",
+          "price": "CA$228",
+          "price_value": 228,
+          "depart_date": "2026-07-05",
+          "return_date": "2026-07-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-05 returning 2026-07-11"
+        },
+        {
+          "dates": "Thu, Mar 26 \u2013 Thu, Apr 2",
+          "price": "CA$209",
+          "price_value": 209,
+          "depart_date": "2026-03-26",
+          "return_date": "2026-04-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-03-26 returning 2026-04-02"
+        },
+        {
+          "dates": "Sat, Mar 7 \u2013 Fri, Mar 13",
+          "price": "CA$210",
+          "price_value": 210,
+          "depart_date": "2026-03-07",
+          "return_date": "2026-03-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-03-07 returning 2026-03-13"
+        },
+        {
+          "dates": "Thu, Mar 19 \u2013 Thu, Mar 26",
+          "price": "CA$251",
+          "price_value": 251,
+          "depart_date": "2026-03-19",
+          "return_date": "2026-03-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-03-19 returning 2026-03-26"
+        },
+        {
+          "dates": "Sun, Aug 2 \u2013 Tue, Aug 11",
+          "price": "CA$210",
+          "price_value": 210,
+          "depart_date": "2026-08-02",
+          "return_date": "2026-08-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-02 returning 2026-08-11"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Thu, Aug 20",
+          "price": "CA$265",
+          "price_value": 265,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-13 returning 2026-08-20"
+        },
+        {
+          "dates": "Sat, Aug 8 \u2013 Sat, Aug 15",
+          "price": "CA$306",
+          "price_value": 306,
+          "depart_date": "2026-08-08",
+          "return_date": "2026-08-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-08 returning 2026-08-15"
+        },
+        {
+          "dates": "Sun, Jul 12 \u2013 Tue, Jul 21",
+          "price": "CA$226",
+          "price_value": 226,
+          "depart_date": "2026-07-12",
+          "return_date": "2026-07-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-12 returning 2026-07-21"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Sat, Jul 25",
+          "price": "CA$237",
+          "price_value": 237,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-18 returning 2026-07-25"
+        },
+        {
+          "dates": "Sun, Aug 2 \u2013 Sun, Aug 9",
+          "price": "CA$267",
+          "price_value": 267,
+          "depart_date": "2026-08-02",
+          "return_date": "2026-08-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-02 returning 2026-08-09"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Thu, Aug 27",
+          "price": "CA$267",
+          "price_value": 267,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-20 returning 2026-08-27"
+        },
+        {
+          "dates": "Mon, Apr 20 \u2013 Wed, Apr 29",
+          "price": "CA$146",
+          "price_value": 146,
+          "depart_date": "2026-04-20",
+          "return_date": "2026-04-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-04-20 returning 2026-04-29"
+        },
+        {
+          "dates": "Mon, Apr 6 \u2013 Wed, Apr 15",
+          "price": "CA$171",
+          "price_value": 171,
+          "depart_date": "2026-04-06",
+          "return_date": "2026-04-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-04-06 returning 2026-04-15"
+        },
+        {
+          "dates": "Thu, Apr 9 \u2013 Wed, Apr 15",
+          "price": "CA$171",
+          "price_value": 171,
+          "depart_date": "2026-04-09",
+          "return_date": "2026-04-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-04-09 returning 2026-04-15"
+        },
+        {
+          "dates": "Sat, Jun 13 \u2013 Sun, Jun 21",
+          "price": "CA$171",
+          "price_value": 171,
+          "depart_date": "2026-06-13",
+          "return_date": "2026-06-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-06-13 returning 2026-06-21"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
+          "price": "CA$314",
+          "price_value": 314,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Thu, Aug 13",
+          "price": "CA$237",
+          "price_value": 237,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-06 returning 2026-08-13"
+        },
+        {
+          "dates": "Sun, Aug 2 \u2013 Sat, Aug 8",
+          "price": "CA$267",
+          "price_value": 267,
+          "depart_date": "2026-08-02",
+          "return_date": "2026-08-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-08-02 returning 2026-08-08"
+        },
+        {
+          "dates": "Sun, Jul 19 \u2013 Tue, Jul 28",
+          "price": "CA$196",
+          "price_value": 196,
+          "depart_date": "2026-07-19",
+          "return_date": "2026-07-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-19 returning 2026-07-28"
+        },
+        {
+          "dates": "Mon, Feb 23 \u2013 Wed, Mar 4",
+          "price": "CA$171",
+          "price_value": 171,
+          "depart_date": "2026-02-23",
+          "return_date": "2026-03-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-02-23 returning 2026-03-04"
+        },
+        {
+          "dates": "Sat, Feb 28 \u2013 Fri, Mar 6",
+          "price": "CA$266",
+          "price_value": 266,
+          "depart_date": "2026-02-28",
+          "return_date": "2026-03-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-02-28 returning 2026-03-06"
+        },
+        {
+          "dates": "Sat, May 23 \u2013 Sat, May 30",
+          "price": "CA$197",
+          "price_value": 197,
+          "depart_date": "2026-05-23",
+          "return_date": "2026-05-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-05-23 returning 2026-05-30"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Thu, May 14",
+          "price": "CA$227",
+          "price_value": 227,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-05-07 returning 2026-05-14"
+        },
+        {
+          "dates": "Sat, May 30 \u2013 Sat, Jun 6",
+          "price": "CA$227",
+          "price_value": 227,
+          "depart_date": "2026-05-30",
+          "return_date": "2026-06-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-05-30 returning 2026-06-06"
+        },
+        {
+          "dates": "Mon, Mar 2 \u2013 Wed, Mar 11",
+          "price": "CA$156",
+          "price_value": 156,
+          "depart_date": "2026-03-02",
+          "return_date": "2026-03-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-03-02 returning 2026-03-11"
+        },
+        {
+          "dates": "Thu, Mar 5 \u2013 Wed, Mar 11",
+          "price": "CA$196",
+          "price_value": 196,
+          "depart_date": "2026-03-05",
+          "return_date": "2026-03-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-03-05 returning 2026-03-11"
+        },
+        {
+          "dates": "Thu, Mar 19 \u2013 Wed, Mar 25",
+          "price": "CA$228",
+          "price_value": 228,
+          "depart_date": "2026-03-19",
+          "return_date": "2026-03-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-03-19 returning 2026-03-25"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
+          "price": "CA$197",
+          "price_value": 197,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-06-04 returning 2026-06-11"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Sat, Jun 20",
+          "price": "CA$239",
+          "price_value": 239,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-06-11 returning 2026-06-20"
+        },
+        {
+          "dates": "Mon, Jun 29 \u2013 Tue, Jul 7",
+          "price": "CA$296",
+          "price_value": 296,
+          "depart_date": "2026-06-29",
+          "return_date": "2026-07-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-06-29 returning 2026-07-07"
+        },
+        {
+          "dates": "Sun, Jul 26 \u2013 Tue, Aug 4",
+          "price": "CA$187",
+          "price_value": 187,
+          "depart_date": "2026-07-26",
+          "return_date": "2026-08-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-26 returning 2026-08-04"
+        },
+        {
+          "dates": "Thu, Jul 30 \u2013 Thu, Aug 6",
+          "price": "CA$187",
+          "price_value": 187,
+          "depart_date": "2026-07-30",
+          "return_date": "2026-08-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-30 returning 2026-08-06"
+        },
+        {
+          "dates": "Sun, Jul 5 \u2013 Sat, Jul 11",
+          "price": "CA$228",
+          "price_value": 228,
+          "depart_date": "2026-07-05",
+          "return_date": "2026-07-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale on 2026-07-05 returning 2026-07-11"
+        }
+      ]
+    },
+    "Samana": {
+      "origin": "Toronto",
+      "cheapest_current": "CA$376",
+      "deals": [
+        {
+          "dates": "Thu, Apr 16 \u2013 Thu, Apr 23",
+          "price": "CA$376",
+          "price_value": 376,
+          "depart_date": "2026-04-16",
+          "return_date": "2026-04-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-04-16 returning 2026-04-23"
+        },
+        {
+          "dates": "Thu, Apr 23 \u2013 Thu, Apr 30",
+          "price": "CA$376",
+          "price_value": 376,
+          "depart_date": "2026-04-23",
+          "return_date": "2026-04-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-04-23 returning 2026-04-30"
+        },
+        {
+          "dates": "Mon, Jul 13 \u2013 Wed, Jul 22",
+          "price": "CA$576",
+          "price_value": 576,
+          "depart_date": "2026-07-13",
+          "return_date": "2026-07-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-07-13 returning 2026-07-22"
+        },
+        {
+          "dates": "Sun, Jul 5 \u2013 Sat, Jul 11",
+          "price": "CA$668",
+          "price_value": 668,
+          "depart_date": "2026-07-05",
+          "return_date": "2026-07-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-07-05 returning 2026-07-11"
+        },
+        {
+          "dates": "Fri, Jul 24 \u2013 Thu, Jul 30",
+          "price": "CA$675",
+          "price_value": 675,
+          "depart_date": "2026-07-24",
+          "return_date": "2026-07-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-07-24 returning 2026-07-30"
+        },
+        {
+          "dates": "Mon, Mar 16 \u2013 Tue, Mar 24",
+          "price": "CA$670",
+          "price_value": 670,
+          "depart_date": "2026-03-16",
+          "return_date": "2026-03-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-03-16 returning 2026-03-24"
+        },
+        {
+          "dates": "Thu, Apr 9 \u2013 Thu, Apr 16",
+          "price": "CA$411",
+          "price_value": 411,
+          "depart_date": "2026-04-09",
+          "return_date": "2026-04-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-04-09 returning 2026-04-16"
+        },
+        {
+          "dates": "Sun, Apr 5 \u2013 Sun, Apr 12",
+          "price": "CA$414",
+          "price_value": 414,
+          "depart_date": "2026-04-05",
+          "return_date": "2026-04-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-04-05 returning 2026-04-12"
+        },
+        {
+          "dates": "Thu, Apr 23 \u2013 Wed, Apr 29",
+          "price": "CA$412",
+          "price_value": 412,
+          "depart_date": "2026-04-23",
+          "return_date": "2026-04-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-04-23 returning 2026-04-29"
+        },
+        {
+          "dates": "Sun, Apr 19 \u2013 Mon, Apr 27",
+          "price": "CA$412",
+          "price_value": 412,
+          "depart_date": "2026-04-19",
+          "return_date": "2026-04-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-04-19 returning 2026-04-27"
+        },
+        {
+          "dates": "Sun, Mar 29 \u2013 Sun, Apr 5",
+          "price": "CA$417",
+          "price_value": 417,
+          "depart_date": "2026-03-29",
+          "return_date": "2026-04-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-03-29 returning 2026-04-05"
+        },
+        {
+          "dates": "Sun, Mar 22 \u2013 Sun, Mar 29",
+          "price": "CA$464",
+          "price_value": 464,
+          "depart_date": "2026-03-22",
+          "return_date": "2026-03-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-03-22 returning 2026-03-29"
+        },
+        {
+          "dates": "Thu, Mar 5 \u2013 Wed, Mar 11",
+          "price": "CA$506",
+          "price_value": 506,
+          "depart_date": "2026-03-05",
+          "return_date": "2026-03-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-03-05 returning 2026-03-11"
+        },
+        {
+          "dates": "Sun, Feb 22 \u2013 Sun, Mar 1",
+          "price": "CA$501",
+          "price_value": 501,
+          "depart_date": "2026-02-22",
+          "return_date": "2026-03-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-02-22 returning 2026-03-01"
+        },
+        {
+          "dates": "Sun, Apr 12 \u2013 Sun, Apr 19",
+          "price": "CA$412",
+          "price_value": 412,
+          "depart_date": "2026-04-12",
+          "return_date": "2026-04-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana on 2026-04-12 returning 2026-04-19"
+        }
+      ]
+    },
+    "La Romana": {
+      "origin": "Toronto",
+      "cheapest_current": "CA$327",
+      "deals": [
+        {
+          "dates": "Sat, May 23 \u2013 Sat, May 30",
+          "price": "CA$376",
+          "price_value": 376,
+          "depart_date": "2026-05-23",
+          "return_date": "2026-05-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-05-23 returning 2026-05-30"
+        },
+        {
+          "dates": "Sat, May 30 \u2013 Sat, Jun 6",
+          "price": "CA$418",
+          "price_value": 418,
+          "depart_date": "2026-05-30",
+          "return_date": "2026-06-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-05-30 returning 2026-06-06"
+        },
+        {
+          "dates": "Sat, May 9 \u2013 Sat, May 16",
+          "price": "CA$418",
+          "price_value": 418,
+          "depart_date": "2026-05-09",
+          "return_date": "2026-05-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-05-09 returning 2026-05-16"
+        },
+        {
+          "dates": "Mon, Jul 20 \u2013 Tue, Jul 28",
+          "price": "CA$446",
+          "price_value": 446,
+          "depart_date": "2026-07-20",
+          "return_date": "2026-07-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-07-20 returning 2026-07-28"
+        },
+        {
+          "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
+          "price": "CA$466",
+          "price_value": 466,
+          "depart_date": "2026-07-02",
+          "return_date": "2026-07-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-07-02 returning 2026-07-08"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Thu, Jul 16",
+          "price": "CA$466",
+          "price_value": 466,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-07-09 returning 2026-07-16"
+        },
+        {
+          "dates": "Fri, Apr 10 \u2013 Sat, Apr 18",
+          "price": "CA$346",
+          "price_value": 346,
+          "depart_date": "2026-04-10",
+          "return_date": "2026-04-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-04-10 returning 2026-04-18"
+        },
+        {
+          "dates": "Fri, Apr 17 \u2013 Thu, Apr 23",
+          "price": "CA$359",
+          "price_value": 359,
+          "depart_date": "2026-04-17",
+          "return_date": "2026-04-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-04-17 returning 2026-04-23"
+        },
+        {
+          "dates": "Fri, Feb 27 \u2013 Thu, Mar 5",
+          "price": "CA$359",
+          "price_value": 359,
+          "depart_date": "2026-02-27",
+          "return_date": "2026-03-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-02-27 returning 2026-03-05"
+        },
+        {
+          "dates": "Fri, Apr 10 \u2013 Thu, Apr 16",
+          "price": "CA$327",
+          "price_value": 327,
+          "depart_date": "2026-04-10",
+          "return_date": "2026-04-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-04-10 returning 2026-04-16"
+        },
+        {
+          "dates": "Sat, Apr 18 \u2013 Sat, Apr 25",
+          "price": "CA$327",
+          "price_value": 327,
+          "depart_date": "2026-04-18",
+          "return_date": "2026-04-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-04-18 returning 2026-04-25"
+        },
+        {
+          "dates": "Mon, Apr 6 \u2013 Tue, Apr 14",
+          "price": "CA$390",
+          "price_value": 390,
+          "depart_date": "2026-04-06",
+          "return_date": "2026-04-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana on 2026-04-06 returning 2026-04-14"
+        }
+      ]
+    },
+    "Daytona Beach": {
+      "origin": "Toronto",
+      "cheapest_current": "CA$163",
+      "deals": [
+        {
+          "dates": "Fri, Mar 6 \u2013 Thu, Mar 12",
+          "price": "CA$163",
+          "price_value": 163,
+          "depart_date": "2026-03-06",
+          "return_date": "2026-03-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-03-06 returning 2026-03-12"
+        },
+        {
+          "dates": "Fri, Mar 27 \u2013 Thu, Apr 2",
+          "price": "CA$163",
+          "price_value": 163,
+          "depart_date": "2026-03-27",
+          "return_date": "2026-04-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-03-27 returning 2026-04-02"
+        },
+        {
+          "dates": "Mon, Mar 2 \u2013 Wed, Mar 11",
+          "price": "CA$241",
+          "price_value": 241,
+          "depart_date": "2026-03-02",
+          "return_date": "2026-03-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-03-02 returning 2026-03-11"
+        },
+        {
+          "dates": "Sun, Mar 22 \u2013 Tue, Mar 31",
+          "price": "CA$189",
+          "price_value": 189,
+          "depart_date": "2026-03-22",
+          "return_date": "2026-03-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-03-22 returning 2026-03-31"
+        },
+        {
+          "dates": "Mon, Mar 9 \u2013 Mon, Mar 16",
+          "price": "CA$239",
+          "price_value": 239,
+          "depart_date": "2026-03-09",
+          "return_date": "2026-03-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-03-09 returning 2026-03-16"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Mon, Jun 8",
+          "price": "CA$291",
+          "price_value": 291,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-06-01 returning 2026-06-08"
+        },
+        {
+          "dates": "Sun, Jun 7 \u2013 Mon, Jun 15",
+          "price": "CA$361",
+          "price_value": 361,
+          "depart_date": "2026-06-07",
+          "return_date": "2026-06-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-06-07 returning 2026-06-15"
+        },
+        {
+          "dates": "Mon, Jun 15 \u2013 Tue, Jun 23",
+          "price": "CA$420",
+          "price_value": 420,
+          "depart_date": "2026-06-15",
+          "return_date": "2026-06-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-06-15 returning 2026-06-23"
+        },
+        {
+          "dates": "Mon, May 4 \u2013 Sun, May 10",
+          "price": "CA$265",
+          "price_value": 265,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-05-04 returning 2026-05-10"
+        },
+        {
+          "dates": "Mon, May 11 \u2013 Sun, May 17",
+          "price": "CA$273",
+          "price_value": 273,
+          "depart_date": "2026-05-11",
+          "return_date": "2026-05-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-05-11 returning 2026-05-17"
+        },
+        {
+          "dates": "Mon, May 18 \u2013 Sun, May 24",
+          "price": "CA$328",
+          "price_value": 328,
+          "depart_date": "2026-05-18",
+          "return_date": "2026-05-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-05-18 returning 2026-05-24"
+        },
+        {
+          "dates": "Mon, May 4 \u2013 Tue, May 12",
+          "price": "CA$318",
+          "price_value": 318,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-05-04 returning 2026-05-12"
+        },
+        {
+          "dates": "Fri, May 29 \u2013 Thu, Jun 4",
+          "price": "CA$363",
+          "price_value": 363,
+          "depart_date": "2026-05-29",
+          "return_date": "2026-06-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-05-29 returning 2026-06-04"
+        },
+        {
+          "dates": "Mon, Mar 9 \u2013 Tue, Mar 17",
+          "price": "CA$173",
+          "price_value": 173,
+          "depart_date": "2026-03-09",
+          "return_date": "2026-03-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-03-09 returning 2026-03-17"
+        },
+        {
+          "dates": "Thu, Mar 19 \u2013 Thu, Mar 26",
+          "price": "CA$224",
+          "price_value": 224,
+          "depart_date": "2026-03-19",
+          "return_date": "2026-03-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-03-19 returning 2026-03-26"
+        },
+        {
+          "dates": "Mon, Mar 2 \u2013 Tue, Mar 10",
+          "price": "CA$247",
+          "price_value": 247,
+          "depart_date": "2026-03-02",
+          "return_date": "2026-03-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-03-02 returning 2026-03-10"
+        },
+        {
+          "dates": "Mon, Apr 13 \u2013 Wed, Apr 22",
+          "price": "CA$189",
+          "price_value": 189,
+          "depart_date": "2026-04-13",
+          "return_date": "2026-04-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-04-13 returning 2026-04-22"
+        },
+        {
+          "dates": "Sun, Apr 5 \u2013 Mon, Apr 13",
+          "price": "CA$210",
+          "price_value": 210,
+          "depart_date": "2026-04-05",
+          "return_date": "2026-04-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-04-05 returning 2026-04-13"
+        },
+        {
+          "dates": "Mon, Apr 20 \u2013 Mon, Apr 27",
+          "price": "CA$225",
+          "price_value": 225,
+          "depart_date": "2026-04-20",
+          "return_date": "2026-04-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-04-20 returning 2026-04-27"
+        },
+        {
+          "dates": "Mon, Feb 23 \u2013 Wed, Mar 4",
+          "price": "CA$211",
+          "price_value": 211,
+          "depart_date": "2026-02-23",
+          "return_date": "2026-03-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-02-23 returning 2026-03-04"
+        },
+        {
+          "dates": "Thu, Mar 5 \u2013 Thu, Mar 12",
+          "price": "CA$211",
+          "price_value": 211,
+          "depart_date": "2026-03-05",
+          "return_date": "2026-03-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-03-05 returning 2026-03-12"
+        },
+        {
+          "dates": "Thu, Mar 19 \u2013 Wed, Mar 25",
+          "price": "CA$225",
+          "price_value": 225,
+          "depart_date": "2026-03-19",
+          "return_date": "2026-03-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-03-19 returning 2026-03-25"
+        },
+        {
+          "dates": "Mon, Feb 23 \u2013 Mon, Mar 2",
+          "price": "CA$234",
+          "price_value": 234,
+          "depart_date": "2026-02-23",
+          "return_date": "2026-03-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach on 2026-02-23 returning 2026-03-02"
+        }
+      ]
+    },
+    "Sarasota": {
+      "origin": "Toronto",
+      "cheapest_current": "CA$247",
+      "deals": [
+        {
+          "dates": "Mon, Jul 13 \u2013 Sun, Jul 19",
+          "price": "CA$320",
+          "price_value": 320,
+          "depart_date": "2026-07-13",
+          "return_date": "2026-07-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-07-13 returning 2026-07-19"
+        },
+        {
+          "dates": "Mon, Jul 20 \u2013 Sun, Jul 26",
+          "price": "CA$352",
+          "price_value": 352,
+          "depart_date": "2026-07-20",
+          "return_date": "2026-07-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-07-20 returning 2026-07-26"
+        },
+        {
+          "dates": "Mon, Jul 27 \u2013 Sun, Aug 2",
+          "price": "CA$352",
+          "price_value": 352,
+          "depart_date": "2026-07-27",
+          "return_date": "2026-08-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-07-27 returning 2026-08-02"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Mon, May 25",
+          "price": "CA$273",
+          "price_value": 273,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-05-17 returning 2026-05-25"
+        },
+        {
+          "dates": "Fri, May 29 \u2013 Thu, Jun 4",
+          "price": "CA$273",
+          "price_value": 273,
+          "depart_date": "2026-05-29",
+          "return_date": "2026-06-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-05-29 returning 2026-06-04"
+        },
+        {
+          "dates": "Sun, May 3 \u2013 Sun, May 10",
+          "price": "CA$274",
+          "price_value": 274,
+          "depart_date": "2026-05-03",
+          "return_date": "2026-05-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-05-03 returning 2026-05-10"
+        },
+        {
+          "dates": "Thu, Apr 9 \u2013 Wed, Apr 15",
+          "price": "CA$285",
+          "price_value": 285,
+          "depart_date": "2026-04-09",
+          "return_date": "2026-04-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-04-09 returning 2026-04-15"
+        },
+        {
+          "dates": "Thu, Apr 16 \u2013 Wed, Apr 22",
+          "price": "CA$285",
+          "price_value": 285,
+          "depart_date": "2026-04-16",
+          "return_date": "2026-04-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-04-16 returning 2026-04-22"
+        },
+        {
+          "dates": "Mon, Apr 6 \u2013 Mon, Apr 13",
+          "price": "CA$288",
+          "price_value": 288,
+          "depart_date": "2026-04-06",
+          "return_date": "2026-04-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-04-06 returning 2026-04-13"
+        },
+        {
+          "dates": "Mon, Mar 2 \u2013 Tue, Mar 10",
+          "price": "CA$247",
+          "price_value": 247,
+          "depart_date": "2026-03-02",
+          "return_date": "2026-03-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-03-02 returning 2026-03-10"
+        },
+        {
+          "dates": "Thu, Mar 5 \u2013 Wed, Mar 11",
+          "price": "CA$247",
+          "price_value": 247,
+          "depart_date": "2026-03-05",
+          "return_date": "2026-03-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-03-05 returning 2026-03-11"
+        },
+        {
+          "dates": "Thu, Mar 19 \u2013 Wed, Mar 25",
+          "price": "CA$247",
+          "price_value": 247,
+          "depart_date": "2026-03-19",
+          "return_date": "2026-03-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-03-19 returning 2026-03-25"
+        },
+        {
+          "dates": "Sun, Mar 1 \u2013 Tue, Mar 10",
+          "price": "CA$275",
+          "price_value": 275,
+          "depart_date": "2026-03-01",
+          "return_date": "2026-03-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-03-01 returning 2026-03-10"
+        },
+        {
+          "dates": "Mon, Mar 23 \u2013 Mon, Mar 30",
+          "price": "CA$275",
+          "price_value": 275,
+          "depart_date": "2026-03-23",
+          "return_date": "2026-03-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-03-23 returning 2026-03-30"
+        },
+        {
+          "dates": "Thu, Mar 26 \u2013 Wed, Apr 1",
+          "price": "CA$291",
+          "price_value": 291,
+          "depart_date": "2026-03-26",
+          "return_date": "2026-04-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-03-26 returning 2026-04-01"
+        },
+        {
+          "dates": "Mon, Feb 23 \u2013 Mon, Mar 2",
+          "price": "CA$271",
+          "price_value": 271,
+          "depart_date": "2026-02-23",
+          "return_date": "2026-03-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-02-23 returning 2026-03-02"
+        },
+        {
+          "dates": "Fri, Feb 27 \u2013 Thu, Mar 5",
+          "price": "CA$284",
+          "price_value": 284,
+          "depart_date": "2026-02-27",
+          "return_date": "2026-03-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-02-27 returning 2026-03-05"
+        },
+        {
+          "dates": "Mon, Feb 23 \u2013 Tue, Mar 3",
+          "price": "CA$306",
+          "price_value": 306,
+          "depart_date": "2026-02-23",
+          "return_date": "2026-03-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-02-23 returning 2026-03-03"
+        },
+        {
+          "dates": "Sat, Feb 28 \u2013 Fri, Mar 6",
+          "price": "CA$313",
+          "price_value": 313,
+          "depart_date": "2026-02-28",
+          "return_date": "2026-03-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-02-28 returning 2026-03-06"
+        },
+        {
+          "dates": "Fri, Jun 5 \u2013 Thu, Jun 11",
+          "price": "CA$265",
+          "price_value": 265,
+          "depart_date": "2026-06-05",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-06-05 returning 2026-06-11"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Thu, Jun 18",
+          "price": "CA$265",
+          "price_value": 265,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-06-12 returning 2026-06-18"
+        },
+        {
+          "dates": "Sat, Jun 20 \u2013 Sat, Jun 27",
+          "price": "CA$265",
+          "price_value": 265,
+          "depart_date": "2026-06-20",
+          "return_date": "2026-06-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-06-20 returning 2026-06-27"
+        },
+        {
+          "dates": "Mon, Jul 6 \u2013 Sun, Jul 12",
+          "price": "CA$266",
+          "price_value": 266,
+          "depart_date": "2026-07-06",
+          "return_date": "2026-07-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-07-06 returning 2026-07-12"
+        },
+        {
+          "dates": "Sun, Jul 12 \u2013 Sat, Jul 18",
+          "price": "CA$266",
+          "price_value": 266,
+          "depart_date": "2026-07-12",
+          "return_date": "2026-07-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-07-12 returning 2026-07-18"
+        },
+        {
+          "dates": "Sun, Jul 19 \u2013 Sat, Jul 25",
+          "price": "CA$266",
+          "price_value": 266,
+          "depart_date": "2026-07-19",
+          "return_date": "2026-07-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota on 2026-07-19 returning 2026-07-25"
+        }
+      ]
     }
   },
   "historical_prices": {
@@ -14112,20 +14094,10 @@
       "lowest_value": 289,
       "date": "2026-02-22T14:36:49.290998"
     },
-    "Canc\u00fan, Cozumel": {
-      "lowest_ever": "CA$289",
-      "lowest_value": 289,
-      "date": "2026-02-22T14:36:57.035286"
-    },
     "Montego Bay": {
       "lowest_ever": "CA$383",
       "lowest_value": 383,
       "date": "2026-02-22T14:33:22.091273"
-    },
-    "Canc\u00fan, Tulum": {
-      "lowest_ever": "CA$289",
-      "lowest_value": 289,
-      "date": "2026-02-22T14:36:41.998435"
     },
     "Kochi": {
       "lowest_ever": "CA$960",
@@ -14141,11 +14113,6 @@
       "lowest_ever": "CA$380",
       "lowest_value": 380,
       "date": "2026-02-22T14:34:33.463552"
-    },
-    "Samana, Santo Domingo": {
-      "lowest_ever": "CA$376",
-      "lowest_value": 376,
-      "date": "2026-02-22T14:32:39.105644"
     },
     "Freeport": {
       "lowest_ever": "CA$661",
@@ -14212,20 +14179,10 @@
       "lowest_value": 813,
       "date": "2026-02-22T14:36:10.843514"
     },
-    "Fort Lauderdale, Miami": {
-      "lowest_ever": "CA$145",
-      "lowest_value": 145,
-      "date": "2026-02-22T14:33:49.504039"
-    },
     "Cura\u00e7ao": {
       "lowest_ever": "CA$334",
       "lowest_value": 334,
       "date": "2026-02-22T14:35:32.098946"
-    },
-    "Fort Lauderdale, West Palm Beach": {
-      "lowest_ever": "CA$146",
-      "lowest_value": 146,
-      "date": "2026-02-22T14:34:11.103217"
     },
     "Bridgetown": {
       "lowest_ever": "CA$389",
@@ -14347,11 +14304,6 @@
       "lowest_value": 301,
       "date": "2026-02-22T14:34:31.349980"
     },
-    "La Romana, Punta Cana": {
-      "lowest_ever": "CA$327",
-      "lowest_value": 327,
-      "date": "2026-02-22T14:36:49.290570"
-    },
     "Cairo": {
       "lowest_ever": "CA$1,097",
       "lowest_value": 1097,
@@ -14386,11 +14338,6 @@
       "lowest_ever": "CA$360",
       "lowest_value": 360,
       "date": "2026-02-22T14:36:57.036579"
-    },
-    "Daytona Beach, Orlando": {
-      "lowest_ever": "CA$163",
-      "lowest_value": 163,
-      "date": "2026-02-22T14:33:07.919754"
     },
     "Fort-de-France": {
       "lowest_ever": "CA$486",
@@ -14432,11 +14379,6 @@
       "lowest_value": 239,
       "date": "2026-02-22T14:36:26.145825"
     },
-    "Sarasota, Tampa": {
-      "lowest_ever": "CA$247",
-      "lowest_value": 247,
-      "date": "2026-02-22T14:34:51.837332"
-    },
     "Nashville": {
       "lowest_ever": "CA$267",
       "lowest_value": 267,
@@ -14466,6 +14408,31 @@
       "lowest_ever": "CA$646",
       "lowest_value": 646,
       "date": "2026-02-22T14:36:10.842411"
+    },
+    "Fort Lauderdale": {
+      "lowest_ever": "CA$145",
+      "lowest_value": 145,
+      "date": "2026-02-22T14:33:49.504039"
+    },
+    "Samana": {
+      "lowest_ever": "CA$376",
+      "lowest_value": 376,
+      "date": "2026-02-22T14:32:39.105644"
+    },
+    "La Romana": {
+      "lowest_ever": "CA$327",
+      "lowest_value": 327,
+      "date": "2026-02-22T14:36:49.290570"
+    },
+    "Daytona Beach": {
+      "lowest_ever": "CA$163",
+      "lowest_value": 163,
+      "date": "2026-02-22T14:33:07.919754"
+    },
+    "Sarasota": {
+      "lowest_ever": "CA$247",
+      "lowest_value": 247,
+      "date": "2026-02-22T14:34:51.837332"
     }
   },
   "processed_message_ids": [
@@ -15287,5 +15254,5 @@
     "9322",
     "9323"
   ],
-  "last_updated": "2026-02-22T15:49:07.576515"
+  "last_updated": "2026-02-22T18:15:31.815567"
 }
