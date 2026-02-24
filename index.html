@@ -527,6 +527,57 @@
             color: #6c757d;
             margin-top: 50px;
             font-size: 0.9em;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .faq-section {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            text-align: left;
+        }
+        
+        .faq-title {
+            font-size: 1.4em;
+            font-weight: 500;
+            color: #1a1a1a;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .faq-item {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #e9ecef;
+            padding-bottom: 15px;
+        }
+        
+        .faq-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        
+        .faq-question {
+            font-weight: 500;
+            color: #2c3e50;
+            margin-bottom: 8px;
+            font-size: 1.05em;
+        }
+        
+        .faq-answer {
+            color: #6c757d;
+            line-height: 1.6;
+            font-size: 0.95em;
+        }
+        
+        .update-info {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #e9ecef;
+            font-size: 0.9em;
         }
         
         .no-results {
@@ -725,6 +776,23 @@
             .footer {
                 font-size: 0.8em;
                 margin-top: 30px;
+            }
+            
+            .faq-section {
+                padding: 20px;
+                margin-bottom: 20px;
+            }
+            
+            .faq-title {
+                font-size: 1.2em;
+            }
+            
+            .faq-question {
+                font-size: 1em;
+            }
+            
+            .faq-answer {
+                font-size: 0.9em;
             }
         }
         
@@ -1071,9 +1139,47 @@
             
             const lastUpdate = database.last_updated ? 
                 new Date(database.last_updated).toLocaleString() : 'Unknown';
-            document.getElementById('footer').innerHTML = 
-                `<strong>Curated deals from Google Flights</strong><br>
-                Last updated: ${lastUpdate}`;
+            document.getElementById('footer').innerHTML = `
+                <div class="faq-section">
+                    <div class="faq-title">Frequently Asked Questions</div>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question">Are these prices guaranteed?</div>
+                        <div class="faq-answer">
+                            Prices may fluctuate based on demand and availability. The best prices are secured when you book sooner rather than later. 
+                            We recommend booking immediately when you find a great deal.
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question">Why are these flights so cheap?</div>
+                        <div class="faq-answer">
+                            This website is designed to encourage people to travel more by showcasing the absolute cheapest flight options available. 
+                            We curate deals from Google Flights to help you find budget-friendly travel opportunities.
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question">Do these flights have layovers or multiple stops?</div>
+                        <div class="faq-answer">
+                            Yes, most of these deals may include layovers or multiple stops to keep costs low. 
+                            Click "Search on Google Flights" on any deal to see the full itinerary, including all stops and travel times.
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question">How often is this updated?</div>
+                        <div class="faq-answer">
+                            We update deals daily from Google Flights alerts. Deals are automatically removed once departure dates have passed.
+                        </div>
+                    </div>
+                    
+                    <div class="update-info">
+                        <strong>Curated deals from Google Flights</strong><br>
+                        Last updated: ${lastUpdate}
+                    </div>
+                </div>
+            `;
         }
         
         function updateMap(destinations) {
