@@ -532,13 +532,36 @@
             margin-right: auto;
         }
         
+        .faq-link {
+            color: #4a90e2;
+            cursor: pointer;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .faq-link:hover {
+            text-decoration: underline;
+        }
+        
         .faq-section {
             background: white;
             border-radius: 12px;
             padding: 30px;
-            margin-bottom: 30px;
+            margin-top: 20px;
+            margin-bottom: 20px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.08);
             text-align: left;
+            max-height: 0;
+            overflow: hidden;
+            opacity: 0;
+            transition: max-height 0.4s ease, opacity 0.3s ease, margin 0.3s ease, padding 0.3s ease;
+        }
+        
+        .faq-section.expanded {
+            max-height: 800px;
+            opacity: 1;
+            margin-top: 20px;
+            margin-bottom: 20px;
         }
         
         .faq-title {
@@ -571,13 +594,6 @@
             color: #6c757d;
             line-height: 1.6;
             font-size: 0.95em;
-        }
-        
-        .update-info {
-            margin-top: 20px;
-            padding-top: 20px;
-            border-top: 1px solid #e9ecef;
-            font-size: 0.9em;
         }
         
         .no-results {
@@ -778,9 +794,8 @@
                 margin-top: 30px;
             }
             
-            .faq-section {
+            .faq-section.expanded {
                 padding: 20px;
-                margin-bottom: 20px;
             }
             
             .faq-title {
@@ -1140,7 +1155,13 @@
             const lastUpdate = database.last_updated ? 
                 new Date(database.last_updated).toLocaleString() : 'Unknown';
             document.getElementById('footer').innerHTML = `
-                <div class="faq-section">
+                <div>
+                    <a class="faq-link" onclick="toggleFAQ()">FAQ</a> | 
+                    <strong>Curated deals from Google Flights</strong> | 
+                    Last updated: ${lastUpdate}
+                </div>
+                
+                <div class="faq-section" id="faqSection">
                     <div class="faq-title">Frequently Asked Questions</div>
                     
                     <div class="faq-item">
@@ -1172,11 +1193,6 @@
                         <div class="faq-answer">
                             We update deals daily from Google Flights alerts. Deals are automatically removed once departure dates have passed.
                         </div>
-                    </div>
-                    
-                    <div class="update-info">
-                        <strong>Curated deals from Google Flights</strong><br>
-                        Last updated: ${lastUpdate}
                     </div>
                 </div>
             `;
@@ -1414,6 +1430,11 @@
         
         function closeModal() {
             document.getElementById('modal').style.display = 'none';
+        }
+        
+        function toggleFAQ() {
+            const faqSection = document.getElementById('faqSection');
+            faqSection.classList.toggle('expanded');
         }
         
         window.onclick = function(e) {
