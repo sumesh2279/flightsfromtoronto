@@ -994,37 +994,103 @@
         
         // City coordinates for map
         const cityData = {
+            // Canada
             'Halifax': [44.6488, -63.5752],
             'Calgary': [51.0447, -114.0719],
-            'Miami': [25.7617, -80.1918],
-            'Fort Lauderdale': [26.1224, -80.1373],
-            'Orlando': [28.5383, -81.3792],
-            'Tampa': [27.9506, -82.4572],
             'Vancouver': [49.2827, -123.1207],
             'Edmonton': [53.5461, -113.4938],
-            'New York': [40.7128, -74.0060],
-            'Newark': [40.7128, -74.0060],
             'Toronto': [43.6532, -79.3832],
             'Montreal': [45.5017, -73.5673],
+            'Hamilton': [43.2557, -79.8711],
+            
+            // USA - East Coast
+            'New York': [40.7128, -74.0060],
+            'Newark': [40.7128, -74.0060],
+            'Boston': [42.3601, -71.0589],
+            'Orlando': [28.5383, -81.3792],
+            'Tampa': [27.9506, -82.4572],
+            'Fort Lauderdale': [26.1224, -80.1373],
+            'Fort Myers': [26.6406, -81.8723],
+            'Sarasota': [27.3364, -82.5307],
+            'Daytona Beach': [29.2108, -81.0228],
+            'West Palm Beach': [26.7153, -80.0534],
+            'Key West': [24.5551, -81.7800],
+            'Charleston': [32.7765, -79.9311],
+            'Charlotte': [35.2271, -80.8431],
+            'Richmond': [37.5407, -77.4360],
+            'Atlanta': [33.7490, -84.3880],
+            'Nashville': [36.1627, -86.7816],
+            'Jackson': [32.2988, -90.1848],
+            
+            // USA - West Coast
+            'Los Angeles': [34.0522, -118.2437],
+            'San Francisco': [37.7749, -122.4194],
+            'San Diego': [32.7157, -117.1611],
+            'Las Vegas': [36.1699, -115.1398],
+            'Portland': [45.5152, -122.6784],
+            'Phoenix': [33.4484, -112.0740],
+            'Denver': [39.7392, -104.9903],
+            'Aspen': [39.1911, -106.8175],
+            
+            // Caribbean
             'Cancún': [21.1619, -86.8515],
             'Cozumel': [20.4230, -86.9223],
             'Punta Cana': [18.5601, -68.3725],
             'Nassau': [25.0443, -77.3504],
             'San Juan': [18.4655, -66.1057],
             'Varadero': [23.1536, -81.2541],
-            'Mexico': [19.4326, -99.1332],
-            'Los Angeles': [34.0522, -118.2437],
-            'Las Vegas': [36.1699, -115.1398],
-            'Phoenix': [33.4484, -112.0740],
-            'Denver': [39.7392, -104.9903],
-            'Nashville': [36.1627, -86.7816],
-            'Fort Myers': [26.6406, -81.8723],
-            'Sarasota': [27.3364, -82.5307],
-            'Daytona Beach': [29.2108, -81.0228],
-            'West Palm Beach': [26.7153, -80.0534],
+            'Havana': [23.1136, -82.3666],
+            'Holguin': [20.8872, -76.2631],
+            'Bermuda': [32.3078, -64.7505],
+            'Aruba': [12.5211, -69.9683],
+            'Curaçao': [12.1696, -68.9900],
+            'Montego Bay': [18.4762, -77.8939],
+            'Kingston': [17.9714, -76.7931],
+            'George Town': [19.2866, -81.3744],
+            'Grand Cayman': [19.3133, -81.2546],
+            'Freeport': [26.5332, -78.6958],
             'La Romana': [18.4273, -68.9728],
-            'Hamilton': [43.2557, -79.8711],
-            'Mazatlán': [23.2494, -106.4111]
+            'Puerto Plata': [19.7934, -70.6865],
+            'Samana': [19.2052, -69.3368],
+            'Providenciales': [21.7943, -72.2653],
+            'Bridgetown': [13.0969, -59.6145],
+            'Saint Kitts': [17.3578, -62.7830],
+            'Pointe-à-Pitre': [16.2410, -61.5331],
+            'Fort-de-France': [14.6160, -61.0588],
+            
+            // Mexico & Central America
+            'Mexico': [19.4326, -99.1332],
+            'Mazatlán': [23.2494, -106.4111],
+            'Acapulco': [16.8531, -99.8237],
+            'Belize City': [17.4970, -88.1862],
+            
+            // Europe
+            'London': [51.5074, -0.1278],
+            'Paris': [48.8566, 2.3522],
+            'Amsterdam': [52.3676, 4.9041],
+            'Berlin': [52.5200, 13.4050],
+            'Barcelona': [41.3851, 2.1734],
+            'Athens': [37.9838, 23.7275],
+            'Budapest': [47.4979, 19.0402],
+            
+            // Africa
+            'Cairo': [30.0444, 31.2357],
+            'Accra': [5.6037, -0.1870],
+            
+            // Asia
+            'Austin': [30.2672, -97.7431],
+            
+            // India
+            'New Delhi': [28.6139, 77.2090],
+            'Mumbai': [19.0760, 72.8777],
+            'Bengaluru': [12.9716, 77.5946],
+            'Hyderabad': [17.3850, 78.4867],
+            'Kochi': [9.9312, 76.2673],
+            'Kozhikode': [11.2588, 75.7804],
+            'Thiruvananthapuram': [8.5241, 76.9366],
+            
+            // Asia - Other
+            'Sapporo': [43.0642, 141.3469]
         };
         
         async function loadData() {
@@ -1252,6 +1318,8 @@
             markers.forEach(m => map.removeLayer(m));
             markers = [];
             
+            const bounds = [];
+            
             destinations.forEach(([name, data]) => {
                 const mainCity = name.split(',')[0].trim();
                 const coords = cityData[mainCity];
@@ -1269,8 +1337,14 @@
                     `);
                     marker.on('click', () => showDeals(name));
                     markers.push(marker);
+                    bounds.push(coords);
                 }
             });
+            
+            // Auto-zoom map to fit all markers
+            if (bounds.length > 0) {
+                map.fitBounds(bounds, { padding: [50, 50], maxZoom: 4 });
+            }
         }
         
         async function fetchDestinationInfo(destination) {
