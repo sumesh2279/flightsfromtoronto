@@ -1229,15 +1229,43 @@
             // Extract main city name (remove country/state)
             const cityName = destination.split(',')[0].trim();
             
+            // Disambiguation mapping for cities that need context
+            const disambiguationMap = {
+                'Halifax': 'Halifax, Nova Scotia',
+                'London': 'London, Ontario',
+                'Windsor': 'Windsor, Ontario',
+                'Kingston': 'Kingston, Ontario',
+                'Hamilton': 'Hamilton, Ontario',
+                'Cambridge': 'Cambridge, Massachusetts',
+                'Portland': 'Portland, Oregon',
+                'Springfield': 'Springfield, Massachusetts'
+            };
+            
+            // Use full destination name for disambiguation, otherwise just city
+            const searchTerm = disambiguationMap[cityName] || cityName;
+            
             try {
                 // Wikipedia API - get full info including image
                 const response = await fetch(
-                    `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(cityName)}`
+                    `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(searchTerm)}`
                 );
                 
                 if (!response.ok) throw new Error('Wikipedia fetch failed');
                 
                 const data = await response.json();
+                
+                // Check if we got a disambiguation page (these have "may refer to" in description)
+                const isDisambiguation = data.extract && (
+                    data.extract.includes('may refer to') || 
+                    data.extract.includes('commonly refers to') ||
+                    data.type === 'disambiguation'
+                );
+                
+                // If disambiguation and we haven't tried with full destination, try again
+                if (isDisambiguation && searchTerm === cityName && destination.includes(',')) {
+                    console.log(`Got disambiguation for ${cityName}, retrying with full destination...`);
+                    return fetchDestinationInfo(destination.replace(',', ', ')); // Add space after comma
+                }
                 
                 // Get highlights from our curated list, or generic ones
                 const highlights = destinationHighlights[cityName] || [
@@ -1250,7 +1278,7 @@
                 
                 return {
                     description: data.extract || `${cityName} is a popular travel destination with rich culture and attractions.`,
-                    url: data.content_urls?.desktop?.page || `https://en.wikipedia.org/wiki/${encodeURIComponent(cityName)}`,
+                    url: data.content_urls?.desktop?.page || `https://en.wikipedia.org/wiki/${encodeURIComponent(searchTerm)}`,
                     image: data.originalimage?.source || data.thumbnail?.source || '',
                     highlights: highlights
                 };
@@ -1261,7 +1289,7 @@
                 
                 return {
                     description: `${cityName} is a popular travel destination. Discover its unique attractions and culture.`,
-                    url: `https://en.wikipedia.org/wiki/${encodeURIComponent(cityName)}`,
+                    url: `https://en.wikipedia.org/wiki/${encodeURIComponent(searchTerm)}`,
                     image: '',
                     highlights: highlights
                 };
