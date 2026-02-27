@@ -4661,6 +4661,30 @@
           "depart_date": "2026-08-24",
           "return_date": "2026-09-01",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-08-24 returning 2026-09-01"
+        },
+        {
+          "dates": "Sat, Jul 4 \u2013 Mon, Jul 13",
+          "price": "CA$486",
+          "price_value": 486,
+          "depart_date": "2026-07-04",
+          "return_date": "2026-07-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-07-04 returning 2026-07-13"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Fri, Jul 17",
+          "price": "CA$554",
+          "price_value": 554,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-07-09 returning 2026-07-17"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Wed, Jul 22",
+          "price": "CA$582",
+          "price_value": 582,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-07-16 returning 2026-07-22"
         }
       ]
     },
@@ -9087,14 +9111,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Orlando on 2026-08-24 returning 2026-09-02"
         },
         {
-          "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
-          "price": "CA$341",
-          "price_value": 341,
-          "depart_date": "2026-08-06",
-          "return_date": "2026-08-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Orlando on 2026-08-06 returning 2026-08-12"
-        },
-        {
           "dates": "Sun, Jun 14 \u2013 Mon, Jun 22",
           "price": "CA$238",
           "price_value": 238,
@@ -9125,6 +9141,30 @@
           "depart_date": "2026-06-07",
           "return_date": "2026-06-15",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Orlando on 2026-06-07 returning 2026-06-15"
+        },
+        {
+          "dates": "Sat, Aug 1 \u2013 Fri, Aug 7",
+          "price": "CA$281",
+          "price_value": 281,
+          "depart_date": "2026-08-01",
+          "return_date": "2026-08-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-08-01 returning 2026-08-07"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
+          "price": "CA$322",
+          "price_value": 322,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-08-06 returning 2026-08-12"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Tue, Sep 8",
+          "price": "CA$387",
+          "price_value": 387,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-08-30 returning 2026-09-08"
         }
       ]
     },
@@ -15580,7 +15620,7 @@
     },
     "Bengaluru": {
       "origin": "Toronto",
-      "cheapest_current": "CA$949",
+      "cheapest_current": "CA$822",
       "deals": [
         {
           "dates": "Mon, Jun 8 \u2013 Wed, Jun 17",
@@ -15597,14 +15637,6 @@
           "depart_date": "2026-06-01",
           "return_date": "2026-06-09",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bengaluru on 2026-06-01 returning 2026-06-09"
-        },
-        {
-          "dates": "Thu, Jun 11 \u2013 Wed, Jun 17",
-          "price": "CA$1,284",
-          "price_value": 1284,
-          "depart_date": "2026-06-11",
-          "return_date": "2026-06-17",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bengaluru on 2026-06-11 returning 2026-06-17"
         },
         {
           "dates": "Thu, Jul 16 \u2013 Wed, Jul 22",
@@ -15653,6 +15685,30 @@
           "depart_date": "2026-08-15",
           "return_date": "2026-08-24",
           "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Bengaluru on 2026-08-15 returning 2026-08-24"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
+          "price": "CA$822",
+          "price_value": 822,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Bengaluru on 2026-06-04 returning 2026-06-10"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Wed, Jun 17",
+          "price": "CA$987",
+          "price_value": 987,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Bengaluru on 2026-06-11 returning 2026-06-17"
+        },
+        {
+          "dates": "Thu, Jun 18 \u2013 Thu, Jun 25",
+          "price": "CA$1,023",
+          "price_value": 1023,
+          "depart_date": "2026-06-18",
+          "return_date": "2026-06-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Bengaluru on 2026-06-18 returning 2026-06-25"
         }
       ]
     },
@@ -16032,7 +16088,7 @@
     },
     "Newark, New York": {
       "origin": "Toronto",
-      "cheapest_current": "CA$239",
+      "cheapest_current": "CA$234",
       "deals": [
         {
           "dates": "Mon, Apr 20 \u2013 Sun, Apr 26",
@@ -16057,6 +16113,30 @@
           "depart_date": "2026-04-09",
           "return_date": "2026-04-15",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-04-09 returning 2026-04-15"
+        },
+        {
+          "dates": "Fri, Mar 20 \u2013 Sun, Mar 29",
+          "price": "CA$234",
+          "price_value": 234,
+          "depart_date": "2026-03-20",
+          "return_date": "2026-03-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-03-20 returning 2026-03-29"
+        },
+        {
+          "dates": "Thu, Mar 26 \u2013 Wed, Apr 1",
+          "price": "CA$239",
+          "price_value": 239,
+          "depart_date": "2026-03-26",
+          "return_date": "2026-04-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-03-26 returning 2026-04-01"
+        },
+        {
+          "dates": "Mon, Mar 9 \u2013 Wed, Mar 18",
+          "price": "CA$286",
+          "price_value": 286,
+          "depart_date": "2026-03-09",
+          "return_date": "2026-03-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-03-09 returning 2026-03-18"
         }
       ]
     }
@@ -16243,9 +16323,9 @@
       "date": "2026-02-22T14:37:29.444183"
     },
     "Newark, New York": {
-      "lowest_ever": "CA$239",
-      "lowest_value": 239,
-      "date": "2026-02-26T16:32:42.094006"
+      "lowest_ever": "CA$234",
+      "lowest_value": 234,
+      "date": "2026-02-27T17:31:00.310490"
     },
     "Orlando": {
       "lowest_ever": "CA$163",
@@ -16303,9 +16383,9 @@
       "date": "2026-02-22T14:34:25.266542"
     },
     "Bengaluru": {
-      "lowest_ever": "CA$884",
-      "lowest_value": 884,
-      "date": "2026-02-22T14:37:29.443197"
+      "lowest_ever": "CA$822",
+      "lowest_value": 822,
+      "date": "2026-02-27T17:31:00.310278"
     },
     "Key West": {
       "lowest_ever": "CA$601",
@@ -17376,7 +17456,11 @@
     "9509",
     "9512",
     "9514",
-    "9513"
+    "9513",
+    "9519",
+    "9518",
+    "9517",
+    "9516"
   ],
-  "last_updated": "2026-02-27T16:30:37.030973"
+  "last_updated": "2026-02-27T17:31:00.310517"
 }
