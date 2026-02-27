@@ -7671,6 +7671,30 @@
           "depart_date": "2026-04-17",
           "return_date": "2026-04-25",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Calgary on 2026-04-17 returning 2026-04-25"
+        },
+        {
+          "dates": "Fri, Aug 21 \u2013 Thu, Aug 27",
+          "price": "CA$190",
+          "price_value": 190,
+          "depart_date": "2026-08-21",
+          "return_date": "2026-08-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-08-21 returning 2026-08-27"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Tue, Sep 8",
+          "price": "CA$308",
+          "price_value": 308,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-08-30 returning 2026-09-08"
+        },
+        {
+          "dates": "Sun, Aug 16 \u2013 Tue, Aug 25",
+          "price": "CA$323",
+          "price_value": 323,
+          "depart_date": "2026-08-16",
+          "return_date": "2026-08-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-08-16 returning 2026-08-25"
         }
       ]
     },
@@ -13253,6 +13277,22 @@
           "depart_date": "2026-05-24",
           "return_date": "2026-05-30",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Tampa on 2026-05-24 returning 2026-05-30"
+        },
+        {
+          "dates": "Sun, Jul 5 \u2013 Sun, Jul 12",
+          "price": "CA$287",
+          "price_value": 287,
+          "depart_date": "2026-07-05",
+          "return_date": "2026-07-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Tampa on 2026-07-05 returning 2026-07-12"
+        },
+        {
+          "dates": "Fri, Jul 10 \u2013 Fri, Jul 17",
+          "price": "CA$343",
+          "price_value": 343,
+          "depart_date": "2026-07-10",
+          "return_date": "2026-07-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Tampa on 2026-07-10 returning 2026-07-17"
         }
       ]
     },
@@ -17334,7 +17374,9 @@
     "9478",
     "9508",
     "9509",
-    "9512"
+    "9512",
+    "9514",
+    "9513"
   ],
-  "last_updated": "2026-02-27T15:30:36.508520"
+  "last_updated": "2026-02-27T16:30:37.030973"
 }
