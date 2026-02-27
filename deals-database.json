@@ -13226,7 +13226,7 @@
     },
     "Nashville": {
       "origin": "Toronto",
-      "cheapest_current": "CA$217",
+      "cheapest_current": "CA$216",
       "deals": [
         {
           "dates": "Sun, Apr 26 \u2013 Mon, May 4",
@@ -13459,6 +13459,30 @@
           "depart_date": "2026-08-20",
           "return_date": "2026-08-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-08-20 returning 2026-08-26"
+        },
+        {
+          "dates": "Sat, Apr 18 \u2013 Fri, Apr 24",
+          "price": "CA$216",
+          "price_value": 216,
+          "depart_date": "2026-04-18",
+          "return_date": "2026-04-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-04-18 returning 2026-04-24"
+        },
+        {
+          "dates": "Sun, Apr 5 \u2013 Sat, Apr 11",
+          "price": "CA$258",
+          "price_value": 258,
+          "depart_date": "2026-04-05",
+          "return_date": "2026-04-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-04-05 returning 2026-04-11"
+        },
+        {
+          "dates": "Mon, Apr 13 \u2013 Tue, Apr 21",
+          "price": "CA$258",
+          "price_value": 258,
+          "depart_date": "2026-04-13",
+          "return_date": "2026-04-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-04-13 returning 2026-04-21"
         }
       ]
     },
@@ -16262,9 +16286,9 @@
       "date": "2026-02-26T16:32:42.093412"
     },
     "Nashville": {
-      "lowest_ever": "CA$217",
-      "lowest_value": 217,
-      "date": "2026-02-26T16:32:42.093924"
+      "lowest_ever": "CA$216",
+      "lowest_value": 216,
+      "date": "2026-02-27T13:30:35.488783"
     },
     "Portland": {
       "lowest_ever": "CA$372",
@@ -17276,7 +17300,8 @@
     "9480",
     "9479",
     "9478",
-    "9508"
+    "9508",
+    "9509"
   ],
-  "last_updated": "2026-02-27T12:30:39.594599"
+  "last_updated": "2026-02-27T13:30:35.488829"
 }
