@@ -1467,6 +1467,30 @@
           "depart_date": "2026-03-15",
           "return_date": "2026-03-24",
           "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Mumbai on 2026-03-15 returning 2026-03-24"
+        },
+        {
+          "dates": "Mon, May 4 \u2013 Mon, May 11",
+          "price": "CA$1,177",
+          "price_value": 1177,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-05-04 returning 2026-05-11"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Wed, May 13",
+          "price": "CA$1,177",
+          "price_value": 1177,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-05-07 returning 2026-05-13"
+        },
+        {
+          "dates": "Thu, May 21 \u2013 Thu, May 28",
+          "price": "CA$1,281",
+          "price_value": 1281,
+          "depart_date": "2026-05-21",
+          "return_date": "2026-05-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-05-21 returning 2026-05-28"
         }
       ]
     },
@@ -7860,7 +7884,7 @@
     },
     "Boston": {
       "origin": "Toronto",
-      "cheapest_current": "CA$311",
+      "cheapest_current": "CA$256",
       "deals": [
         {
           "dates": "Thu, Mar 5 \u2013 Wed, Mar 11",
@@ -8061,6 +8085,14 @@
           "depart_date": "2026-06-11",
           "return_date": "2026-06-17",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-06-11 returning 2026-06-17"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
+          "price": "CA$256",
+          "price_value": 256,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-08-31 returning 2026-09-09"
         }
       ]
     },
@@ -16631,9 +16663,9 @@
       "date": "2026-02-28T07:31:04.245884"
     },
     "Boston": {
-      "lowest_ever": "CA$311",
-      "lowest_value": 311,
-      "date": "2026-02-22T14:34:33.462627"
+      "lowest_ever": "CA$256",
+      "lowest_value": 256,
+      "date": "2026-02-28T15:31:02.804113"
     },
     "Athens": {
       "lowest_ever": "CA$687",
@@ -17805,7 +17837,9 @@
     "9532",
     "9536",
     "9535",
-    "9537"
+    "9537",
+    "9539",
+    "9538"
   ],
-  "last_updated": "2026-02-28T14:31:07.960915"
+  "last_updated": "2026-02-28T15:31:02.804255"
 }
