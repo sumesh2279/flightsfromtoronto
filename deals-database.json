@@ -7147,6 +7147,30 @@
           "depart_date": "2026-03-07",
           "return_date": "2026-03-16",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Edmonton on 2026-03-07 returning 2026-03-16"
+        },
+        {
+          "dates": "Sat, Mar 21 \u2013 Mon, Mar 30",
+          "price": "CA$156",
+          "price_value": 156,
+          "depart_date": "2026-03-21",
+          "return_date": "2026-03-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Edmonton on 2026-03-21 returning 2026-03-30"
+        },
+        {
+          "dates": "Fri, Mar 27 \u2013 Thu, Apr 2",
+          "price": "CA$216",
+          "price_value": 216,
+          "depart_date": "2026-03-27",
+          "return_date": "2026-04-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Edmonton on 2026-03-27 returning 2026-04-02"
+        },
+        {
+          "dates": "Sat, Mar 7 \u2013 Sun, Mar 15",
+          "price": "CA$257",
+          "price_value": 257,
+          "depart_date": "2026-03-07",
+          "return_date": "2026-03-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Edmonton on 2026-03-07 returning 2026-03-15"
         }
       ]
     },
@@ -14261,6 +14285,30 @@
           "depart_date": "2026-04-19",
           "return_date": "2026-04-28",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-04-19 returning 2026-04-28"
+        },
+        {
+          "dates": "Thu, Mar 26 \u2013 Fri, Apr 3",
+          "price": "CA$265",
+          "price_value": 265,
+          "depart_date": "2026-03-26",
+          "return_date": "2026-04-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-03-26 returning 2026-04-03"
+        },
+        {
+          "dates": "Mon, Mar 23 \u2013 Tue, Mar 31",
+          "price": "CA$299",
+          "price_value": 299,
+          "depart_date": "2026-03-23",
+          "return_date": "2026-03-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-03-23 returning 2026-03-31"
+        },
+        {
+          "dates": "Mon, Mar 16 \u2013 Wed, Mar 25",
+          "price": "CA$306",
+          "price_value": 306,
+          "depart_date": "2026-03-16",
+          "return_date": "2026-03-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-03-16 returning 2026-03-25"
         }
       ]
     },
@@ -16096,7 +16144,7 @@
     },
     "Fort Lauderdale, West Palm Beach": {
       "origin": "Toronto",
-      "cheapest_current": "CA$179",
+      "cheapest_current": "CA$169",
       "deals": [
         {
           "dates": "Sun, Jul 19 \u2013 Tue, Jul 28",
@@ -16121,6 +16169,30 @@
           "depart_date": "2026-07-30",
           "return_date": "2026-08-06",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-07-30 returning 2026-08-06"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
+          "price": "CA$169",
+          "price_value": 169,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-06-04 returning 2026-06-11"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
+          "price": "CA$282",
+          "price_value": 282,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Sun, Jun 28 \u2013 Tue, Jul 7",
+          "price": "CA$285",
+          "price_value": 285,
+          "depart_date": "2026-06-28",
+          "return_date": "2026-07-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-06-28 returning 2026-07-07"
         }
       ]
     },
@@ -16665,9 +16737,9 @@
       "date": "2026-02-26T09:50:38.260543"
     },
     "Fort Lauderdale, West Palm Beach": {
-      "lowest_ever": "CA$179",
-      "lowest_value": 179,
-      "date": "2026-02-26T09:50:38.261142"
+      "lowest_ever": "CA$169",
+      "lowest_value": 169,
+      "date": "2026-02-28T10:31:02.819345"
     },
     "La Romana, Punta Cana": {
       "lowest_ever": "CA$398",
@@ -17620,7 +17692,10 @@
     "9523",
     "9527",
     "9526",
-    "9525"
+    "9525",
+    "9531",
+    "9530",
+    "9529"
   ],
-  "last_updated": "2026-02-28T07:31:04.245911"
+  "last_updated": "2026-02-28T10:31:02.819473"
 }
