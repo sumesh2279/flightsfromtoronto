@@ -1483,14 +1483,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-06-13 returning 2026-06-20"
         },
         {
-          "dates": "Mon, Jun 1 \u2013 Wed, Jun 10",
-          "price": "CA$491",
-          "price_value": 491,
-          "depart_date": "2026-06-01",
-          "return_date": "2026-06-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-06-01 returning 2026-06-10"
-        },
-        {
           "dates": "Sat, Jun 20 \u2013 Sat, Jun 27",
           "price": "CA$496",
           "price_value": 496,
@@ -1705,6 +1697,30 @@
           "depart_date": "2026-07-16",
           "return_date": "2026-07-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-16 returning 2026-07-23"
+        },
+        {
+          "dates": "Sat, Jun 6 \u2013 Sat, Jun 13",
+          "price": "CA$388",
+          "price_value": 388,
+          "depart_date": "2026-06-06",
+          "return_date": "2026-06-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-06-06 returning 2026-06-13"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Wed, Jun 10",
+          "price": "CA$456",
+          "price_value": 456,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-06-01 returning 2026-06-10"
+        },
+        {
+          "dates": "Sun, Jun 28 \u2013 Sun, Jul 5",
+          "price": "CA$479",
+          "price_value": 479,
+          "depart_date": "2026-06-28",
+          "return_date": "2026-07-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-06-28 returning 2026-07-05"
         }
       ]
     },
@@ -7171,6 +7187,30 @@
           "depart_date": "2026-03-07",
           "return_date": "2026-03-15",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Edmonton on 2026-03-07 returning 2026-03-15"
+        },
+        {
+          "dates": "Sat, Jun 13 \u2013 Fri, Jun 19",
+          "price": "CA$191",
+          "price_value": 191,
+          "depart_date": "2026-06-13",
+          "return_date": "2026-06-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-06-13 returning 2026-06-19"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
+          "price": "CA$216",
+          "price_value": 216,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-06-04 returning 2026-06-11"
+        },
+        {
+          "dates": "Fri, Jun 19 \u2013 Thu, Jun 25",
+          "price": "CA$238",
+          "price_value": 238,
+          "depart_date": "2026-06-19",
+          "return_date": "2026-06-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-06-19 returning 2026-06-25"
         }
       ]
     },
@@ -15914,16 +15954,8 @@
     },
     "Fort Lauderdale, Miami": {
       "origin": "Hamilton, Toronto",
-      "cheapest_current": "CA$179",
+      "cheapest_current": "CA$169",
       "deals": [
-        {
-          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
-          "price": "CA$185",
-          "price_value": 185,
-          "depart_date": "2026-06-04",
-          "return_date": "2026-06-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-04 returning 2026-06-11"
-        },
         {
           "dates": "Thu, Jun 11 \u2013 Thu, Jun 18",
           "price": "CA$297",
@@ -15963,6 +15995,30 @@
           "depart_date": "2026-07-12",
           "return_date": "2026-07-21",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-12 returning 2026-07-21"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
+          "price": "CA$169",
+          "price_value": 169,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-04 returning 2026-06-11"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
+          "price": "CA$282",
+          "price_value": 282,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Sun, Jun 28 \u2013 Tue, Jul 7",
+          "price": "CA$285",
+          "price_value": 285,
+          "depart_date": "2026-06-28",
+          "return_date": "2026-07-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-28 returning 2026-07-07"
         }
       ]
     },
@@ -16717,9 +16773,9 @@
       "date": "2026-02-22T14:34:51.837332"
     },
     "Fort Lauderdale, Miami": {
-      "lowest_ever": "CA$179",
-      "lowest_value": 179,
-      "date": "2026-02-26T09:50:38.260854"
+      "lowest_ever": "CA$169",
+      "lowest_value": 169,
+      "date": "2026-02-28T11:31:09.933004"
     },
     "Daytona Beach, Orlando": {
       "lowest_ever": "CA$207",
@@ -17695,7 +17751,10 @@
     "9525",
     "9531",
     "9530",
-    "9529"
+    "9529",
+    "9534",
+    "9533",
+    "9532"
   ],
-  "last_updated": "2026-02-28T10:31:02.819473"
+  "last_updated": "2026-02-28T11:31:09.933130"
 }
