@@ -16108,7 +16108,7 @@
     },
     "Sarasota, Tampa": {
       "origin": "Toronto",
-      "cheapest_current": "CA$225",
+      "cheapest_current": "CA$221",
       "deals": [
         {
           "dates": "Fri, Aug 7 \u2013 Fri, Aug 14",
@@ -16165,6 +16165,30 @@
           "depart_date": "2026-03-16",
           "return_date": "2026-03-25",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-03-16 returning 2026-03-25"
+        },
+        {
+          "dates": "Sun, May 3 \u2013 Mon, May 11",
+          "price": "CA$221",
+          "price_value": 221,
+          "depart_date": "2026-05-03",
+          "return_date": "2026-05-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-03 returning 2026-05-11"
+        },
+        {
+          "dates": "Mon, May 11 \u2013 Wed, May 20",
+          "price": "CA$260",
+          "price_value": 260,
+          "depart_date": "2026-05-11",
+          "return_date": "2026-05-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-11 returning 2026-05-20"
+        },
+        {
+          "dates": "Sun, May 24 \u2013 Sun, May 31",
+          "price": "CA$276",
+          "price_value": 276,
+          "depart_date": "2026-05-24",
+          "return_date": "2026-05-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-24 returning 2026-05-31"
         }
       ]
     },
@@ -16783,9 +16807,9 @@
       "date": "2026-02-24T17:08:14.255909"
     },
     "Sarasota, Tampa": {
-      "lowest_ever": "CA$225",
-      "lowest_value": 225,
-      "date": "2026-02-27T08:44:40.928022"
+      "lowest_ever": "CA$221",
+      "lowest_value": 221,
+      "date": "2026-02-28T13:31:02.818933"
     },
     "Canc\u00fan, Tulum": {
       "lowest_ever": "CA$290",
@@ -17754,7 +17778,9 @@
     "9529",
     "9534",
     "9533",
-    "9532"
+    "9532",
+    "9536",
+    "9535"
   ],
-  "last_updated": "2026-02-28T11:31:09.933130"
+  "last_updated": "2026-02-28T13:31:02.818966"
 }
