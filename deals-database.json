@@ -16024,7 +16024,7 @@
     },
     "Hyderabad": {
       "origin": "Toronto",
-      "cheapest_current": "CA$1,310",
+      "cheapest_current": "CA$969",
       "deals": [
         {
           "dates": "Mon, Jun 1 \u2013 Mon, Jun 8",
@@ -16049,6 +16049,30 @@
           "depart_date": "2026-06-15",
           "return_date": "2026-06-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Hyderabad on 2026-06-15 returning 2026-06-22"
+        },
+        {
+          "dates": "Mon, Aug 10 \u2013 Tue, Aug 18",
+          "price": "CA$969",
+          "price_value": 969,
+          "depart_date": "2026-08-10",
+          "return_date": "2026-08-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Hyderabad on 2026-08-10 returning 2026-08-18"
+        },
+        {
+          "dates": "Sat, Aug 15 \u2013 Sat, Aug 22",
+          "price": "CA$1,005",
+          "price_value": 1005,
+          "depart_date": "2026-08-15",
+          "return_date": "2026-08-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Hyderabad on 2026-08-15 returning 2026-08-22"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
+          "price": "CA$1,039",
+          "price_value": 1039,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Hyderabad on 2026-08-31 returning 2026-09-09"
         }
       ]
     },
@@ -17780,7 +17804,8 @@
     "9533",
     "9532",
     "9536",
-    "9535"
+    "9535",
+    "9537"
   ],
-  "last_updated": "2026-02-28T13:31:02.818966"
+  "last_updated": "2026-02-28T14:31:07.960915"
 }
