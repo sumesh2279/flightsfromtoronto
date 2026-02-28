@@ -5351,6 +5351,30 @@
           "depart_date": "2026-03-09",
           "return_date": "2026-03-17",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Jackson on 2026-03-09 returning 2026-03-17"
+        },
+        {
+          "dates": "Mon, Jul 20 \u2013 Wed, Jul 29",
+          "price": "CA$649",
+          "price_value": 649,
+          "depart_date": "2026-07-20",
+          "return_date": "2026-07-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Jackson on 2026-07-20 returning 2026-07-29"
+        },
+        {
+          "dates": "Mon, Jul 27 \u2013 Wed, Aug 5",
+          "price": "CA$649",
+          "price_value": 649,
+          "depart_date": "2026-07-27",
+          "return_date": "2026-08-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Jackson on 2026-07-27 returning 2026-08-05"
+        },
+        {
+          "dates": "Thu, Jul 30 \u2013 Wed, Aug 5",
+          "price": "CA$664",
+          "price_value": 664,
+          "depart_date": "2026-07-30",
+          "return_date": "2026-08-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Jackson on 2026-07-30 returning 2026-08-05"
         }
       ]
     },
@@ -17502,7 +17526,8 @@
     "9517",
     "9516",
     "9520",
-    "9521"
+    "9521",
+    "9522"
   ],
-  "last_updated": "2026-02-27T19:30:59.998371"
+  "last_updated": "2026-02-27T20:30:58.620804"
 }
