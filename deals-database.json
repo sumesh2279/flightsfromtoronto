@@ -5623,14 +5623,6 @@
       "cheapest_current": "CA$355",
       "deals": [
         {
-          "dates": "Mon, Jul 27 \u2013 Tue, Aug 4",
-          "price": "CA$476",
-          "price_value": 476,
-          "depart_date": "2026-07-27",
-          "return_date": "2026-08-04",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-07-27 returning 2026-08-04"
-        },
-        {
           "dates": "Sat, Jul 4 \u2013 Mon, Jul 13",
           "price": "CA$486",
           "price_value": 486,
@@ -5925,6 +5917,14 @@
           "depart_date": "2026-08-24",
           "return_date": "2026-09-01",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-08-24 returning 2026-09-01"
+        },
+        {
+          "dates": "Mon, Jul 27 \u2013 Tue, Aug 4",
+          "price": "CA$380",
+          "price_value": 380,
+          "depart_date": "2026-07-27",
+          "return_date": "2026-08-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-07-27 returning 2026-08-04"
         }
       ]
     },
@@ -18215,7 +18215,8 @@
     "9555",
     "9554",
     "9556",
-    "9558"
+    "9558",
+    "9559"
   ],
-  "last_updated": "2026-03-01T13:31:08.929288"
+  "last_updated": "2026-03-01T14:31:09.539438"
 }
