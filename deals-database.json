@@ -4355,14 +4355,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Acapulco on 2026-04-23 returning 2026-04-29"
         },
         {
-          "dates": "Sat, Apr 18 \u2013 Sat, Apr 25",
-          "price": "CA$545",
-          "price_value": 545,
-          "depart_date": "2026-04-18",
-          "return_date": "2026-04-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Acapulco on 2026-04-18 returning 2026-04-25"
-        },
-        {
           "dates": "Thu, Feb 26 \u2013 Wed, Mar 4",
           "price": "CA$457",
           "price_value": 457,
@@ -4401,6 +4393,30 @@
           "depart_date": "2026-05-30",
           "return_date": "2026-06-06",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Acapulco on 2026-05-30 returning 2026-06-06"
+        },
+        {
+          "dates": "Sat, Apr 11 \u2013 Sat, Apr 18",
+          "price": "CA$476",
+          "price_value": 476,
+          "depart_date": "2026-04-11",
+          "return_date": "2026-04-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Acapulco on 2026-04-11 returning 2026-04-18"
+        },
+        {
+          "dates": "Sat, Apr 18 \u2013 Sat, Apr 25",
+          "price": "CA$476",
+          "price_value": 476,
+          "depart_date": "2026-04-18",
+          "return_date": "2026-04-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Acapulco on 2026-04-18 returning 2026-04-25"
+        },
+        {
+          "dates": "Fri, Apr 24 \u2013 Sat, May 2",
+          "price": "CA$641",
+          "price_value": 641,
+          "depart_date": "2026-04-24",
+          "return_date": "2026-05-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Acapulco on 2026-04-24 returning 2026-05-02"
         }
       ]
     },
@@ -18173,7 +18189,8 @@
     "9547",
     "9546",
     "9555",
-    "9554"
+    "9554",
+    "9556"
   ],
-  "last_updated": "2026-03-01T10:31:10.600871"
+  "last_updated": "2026-03-01T12:31:09.585236"
 }
