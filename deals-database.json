@@ -3869,6 +3869,38 @@
           "depart_date": "2026-06-18",
           "return_date": "2026-06-21",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-06-18 returning 2026-06-21"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Sun, Aug 9",
+          "price": "CA$657",
+          "price_value": 657,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-08-06 returning 2026-08-09"
+        },
+        {
+          "dates": "Sat, Aug 29 \u2013 Sun, Aug 30",
+          "price": "CA$562",
+          "price_value": 562,
+          "depart_date": "2026-08-29",
+          "return_date": "2026-08-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-08-29 returning 2026-08-30"
+        },
+        {
+          "dates": "Fri, Aug 21 \u2013 Mon, Aug 24",
+          "price": "CA$620",
+          "price_value": 620,
+          "depart_date": "2026-08-21",
+          "return_date": "2026-08-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-08-21 returning 2026-08-24"
+        },
+        {
+          "dates": "Sat, Aug 15 \u2013 Mon, Aug 17",
+          "price": "CA$630",
+          "price_value": 630,
+          "depart_date": "2026-08-15",
+          "return_date": "2026-08-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-08-15 returning 2026-08-17"
         }
       ]
     },
@@ -8681,6 +8713,30 @@
           "depart_date": "2026-08-23",
           "return_date": "2026-09-01",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-08-23 returning 2026-09-01"
+        },
+        {
+          "dates": "Mon, May 4 \u2013 Tue, May 12",
+          "price": "CA$1,471",
+          "price_value": 1471,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-05-04 returning 2026-05-12"
+        },
+        {
+          "dates": "Mon, May 18 \u2013 Wed, May 27",
+          "price": "CA$1,661",
+          "price_value": 1661,
+          "depart_date": "2026-05-18",
+          "return_date": "2026-05-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-05-18 returning 2026-05-27"
+        },
+        {
+          "dates": "Mon, May 11 \u2013 Wed, May 20",
+          "price": "CA$1,862",
+          "price_value": 1862,
+          "depart_date": "2026-05-11",
+          "return_date": "2026-05-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-05-11 returning 2026-05-20"
         }
       ]
     },
@@ -11693,6 +11749,30 @@
           "depart_date": "2026-08-10",
           "return_date": "2026-08-17",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-08-10 returning 2026-08-17"
+        },
+        {
+          "dates": "Thu, Jun 25 \u2013 Fri, Jul 3",
+          "price": "CA$301",
+          "price_value": 301,
+          "depart_date": "2026-06-25",
+          "return_date": "2026-07-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-06-25 returning 2026-07-03"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Sun, Jun 21",
+          "price": "CA$436",
+          "price_value": 436,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-06-12 returning 2026-06-21"
+        },
+        {
+          "dates": "Thu, Jun 18 \u2013 Wed, Jun 24",
+          "price": "CA$436",
+          "price_value": 436,
+          "depart_date": "2026-06-18",
+          "return_date": "2026-06-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-06-18 returning 2026-06-24"
         }
       ]
     },
@@ -17864,7 +17944,10 @@
     "9537",
     "9539",
     "9538",
-    "9540"
+    "9540",
+    "9544",
+    "9543",
+    "9542"
   ],
-  "last_updated": "2026-02-28T17:31:07.083100"
+  "last_updated": "2026-02-28T19:31:10.875901"
 }
