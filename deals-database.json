@@ -1076,7 +1076,7 @@
     },
     "Kochi": {
       "origin": "Toronto",
-      "cheapest_current": "CA$1,039",
+      "cheapest_current": "CA$1,208",
       "deals": [
         {
           "dates": "Sun, May 17 \u2013 Mon, May 25",
@@ -1245,30 +1245,6 @@
           "depart_date": "2026-05-08",
           "return_date": "2026-05-14",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kochi on 2026-05-08 returning 2026-05-14"
-        },
-        {
-          "dates": "Sun, May 10 \u2013 Tue, May 19",
-          "price": "CA$1,039",
-          "price_value": 1039,
-          "depart_date": "2026-05-10",
-          "return_date": "2026-05-19",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kochi on 2026-05-10 returning 2026-05-19"
-        },
-        {
-          "dates": "Thu, May 14 \u2013 Wed, May 20",
-          "price": "CA$1,066",
-          "price_value": 1066,
-          "depart_date": "2026-05-14",
-          "return_date": "2026-05-20",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kochi on 2026-05-14 returning 2026-05-20"
-        },
-        {
-          "dates": "Fri, May 1 \u2013 Thu, May 7",
-          "price": "CA$1,102",
-          "price_value": 1102,
-          "depart_date": "2026-05-01",
-          "return_date": "2026-05-07",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kochi on 2026-05-01 returning 2026-05-07"
         },
         {
           "dates": "Sun, Aug 30 \u2013 Mon, Sep 7",
@@ -1475,38 +1451,6 @@
           "depart_date": "2026-02-26",
           "return_date": "2026-03-04",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-02-26 returning 2026-03-04"
-        },
-        {
-          "dates": "Sun, Mar 22 \u2013 Tue, Mar 31",
-          "price": "CA$997",
-          "price_value": 997,
-          "depart_date": "2026-03-22",
-          "return_date": "2026-03-31",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Mumbai on 2026-03-22 returning 2026-03-31"
-        },
-        {
-          "dates": "Sun, Mar 1 \u2013 Tue, Mar 10",
-          "price": "CA$894",
-          "price_value": 894,
-          "depart_date": "2026-03-01",
-          "return_date": "2026-03-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Mumbai on 2026-03-01 returning 2026-03-10"
-        },
-        {
-          "dates": "Sun, Mar 8 \u2013 Tue, Mar 17",
-          "price": "CA$894",
-          "price_value": 894,
-          "depart_date": "2026-03-08",
-          "return_date": "2026-03-17",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Mumbai on 2026-03-08 returning 2026-03-17"
-        },
-        {
-          "dates": "Sun, Mar 15 \u2013 Tue, Mar 24",
-          "price": "CA$894",
-          "price_value": 894,
-          "depart_date": "2026-03-15",
-          "return_date": "2026-03-24",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Mumbai on 2026-03-15 returning 2026-03-24"
         },
         {
           "dates": "Mon, May 4 \u2013 Mon, May 11",
@@ -3558,7 +3502,7 @@
     },
     "Thiruvananthapuram": {
       "origin": "Toronto",
-      "cheapest_current": "CA$1,195",
+      "cheapest_current": "CA$1,564",
       "deals": [
         {
           "dates": "Mon, Jul 13 \u2013 Wed, Jul 22",
@@ -3775,30 +3719,6 @@
           "depart_date": "2026-03-08",
           "return_date": "2026-03-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Thiruvananthapuram on 2026-03-08 returning 2026-03-16"
-        },
-        {
-          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
-          "price": "CA$1,195",
-          "price_value": 1195,
-          "depart_date": "2026-08-31",
-          "return_date": "2026-09-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Thiruvananthapuram on 2026-08-31 returning 2026-09-09"
-        },
-        {
-          "dates": "Mon, Aug 24 \u2013 Tue, Sep 1",
-          "price": "CA$1,217",
-          "price_value": 1217,
-          "depart_date": "2026-08-24",
-          "return_date": "2026-09-01",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Thiruvananthapuram on 2026-08-24 returning 2026-09-01"
-        },
-        {
-          "dates": "Fri, Aug 7 \u2013 Sun, Aug 16",
-          "price": "CA$1,241",
-          "price_value": 1241,
-          "depart_date": "2026-08-07",
-          "return_date": "2026-08-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Thiruvananthapuram on 2026-08-07 returning 2026-08-16"
         }
       ]
     },
@@ -4002,7 +3922,7 @@
     },
     "New Delhi": {
       "origin": "Toronto",
-      "cheapest_current": "CA$976",
+      "cheapest_current": "CA$1,142",
       "deals": [
         {
           "dates": "Mon, Mar 23 \u2013 Mon, Mar 30",
@@ -4187,38 +4107,6 @@
           "depart_date": "2026-04-09",
           "return_date": "2026-04-15",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to New%20Delhi on 2026-04-09 returning 2026-04-15"
-        },
-        {
-          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
-          "price": "CA$1,091",
-          "price_value": 1091,
-          "depart_date": "2026-08-31",
-          "return_date": "2026-09-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to New%20Delhi on 2026-08-31 returning 2026-09-09"
-        },
-        {
-          "dates": "Sun, Aug 2 \u2013 Tue, Aug 11",
-          "price": "CA$976",
-          "price_value": 976,
-          "depart_date": "2026-08-02",
-          "return_date": "2026-08-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to New%20Delhi on 2026-08-02 returning 2026-08-11"
-        },
-        {
-          "dates": "Sun, Aug 9 \u2013 Tue, Aug 18",
-          "price": "CA$976",
-          "price_value": 976,
-          "depart_date": "2026-08-09",
-          "return_date": "2026-08-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to New%20Delhi on 2026-08-09 returning 2026-08-18"
-        },
-        {
-          "dates": "Sun, Aug 16 \u2013 Tue, Aug 25",
-          "price": "CA$976",
-          "price_value": 976,
-          "depart_date": "2026-08-16",
-          "return_date": "2026-08-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to New%20Delhi on 2026-08-16 returning 2026-08-25"
         },
         {
           "dates": "Sun, Apr 26 \u2013 Mon, May 4",
@@ -8760,7 +8648,7 @@
     },
     "Kozhikode": {
       "origin": "Toronto",
-      "cheapest_current": "CA$976",
+      "cheapest_current": "CA$1,471",
       "deals": [
         {
           "dates": "Sun, Apr 12 \u2013 Mon, Apr 20",
@@ -8923,30 +8811,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-04-16 returning 2026-04-22"
         },
         {
-          "dates": "Mon, Aug 17 \u2013 Mon, Aug 24",
-          "price": "CA$976",
-          "price_value": 976,
-          "depart_date": "2026-08-17",
-          "return_date": "2026-08-24",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kozhikode on 2026-08-17 returning 2026-08-24"
-        },
-        {
-          "dates": "Mon, Aug 24 \u2013 Mon, Aug 31",
-          "price": "CA$976",
-          "price_value": 976,
-          "depart_date": "2026-08-24",
-          "return_date": "2026-08-31",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kozhikode on 2026-08-24 returning 2026-08-31"
-        },
-        {
-          "dates": "Thu, Aug 27 \u2013 Wed, Sep 2",
-          "price": "CA$976",
-          "price_value": 976,
-          "depart_date": "2026-08-27",
-          "return_date": "2026-09-02",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kozhikode on 2026-08-27 returning 2026-09-02"
-        },
-        {
           "dates": "Sun, Aug 30 \u2013 Tue, Sep 8",
           "price": "CA$2,139",
           "price_value": 2139,
@@ -8993,30 +8857,6 @@
           "depart_date": "2026-05-11",
           "return_date": "2026-05-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-05-11 returning 2026-05-20"
-        },
-        {
-          "dates": "Sat, Jun 6 \u2013 Mon, Jun 15",
-          "price": "CA$1,001",
-          "price_value": 1001,
-          "depart_date": "2026-06-06",
-          "return_date": "2026-06-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kozhikode on 2026-06-06 returning 2026-06-15"
-        },
-        {
-          "dates": "Mon, Jun 29 \u2013 Mon, Jul 6",
-          "price": "CA$1,122",
-          "price_value": 1122,
-          "depart_date": "2026-06-29",
-          "return_date": "2026-07-06",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kozhikode on 2026-06-29 returning 2026-07-06"
-        },
-        {
-          "dates": "Sun, Jun 14 \u2013 Sat, Jun 20",
-          "price": "CA$1,380",
-          "price_value": 1380,
-          "depart_date": "2026-06-14",
-          "return_date": "2026-06-20",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kozhikode on 2026-06-14 returning 2026-06-20"
         }
       ]
     },
@@ -16452,7 +16292,7 @@
     },
     "Bengaluru": {
       "origin": "Toronto",
-      "cheapest_current": "CA$822",
+      "cheapest_current": "CA$1,113",
       "deals": [
         {
           "dates": "Mon, Jun 8 \u2013 Wed, Jun 17",
@@ -16493,54 +16333,6 @@
           "depart_date": "2026-07-06",
           "return_date": "2026-07-14",
           "url": "https://www.google.com/travel/flights?q=flights from Baltimore%2C%20Washington to Bengaluru on 2026-07-06 returning 2026-07-14"
-        },
-        {
-          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
-          "price": "CA$949",
-          "price_value": 949,
-          "depart_date": "2026-08-31",
-          "return_date": "2026-09-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Bengaluru on 2026-08-31 returning 2026-09-09"
-        },
-        {
-          "dates": "Sat, Aug 1 \u2013 Fri, Aug 7",
-          "price": "CA$1,001",
-          "price_value": 1001,
-          "depart_date": "2026-08-01",
-          "return_date": "2026-08-07",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Bengaluru on 2026-08-01 returning 2026-08-07"
-        },
-        {
-          "dates": "Sat, Aug 15 \u2013 Mon, Aug 24",
-          "price": "CA$1,001",
-          "price_value": 1001,
-          "depart_date": "2026-08-15",
-          "return_date": "2026-08-24",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Bengaluru on 2026-08-15 returning 2026-08-24"
-        },
-        {
-          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
-          "price": "CA$822",
-          "price_value": 822,
-          "depart_date": "2026-06-04",
-          "return_date": "2026-06-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Bengaluru on 2026-06-04 returning 2026-06-10"
-        },
-        {
-          "dates": "Thu, Jun 11 \u2013 Wed, Jun 17",
-          "price": "CA$987",
-          "price_value": 987,
-          "depart_date": "2026-06-11",
-          "return_date": "2026-06-17",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Bengaluru on 2026-06-11 returning 2026-06-17"
-        },
-        {
-          "dates": "Thu, Jun 18 \u2013 Thu, Jun 25",
-          "price": "CA$1,023",
-          "price_value": 1023,
-          "depart_date": "2026-06-18",
-          "return_date": "2026-06-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Bengaluru on 2026-06-18 returning 2026-06-25"
         }
       ]
     },
@@ -16616,7 +16408,7 @@
     },
     "Hyderabad": {
       "origin": "Toronto",
-      "cheapest_current": "CA$969",
+      "cheapest_current": "CA$1,310",
       "deals": [
         {
           "dates": "Mon, Jun 1 \u2013 Mon, Jun 8",
@@ -16641,30 +16433,6 @@
           "depart_date": "2026-06-15",
           "return_date": "2026-06-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Hyderabad on 2026-06-15 returning 2026-06-22"
-        },
-        {
-          "dates": "Mon, Aug 10 \u2013 Tue, Aug 18",
-          "price": "CA$969",
-          "price_value": 969,
-          "depart_date": "2026-08-10",
-          "return_date": "2026-08-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Hyderabad on 2026-08-10 returning 2026-08-18"
-        },
-        {
-          "dates": "Sat, Aug 15 \u2013 Sat, Aug 22",
-          "price": "CA$1,005",
-          "price_value": 1005,
-          "depart_date": "2026-08-15",
-          "return_date": "2026-08-22",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Hyderabad on 2026-08-15 returning 2026-08-22"
-        },
-        {
-          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
-          "price": "CA$1,039",
-          "price_value": 1039,
-          "depart_date": "2026-08-31",
-          "return_date": "2026-09-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Hyderabad on 2026-08-31 returning 2026-09-09"
         }
       ]
     },
@@ -17025,56 +16793,7 @@
     "Newark, New York": {
       "origin": "Toronto",
       "cheapest_current": "CA$234",
-      "deals": [
-        {
-          "dates": "Mon, Apr 20 \u2013 Sun, Apr 26",
-          "price": "CA$239",
-          "price_value": 239,
-          "depart_date": "2026-04-20",
-          "return_date": "2026-04-26",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-04-20 returning 2026-04-26"
-        },
-        {
-          "dates": "Thu, Apr 2 \u2013 Wed, Apr 8",
-          "price": "CA$290",
-          "price_value": 290,
-          "depart_date": "2026-04-02",
-          "return_date": "2026-04-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-04-02 returning 2026-04-08"
-        },
-        {
-          "dates": "Thu, Apr 9 \u2013 Wed, Apr 15",
-          "price": "CA$290",
-          "price_value": 290,
-          "depart_date": "2026-04-09",
-          "return_date": "2026-04-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-04-09 returning 2026-04-15"
-        },
-        {
-          "dates": "Fri, Mar 20 \u2013 Sun, Mar 29",
-          "price": "CA$234",
-          "price_value": 234,
-          "depart_date": "2026-03-20",
-          "return_date": "2026-03-29",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-03-20 returning 2026-03-29"
-        },
-        {
-          "dates": "Thu, Mar 26 \u2013 Wed, Apr 1",
-          "price": "CA$239",
-          "price_value": 239,
-          "depart_date": "2026-03-26",
-          "return_date": "2026-04-01",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-03-26 returning 2026-04-01"
-        },
-        {
-          "dates": "Mon, Mar 9 \u2013 Wed, Mar 18",
-          "price": "CA$286",
-          "price_value": 286,
-          "depart_date": "2026-03-09",
-          "return_date": "2026-03-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-03-09 returning 2026-03-18"
-        }
-      ]
+      "deals": []
     }
   },
   "historical_prices": {
