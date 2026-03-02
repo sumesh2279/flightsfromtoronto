@@ -6315,14 +6315,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-08-06 returning 2026-08-13"
         },
         {
-          "dates": "Sun, Aug 2 \u2013 Mon, Aug 10",
-          "price": "CA$267",
-          "price_value": 267,
-          "depart_date": "2026-08-02",
-          "return_date": "2026-08-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-08-02 returning 2026-08-10"
-        },
-        {
           "dates": "Sun, Mar 1 \u2013 Mon, Mar 9",
           "price": "CA$126",
           "price_value": 126,
@@ -6593,6 +6585,22 @@
           "depart_date": "2026-08-10",
           "return_date": "2026-08-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-08-10 returning 2026-08-16"
+        },
+        {
+          "dates": "Sun, Aug 2 \u2013 Mon, Aug 10",
+          "price": "CA$254",
+          "price_value": 254,
+          "depart_date": "2026-08-02",
+          "return_date": "2026-08-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-08-02 returning 2026-08-10"
+        },
+        {
+          "dates": "Sun, Aug 9 \u2013 Sun, Aug 16",
+          "price": "CA$254",
+          "price_value": 254,
+          "depart_date": "2026-08-09",
+          "return_date": "2026-08-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-08-09 returning 2026-08-16"
         }
       ]
     },
@@ -7459,6 +7467,22 @@
           "depart_date": "2026-06-19",
           "return_date": "2026-06-25",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-06-19 returning 2026-06-25"
+        },
+        {
+          "dates": "Sat, Jul 25 \u2013 Mon, Aug 3",
+          "price": "CA$104",
+          "price_value": 104,
+          "depart_date": "2026-07-25",
+          "return_date": "2026-08-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Edmonton on 2026-07-25 returning 2026-08-03"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Thu, Jul 23",
+          "price": "CA$274",
+          "price_value": 274,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Edmonton on 2026-07-16 returning 2026-07-23"
         }
       ]
     },
@@ -8969,6 +8993,30 @@
           "depart_date": "2026-05-11",
           "return_date": "2026-05-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-05-11 returning 2026-05-20"
+        },
+        {
+          "dates": "Sat, Jun 6 \u2013 Mon, Jun 15",
+          "price": "CA$1,001",
+          "price_value": 1001,
+          "depart_date": "2026-06-06",
+          "return_date": "2026-06-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kozhikode on 2026-06-06 returning 2026-06-15"
+        },
+        {
+          "dates": "Mon, Jun 29 \u2013 Mon, Jul 6",
+          "price": "CA$1,122",
+          "price_value": 1122,
+          "depart_date": "2026-06-29",
+          "return_date": "2026-07-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kozhikode on 2026-06-29 returning 2026-07-06"
+        },
+        {
+          "dates": "Sun, Jun 14 \u2013 Sat, Jun 20",
+          "price": "CA$1,380",
+          "price_value": 1380,
+          "depart_date": "2026-06-14",
+          "return_date": "2026-06-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Newark%2C%20New%20York to Kozhikode on 2026-06-14 returning 2026-06-20"
         }
       ]
     },
@@ -9637,6 +9685,38 @@
           "depart_date": "2026-08-09",
           "return_date": "2026-08-18",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Orlando on 2026-08-09 returning 2026-08-18"
+        },
+        {
+          "dates": "Sun, Sep 6 \u2013 Sat, Sep 12",
+          "price": "CA$384",
+          "price_value": 384,
+          "depart_date": "2026-09-06",
+          "return_date": "2026-09-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-09-06 returning 2026-09-12"
+        },
+        {
+          "dates": "Sun, Sep 20 \u2013 Sat, Sep 26",
+          "price": "CA$336",
+          "price_value": 336,
+          "depart_date": "2026-09-20",
+          "return_date": "2026-09-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-09-20 returning 2026-09-26"
+        },
+        {
+          "dates": "Sun, Sep 6 \u2013 Tue, Sep 15",
+          "price": "CA$381",
+          "price_value": 381,
+          "depart_date": "2026-09-06",
+          "return_date": "2026-09-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-09-06 returning 2026-09-15"
+        },
+        {
+          "dates": "Sun, Sep 13 \u2013 Tue, Sep 22",
+          "price": "CA$381",
+          "price_value": 381,
+          "depart_date": "2026-09-13",
+          "return_date": "2026-09-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-09-13 returning 2026-09-22"
         }
       ]
     },
@@ -16620,7 +16700,7 @@
     },
     "Sarasota, Tampa": {
       "origin": "Toronto",
-      "cheapest_current": "CA$221",
+      "cheapest_current": "CA$165",
       "deals": [
         {
           "dates": "Fri, Aug 7 \u2013 Fri, Aug 14",
@@ -16687,20 +16767,36 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-03 returning 2026-05-11"
         },
         {
-          "dates": "Mon, May 11 \u2013 Wed, May 20",
-          "price": "CA$260",
-          "price_value": 260,
-          "depart_date": "2026-05-11",
-          "return_date": "2026-05-20",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-11 returning 2026-05-20"
-        },
-        {
           "dates": "Sun, May 24 \u2013 Sun, May 31",
           "price": "CA$276",
           "price_value": 276,
           "depart_date": "2026-05-24",
           "return_date": "2026-05-31",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-24 returning 2026-05-31"
+        },
+        {
+          "dates": "Mon, May 11 \u2013 Wed, May 20",
+          "price": "CA$165",
+          "price_value": 165,
+          "depart_date": "2026-05-11",
+          "return_date": "2026-05-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-11 returning 2026-05-20"
+        },
+        {
+          "dates": "Sun, May 24 \u2013 Mon, Jun 1",
+          "price": "CA$221",
+          "price_value": 221,
+          "depart_date": "2026-05-24",
+          "return_date": "2026-06-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-24 returning 2026-06-01"
+        },
+        {
+          "dates": "Sun, May 31 \u2013 Sat, Jun 6",
+          "price": "CA$221",
+          "price_value": 221,
+          "depart_date": "2026-05-31",
+          "return_date": "2026-06-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-05-31 returning 2026-06-06"
         }
       ]
     },
@@ -17319,9 +17415,9 @@
       "date": "2026-02-24T17:08:14.255909"
     },
     "Sarasota, Tampa": {
-      "lowest_ever": "CA$221",
-      "lowest_value": 221,
-      "date": "2026-02-28T13:31:02.818933"
+      "lowest_ever": "CA$165",
+      "lowest_value": 165,
+      "date": "2026-03-02T07:31:05.343946"
     },
     "Canc\u00fan, Tulum": {
       "lowest_ever": "CA$290",
@@ -18316,7 +18412,12 @@
     "9561",
     "9562",
     "9563",
-    "9564"
+    "9564",
+    "9571",
+    "9569",
+    "9568",
+    "9567",
+    "9565"
   ],
-  "last_updated": "2026-03-01T22:31:10.747439"
+  "last_updated": "2026-03-02T07:31:05.344297"
 }
