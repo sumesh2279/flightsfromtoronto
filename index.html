@@ -315,6 +315,20 @@
             margin-bottom: 8px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
+            margin-right: 6px;
+        }
+        
+        .beach-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #00c6ff, #0072ff);
+            color: white;
+            font-size: 0.7em;
+            font-weight: 600;
+            padding: 4px 10px;
+            border-radius: 12px;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
         
         .modal {
@@ -981,6 +995,7 @@
                     <select id="tripType" onchange="filterDeals()">
                         <option value="all">All Trips</option>
                         <option value="weekend">Weekend Deals Only</option>
+                        <option value="beach">Beach Destinations 🏖️</option>
                     </select>
                 </div>
                 
@@ -1283,6 +1298,38 @@
             return '';
         }
         
+        // Beach destinations list
+        const beachDestinations = [
+            // Caribbean
+            'Punta Cana', 'Cancún', 'Montego Bay', 'Nassau', 'Aruba', 'Barbados',
+            'Curaçao', 'Grand Cayman', 'Turks and Caicos', 'St. Lucia', 'Jamaica',
+            'Dominican Republic', 'Bahamas', 'Puerto Rico', 'Bridgetown',
+            
+            // USA
+            'Miami', 'Fort Lauderdale', 'Tampa', 'Orlando', 'Sarasota', 'Fort Myers',
+            'San Diego', 'Los Angeles', 'Honolulu', 'Maui', 'Key West', 'Myrtle Beach',
+            'Virginia Beach', 'Charleston', 'Savannah', 'Panama City', 'Daytona Beach',
+            'West Palm Beach',
+            
+            // Mexico
+            'Cabo San Lucas', 'Puerto Vallarta', 'Mazatlán', 'Playa del Carmen',
+            'Tulum', 'Cozumel', 'La Romana',
+            
+            // International
+            'Barcelona', 'Nice', 'Lisbon', 'Athens', 'Santorini', 'Mykonos',
+            'Dubai', 'Maldives', 'Bali', 'Phuket', 'Goa', 'Tel Aviv',
+            'Rio de Janeiro', 'Cartagena', 'Sydney', 'Gold Coast', 'Kozhikode',
+            
+            // Canada
+            'Vancouver'
+        ];
+        
+        function isBeachDestination(destinationName) {
+            return beachDestinations.some(beach => 
+                destinationName.toLowerCase().includes(beach.toLowerCase())
+            );
+        }
+        
         function filterDeals() {
             const selectedDestination = document.getElementById('destinationFilter').value;
             const selectedMonth = document.getElementById('monthFilter').value;
@@ -1297,6 +1344,11 @@
                         return null;
                     }
                     
+                    // Filter by beach destinations
+                    if (tripType === 'beach' && !isBeachDestination(name)) {
+                        return null;
+                    }
+                    
                     let deals = data.deals;
                     
                     // Filter by month
@@ -1308,7 +1360,7 @@
                         });
                     }
                     
-                    // Filter by trip type
+                    // Filter by trip type (weekend)
                     if (tripType === 'weekend') {
                         deals = deals.filter(deal => isWeekendDeal(deal));
                     }
@@ -1323,12 +1375,14 @@
                     
                     const cheapest = Math.min(...deals.map(d => d.price_value));
                     const hasWeekend = deals.some(d => isWeekendDeal(d));
+                    const isBeach = isBeachDestination(name);
                     
                     return [name, {
                         ...data,
                         deals: deals,
                         cheapest_current: `CA$${cheapest.toLocaleString()}`,
-                        hasWeekend: hasWeekend
+                        hasWeekend: hasWeekend,
+                        isBeach: isBeach
                     }];
                 })
                 .filter(item => item !== null);
@@ -1366,9 +1420,11 @@
             
             grid.innerHTML = destinations.map(([name, data]) => {
                 const weekendBadge = data.hasWeekend ? '<div class="weekend-badge">🎉 Weekend</div>' : '';
+                const beachBadge = data.isBeach ? '<div class="beach-badge">🏖️ Beach</div>' : '';
+                const badges = (weekendBadge || beachBadge) ? `<div style="display: flex; flex-wrap: wrap;">${beachBadge}${weekendBadge}</div>` : '';
                 return `
                     <div class="destination-card" onclick="showDeals('${name.replace(/'/g, "\\'")}')">
-                        ${weekendBadge}
+                        ${badges}
                         <div class="dest-name">${name}</div>
                         <div class="dest-price">${data.cheapest_current}</div>
                         <div class="dest-meta">${data.deals.length} deals</div>
