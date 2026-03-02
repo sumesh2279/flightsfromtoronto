@@ -155,7 +155,7 @@
         
         /* Trip Duration Slider Styling */
         .slider-container {
-            padding: 16px 0;
+            padding: 8px 0;
         }
         
         .slider-values {
@@ -164,21 +164,7 @@
             margin-bottom: 12px;
             font-size: 0.9em;
             color: #495057;
-        }
-        
-        .slider-range {
-            position: relative;
-            height: 6px;
-            background: #e9ecef;
-            border-radius: 3px;
-            margin: 8px 0;
-        }
-        
-        .slider-track {
-            position: absolute;
-            height: 100%;
-            background: linear-gradient(90deg, #4a90e2 0%, #357abd 100%);
-            border-radius: 3px;
+            font-weight: 500;
         }
         
         input[type="range"] {
@@ -186,11 +172,15 @@
             appearance: none;
             width: 100%;
             height: 6px;
-            background: transparent;
+            background: #e9ecef;
             outline: none;
-            position: absolute;
-            top: 0;
-            pointer-events: none;
+            border-radius: 3px;
+        }
+        
+        input[type="range"]::-webkit-slider-runnable-track {
+            height: 6px;
+            background: linear-gradient(90deg, #4a90e2 0%, #e9ecef 0%);
+            border-radius: 3px;
         }
         
         input[type="range"]::-webkit-slider-thumb {
@@ -202,7 +192,6 @@
             border: 2px solid #4a90e2;
             border-radius: 50%;
             cursor: pointer;
-            pointer-events: auto;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             transition: all 0.2s;
         }
@@ -212,6 +201,12 @@
             box-shadow: 0 2px 8px rgba(74,144,226,0.3);
         }
         
+        input[type="range"]::-moz-range-track {
+            height: 6px;
+            background: #e9ecef;
+            border-radius: 3px;
+        }
+        
         input[type="range"]::-moz-range-thumb {
             width: 18px;
             height: 18px;
@@ -219,7 +214,6 @@
             border: 2px solid #4a90e2;
             border-radius: 50%;
             cursor: pointer;
-            pointer-events: auto;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             transition: all 0.2s;
         }
@@ -994,14 +988,10 @@
                     <div class="filter-label">Trip Duration</div>
                     <div class="slider-container">
                         <div class="slider-values">
-                            <span id="minDaysLabel">1 day</span>
+                            <span>Up to:</span>
                             <span id="maxDaysLabel">30 days</span>
                         </div>
-                        <div class="slider-range">
-                            <div class="slider-track" id="sliderTrack"></div>
-                            <input type="range" id="minDays" min="1" max="30" value="1" oninput="updateSlider()">
-                            <input type="range" id="maxDays" min="1" max="30" value="30" oninput="updateSlider()">
-                        </div>
+                        <input type="range" id="maxDays" min="1" max="30" value="30" oninput="updateSlider()">
                     </div>
                 </div>
                 
@@ -1250,28 +1240,10 @@
         }
         
         function updateSlider() {
-            let minDays = parseInt(document.getElementById('minDays').value);
-            let maxDays = parseInt(document.getElementById('maxDays').value);
+            const maxDays = parseInt(document.getElementById('maxDays').value);
             
-            // Ensure min doesn't exceed max
-            if (minDays > maxDays) {
-                const temp = minDays;
-                minDays = maxDays;
-                maxDays = temp;
-                document.getElementById('minDays').value = minDays;
-                document.getElementById('maxDays').value = maxDays;
-            }
-            
-            // Update labels
-            document.getElementById('minDaysLabel').textContent = minDays === 1 ? '1 day' : `${minDays} days`;
+            // Update label
             document.getElementById('maxDaysLabel').textContent = maxDays === 1 ? '1 day' : `${maxDays} days`;
-            
-            // Update track visualization
-            const track = document.getElementById('sliderTrack');
-            const percent1 = ((minDays - 1) / 29) * 100;
-            const percent2 = ((maxDays - 1) / 29) * 100;
-            track.style.left = percent1 + '%';
-            track.style.width = (percent2 - percent1) + '%';
             
             // Trigger filter
             filterDeals();
@@ -1316,7 +1288,6 @@
             const selectedMonth = document.getElementById('monthFilter').value;
             const tripType = document.getElementById('tripType').value;
             const sortBy = document.getElementById('sortBy').value;
-            const minDays = parseInt(document.getElementById('minDays').value);
             const maxDays = parseInt(document.getElementById('maxDays').value);
             
             let filtered = Object.entries(database.destinations)
@@ -1342,10 +1313,10 @@
                         deals = deals.filter(deal => isWeekendDeal(deal));
                     }
                     
-                    // Filter by trip duration
+                    // Filter by trip duration (1 day to maxDays)
                     deals = deals.filter(deal => {
                         const tripLength = getTripLength(deal);
-                        return tripLength >= minDays && tripLength <= maxDays;
+                        return tripLength >= 1 && tripLength <= maxDays;
                     });
                     
                     if (deals.length === 0) return null;
