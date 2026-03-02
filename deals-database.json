@@ -12037,6 +12037,30 @@
           "depart_date": "2026-06-18",
           "return_date": "2026-06-24",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-06-18 returning 2026-06-24"
+        },
+        {
+          "dates": "Sat, May 30 \u2013 Fri, Jun 5",
+          "price": "CA$301",
+          "price_value": 301,
+          "depart_date": "2026-05-30",
+          "return_date": "2026-06-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-05-30 returning 2026-06-05"
+        },
+        {
+          "dates": "Sat, May 2 \u2013 Fri, May 8",
+          "price": "CA$436",
+          "price_value": 436,
+          "depart_date": "2026-05-02",
+          "return_date": "2026-05-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-05-02 returning 2026-05-08"
+        },
+        {
+          "dates": "Sat, May 23 \u2013 Mon, Jun 1",
+          "price": "CA$436",
+          "price_value": 436,
+          "depart_date": "2026-05-23",
+          "return_date": "2026-06-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-05-23 returning 2026-06-01"
         }
       ]
     },
@@ -18266,7 +18290,8 @@
     "9558",
     "9559",
     "9561",
-    "9562"
+    "9562",
+    "9563"
   ],
-  "last_updated": "2026-03-01T18:31:10.610163"
+  "last_updated": "2026-03-01T19:31:05.687805"
 }
