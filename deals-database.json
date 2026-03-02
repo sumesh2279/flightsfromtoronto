@@ -17021,60 +17021,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-03-05 returning 2026-03-13"
         }
       ]
-    },
-    "Newark, New York": {
-      "origin": "Toronto",
-      "cheapest_current": "CA$234",
-      "deals": [
-        {
-          "dates": "Mon, Apr 20 \u2013 Sun, Apr 26",
-          "price": "CA$239",
-          "price_value": 239,
-          "depart_date": "2026-04-20",
-          "return_date": "2026-04-26",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-04-20 returning 2026-04-26"
-        },
-        {
-          "dates": "Thu, Apr 2 \u2013 Wed, Apr 8",
-          "price": "CA$290",
-          "price_value": 290,
-          "depart_date": "2026-04-02",
-          "return_date": "2026-04-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-04-02 returning 2026-04-08"
-        },
-        {
-          "dates": "Thu, Apr 9 \u2013 Wed, Apr 15",
-          "price": "CA$290",
-          "price_value": 290,
-          "depart_date": "2026-04-09",
-          "return_date": "2026-04-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-04-09 returning 2026-04-15"
-        },
-        {
-          "dates": "Fri, Mar 20 \u2013 Sun, Mar 29",
-          "price": "CA$234",
-          "price_value": 234,
-          "depart_date": "2026-03-20",
-          "return_date": "2026-03-29",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-03-20 returning 2026-03-29"
-        },
-        {
-          "dates": "Thu, Mar 26 \u2013 Wed, Apr 1",
-          "price": "CA$239",
-          "price_value": 239,
-          "depart_date": "2026-03-26",
-          "return_date": "2026-04-01",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-03-26 returning 2026-04-01"
-        },
-        {
-          "dates": "Mon, Mar 9 \u2013 Wed, Mar 18",
-          "price": "CA$286",
-          "price_value": 286,
-          "depart_date": "2026-03-09",
-          "return_date": "2026-03-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-03-09 returning 2026-03-18"
-        }
-      ]
     }
   },
   "historical_prices": {
