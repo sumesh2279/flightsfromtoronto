@@ -13253,30 +13253,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-04-16 returning 2026-04-22"
         },
         {
-          "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
-          "price": "CA$387",
-          "price_value": 387,
-          "depart_date": "2026-07-02",
-          "return_date": "2026-07-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-07-02 returning 2026-07-08"
-        },
-        {
-          "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
-          "price": "CA$387",
-          "price_value": 387,
-          "depart_date": "2026-07-09",
-          "return_date": "2026-07-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-07-09 returning 2026-07-15"
-        },
-        {
-          "dates": "Thu, Jul 16 \u2013 Wed, Jul 22",
-          "price": "CA$387",
-          "price_value": 387,
-          "depart_date": "2026-07-16",
-          "return_date": "2026-07-22",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-07-16 returning 2026-07-22"
-        },
-        {
           "dates": "Sun, Mar 1 \u2013 Sat, Mar 7",
           "price": "CA$303",
           "price_value": 303,
@@ -13363,6 +13339,30 @@
           "depart_date": "2026-08-01",
           "return_date": "2026-08-07",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-08-01 returning 2026-08-07"
+        },
+        {
+          "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
+          "price": "CA$299",
+          "price_value": 299,
+          "depart_date": "2026-07-02",
+          "return_date": "2026-07-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-07-02 returning 2026-07-08"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
+          "price": "CA$299",
+          "price_value": 299,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-07-09 returning 2026-07-15"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Wed, Jul 22",
+          "price": "CA$299",
+          "price_value": 299,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-07-16 returning 2026-07-22"
         }
       ]
     },
@@ -16905,6 +16905,30 @@
           "depart_date": "2026-06-15",
           "return_date": "2026-06-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Hyderabad on 2026-06-15 returning 2026-06-22"
+        },
+        {
+          "dates": "Mon, Apr 20 \u2013 Tue, Apr 28",
+          "price": "CA$1,384",
+          "price_value": 1384,
+          "depart_date": "2026-04-20",
+          "return_date": "2026-04-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Hyderabad on 2026-04-20 returning 2026-04-28"
+        },
+        {
+          "dates": "Thu, Apr 23 \u2013 Fri, May 1",
+          "price": "CA$1,384",
+          "price_value": 1384,
+          "depart_date": "2026-04-23",
+          "return_date": "2026-05-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Hyderabad on 2026-04-23 returning 2026-05-01"
+        },
+        {
+          "dates": "Mon, Apr 6 \u2013 Tue, Apr 14",
+          "price": "CA$1,389",
+          "price_value": 1389,
+          "depart_date": "2026-04-06",
+          "return_date": "2026-04-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Hyderabad on 2026-04-06 returning 2026-04-14"
         }
       ]
     },
@@ -18732,7 +18756,9 @@
     "9623",
     "9630",
     "9642",
-    "9640"
+    "9640",
+    "9646",
+    "9645"
   ],
-  "last_updated": "2026-03-03T12:48:20.242434"
+  "last_updated": "2026-03-03T13:48:21.661538"
 }
