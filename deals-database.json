@@ -15577,6 +15577,38 @@
           "depart_date": "2026-05-04",
           "return_date": "2026-05-10",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-05-04 returning 2026-05-10"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
+          "price": "CA$751",
+          "price_value": 751,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-06-04 returning 2026-06-11"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Wed, Jun 17",
+          "price": "CA$682",
+          "price_value": 682,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-06-11 returning 2026-06-17"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Mon, Jun 8",
+          "price": "CA$682",
+          "price_value": 682,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-06-01 returning 2026-06-08"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
+          "price": "CA$682",
+          "price_value": 682,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-06-04 returning 2026-06-10"
         }
       ]
     },
@@ -18758,7 +18790,8 @@
     "9642",
     "9640",
     "9646",
-    "9645"
+    "9645",
+    "9647"
   ],
-  "last_updated": "2026-03-03T13:48:21.661538"
+  "last_updated": "2026-03-03T14:49:02.903459"
 }
