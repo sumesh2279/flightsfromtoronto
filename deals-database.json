@@ -9703,14 +9703,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Orlando on 2026-06-07 returning 2026-06-15"
         },
         {
-          "dates": "Sat, Aug 1 \u2013 Fri, Aug 7",
-          "price": "CA$281",
-          "price_value": 281,
-          "depart_date": "2026-08-01",
-          "return_date": "2026-08-07",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-08-01 returning 2026-08-07"
-        },
-        {
           "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
           "price": "CA$322",
           "price_value": 322,
@@ -9773,6 +9765,30 @@
           "depart_date": "2026-09-13",
           "return_date": "2026-09-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-09-13 returning 2026-09-22"
+        },
+        {
+          "dates": "Sat, Aug 1 \u2013 Fri, Aug 7",
+          "price": "CA$248",
+          "price_value": 248,
+          "depart_date": "2026-08-01",
+          "return_date": "2026-08-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Orlando on 2026-08-01 returning 2026-08-07"
+        },
+        {
+          "dates": "Sat, Aug 22 \u2013 Mon, Aug 31",
+          "price": "CA$307",
+          "price_value": 307,
+          "depart_date": "2026-08-22",
+          "return_date": "2026-08-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Orlando on 2026-08-22 returning 2026-08-31"
+        },
+        {
+          "dates": "Thu, Aug 27 \u2013 Wed, Sep 2",
+          "price": "CA$307",
+          "price_value": 307,
+          "depart_date": "2026-08-27",
+          "return_date": "2026-09-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Orlando on 2026-08-27 returning 2026-09-02"
         }
       ]
     },
@@ -12673,22 +12689,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-08-06 returning 2026-08-13"
         },
         {
-          "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
-          "price": "CA$381",
-          "price_value": 381,
-          "depart_date": "2026-08-06",
-          "return_date": "2026-08-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-08-06 returning 2026-08-12"
-        },
-        {
-          "dates": "Sat, Aug 22 \u2013 Mon, Aug 31",
-          "price": "CA$381",
-          "price_value": 381,
-          "depart_date": "2026-08-22",
-          "return_date": "2026-08-31",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-08-22 returning 2026-08-31"
-        },
-        {
           "dates": "Thu, Aug 13 \u2013 Thu, Aug 20",
           "price": "CA$398",
           "price_value": 398,
@@ -12879,6 +12879,38 @@
           "depart_date": "2026-04-20",
           "return_date": "2026-04-29",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-04-20 returning 2026-04-29"
+        },
+        {
+          "dates": "Thu, Aug 27 \u2013 Sat, Sep 5",
+          "price": "CA$443",
+          "price_value": 443,
+          "depart_date": "2026-08-27",
+          "return_date": "2026-09-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-08-27 returning 2026-09-05"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
+          "price": "CA$299",
+          "price_value": 299,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-08-06 returning 2026-08-12"
+        },
+        {
+          "dates": "Thu, Aug 27 \u2013 Wed, Sep 2",
+          "price": "CA$299",
+          "price_value": 299,
+          "depart_date": "2026-08-27",
+          "return_date": "2026-09-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-08-27 returning 2026-09-02"
+        },
+        {
+          "dates": "Sat, Aug 22 \u2013 Mon, Aug 31",
+          "price": "CA$299",
+          "price_value": 299,
+          "depart_date": "2026-08-22",
+          "return_date": "2026-08-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-08-22 returning 2026-08-31"
         }
       ]
     },
@@ -18698,7 +18730,9 @@
     "9621",
     "9622",
     "9623",
-    "9630"
+    "9630",
+    "9642",
+    "9640"
   ],
-  "last_updated": "2026-03-03T10:48:21.267753"
+  "last_updated": "2026-03-03T12:48:20.242434"
 }
