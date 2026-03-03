@@ -3823,6 +3823,30 @@
           "depart_date": "2026-03-08",
           "return_date": "2026-03-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Thiruvananthapuram on 2026-03-08 returning 2026-03-16"
+        },
+        {
+          "dates": "Fri, Aug 28 \u2013 Sat, Sep 5",
+          "price": "CA$1,941",
+          "price_value": 1941,
+          "depart_date": "2026-08-28",
+          "return_date": "2026-09-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Thiruvananthapuram on 2026-08-28 returning 2026-09-05"
+        },
+        {
+          "dates": "Sun, Aug 23 \u2013 Mon, Aug 31",
+          "price": "CA$1,998",
+          "price_value": 1998,
+          "depart_date": "2026-08-23",
+          "return_date": "2026-08-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Thiruvananthapuram on 2026-08-23 returning 2026-08-31"
+        },
+        {
+          "dates": "Sun, Aug 16 \u2013 Sun, Aug 23",
+          "price": "CA$1,998",
+          "price_value": 1998,
+          "depart_date": "2026-08-16",
+          "return_date": "2026-08-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Thiruvananthapuram on 2026-08-16 returning 2026-08-23"
         }
       ]
     },
@@ -11469,30 +11493,6 @@
       "cheapest_current": "CA$269",
       "deals": [
         {
-          "dates": "Fri, Jun 5 \u2013 Fri, Jun 12",
-          "price": "CA$345",
-          "price_value": 345,
-          "depart_date": "2026-06-05",
-          "return_date": "2026-06-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-06-05 returning 2026-06-12"
-        },
-        {
-          "dates": "Fri, Jun 12 \u2013 Fri, Jun 19",
-          "price": "CA$345",
-          "price_value": 345,
-          "depart_date": "2026-06-12",
-          "return_date": "2026-06-19",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-06-12 returning 2026-06-19"
-        },
-        {
-          "dates": "Fri, Jun 19 \u2013 Fri, Jun 26",
-          "price": "CA$345",
-          "price_value": 345,
-          "depart_date": "2026-06-19",
-          "return_date": "2026-06-26",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-06-19 returning 2026-06-26"
-        },
-        {
           "dates": "Fri, May 1 \u2013 Fri, May 8",
           "price": "CA$336",
           "price_value": 336,
@@ -11579,6 +11579,30 @@
           "depart_date": "2026-07-17",
           "return_date": "2026-07-24",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-07-17 returning 2026-07-24"
+        },
+        {
+          "dates": "Fri, Jun 5 \u2013 Fri, Jun 12",
+          "price": "CA$303",
+          "price_value": 303,
+          "depart_date": "2026-06-05",
+          "return_date": "2026-06-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-06-05 returning 2026-06-12"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Fri, Jun 19",
+          "price": "CA$303",
+          "price_value": 303,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-06-12 returning 2026-06-19"
+        },
+        {
+          "dates": "Fri, Jun 19 \u2013 Fri, Jun 26",
+          "price": "CA$303",
+          "price_value": 303,
+          "depart_date": "2026-06-19",
+          "return_date": "2026-06-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-06-19 returning 2026-06-26"
         }
       ]
     },
@@ -18791,7 +18815,9 @@
     "9640",
     "9646",
     "9645",
-    "9647"
+    "9647",
+    "9654",
+    "9653"
   ],
-  "last_updated": "2026-03-03T14:49:02.903459"
+  "last_updated": "2026-03-03T16:49:47.150724"
 }
