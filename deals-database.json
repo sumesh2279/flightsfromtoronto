@@ -17139,6 +17139,30 @@
           "depart_date": "2026-09-24",
           "return_date": "2026-10-01",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-09-24 returning 2026-10-01"
+        },
+        {
+          "dates": "Sun, Jul 5 \u2013 Mon, Jul 13",
+          "price": "CA$165",
+          "price_value": 165,
+          "depart_date": "2026-07-05",
+          "return_date": "2026-07-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-05 returning 2026-07-13"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Thu, Jul 23",
+          "price": "CA$264",
+          "price_value": 264,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-16 returning 2026-07-23"
+        },
+        {
+          "dates": "Thu, Jul 23 \u2013 Wed, Jul 29",
+          "price": "CA$298",
+          "price_value": 298,
+          "depart_date": "2026-07-23",
+          "return_date": "2026-07-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-23 returning 2026-07-29"
         }
       ]
     },
@@ -19035,7 +19059,8 @@
     "9689",
     "9693",
     "9696",
-    "9695"
+    "9695",
+    "9702"
   ],
-  "last_updated": "2026-03-04T14:52:04.542710"
+  "last_updated": "2026-03-04T19:52:45.435097"
 }
