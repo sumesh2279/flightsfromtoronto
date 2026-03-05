@@ -8979,6 +8979,14 @@
           "depart_date": "2026-06-11",
           "return_date": "2026-06-17",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-11 returning 2026-06-17"
+        },
+        {
+          "dates": "Mon, Jun 15 \u2013 Wed, Jun 24",
+          "price": "CA$881",
+          "price_value": 881,
+          "depart_date": "2026-06-15",
+          "return_date": "2026-06-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-15 returning 2026-06-24"
         }
       ]
     },
@@ -19085,7 +19093,8 @@
     "9696",
     "9695",
     "9702",
-    "9706"
+    "9706",
+    "9707"
   ],
-  "last_updated": "2026-03-04T21:53:59.860605"
+  "last_updated": "2026-03-05T11:02:41.458442"
 }
