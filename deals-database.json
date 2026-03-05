@@ -17747,6 +17747,30 @@
           "depart_date": "2026-03-05",
           "return_date": "2026-03-13",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Tulum on 2026-03-05 returning 2026-03-13"
+        },
+        {
+          "dates": "Sat, May 30 \u2013 Sun, Jun 7",
+          "price": "CA$300",
+          "price_value": 300,
+          "depart_date": "2026-05-30",
+          "return_date": "2026-06-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Tulum on 2026-05-30 returning 2026-06-07"
+        },
+        {
+          "dates": "Sat, May 23 \u2013 Sun, May 31",
+          "price": "CA$348",
+          "price_value": 348,
+          "depart_date": "2026-05-23",
+          "return_date": "2026-05-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Tulum on 2026-05-23 returning 2026-05-31"
+        },
+        {
+          "dates": "Sat, May 9 \u2013 Sat, May 16",
+          "price": "CA$374",
+          "price_value": 374,
+          "depart_date": "2026-05-09",
+          "return_date": "2026-05-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Tulum on 2026-05-09 returning 2026-05-16"
         }
       ]
     },
@@ -19420,7 +19444,8 @@
     "9727",
     "9728",
     "9729",
-    "9730"
+    "9730",
+    "9733"
   ],
-  "last_updated": "2026-03-05T12:03:34.274212"
+  "last_updated": "2026-03-05T13:04:16.812935"
 }
