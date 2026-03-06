@@ -17989,6 +17989,30 @@
           "depart_date": "2026-06-15",
           "return_date": "2026-06-24",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-06-15 returning 2026-06-24"
+        },
+        {
+          "dates": "Sat, Jun 13 \u2013 Fri, Jun 19",
+          "price": "CA$656",
+          "price_value": 656,
+          "depart_date": "2026-06-13",
+          "return_date": "2026-06-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-06-13 returning 2026-06-19"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
+          "price": "CA$690",
+          "price_value": 690,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Sun, Jun 21 \u2013 Tue, Jun 30",
+          "price": "CA$690",
+          "price_value": 690,
+          "depart_date": "2026-06-21",
+          "return_date": "2026-06-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-06-21 returning 2026-06-30"
         }
       ]
     },
@@ -19505,7 +19529,8 @@
     "9737",
     "9736",
     "9735",
-    "9739"
+    "9739",
+    "9740"
   ],
-  "last_updated": "2026-03-05T16:05:05.982514"
+  "last_updated": "2026-03-05T19:06:31.058391"
 }
