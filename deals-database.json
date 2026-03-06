@@ -11751,6 +11751,38 @@
           "depart_date": "2026-08-17",
           "return_date": "2026-08-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cairo on 2026-08-17 returning 2026-08-23"
+        },
+        {
+          "dates": "Thu, Apr 23 \u2013 Thu, Apr 30",
+          "price": "CA$1,644",
+          "price_value": 1644,
+          "depart_date": "2026-04-23",
+          "return_date": "2026-04-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cairo on 2026-04-23 returning 2026-04-30"
+        },
+        {
+          "dates": "Mon, Apr 27 \u2013 Tue, May 5",
+          "price": "CA$1,126",
+          "price_value": 1126,
+          "depart_date": "2026-04-27",
+          "return_date": "2026-05-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cairo on 2026-04-27 returning 2026-05-05"
+        },
+        {
+          "dates": "Fri, Apr 10 \u2013 Thu, Apr 16",
+          "price": "CA$1,216",
+          "price_value": 1216,
+          "depart_date": "2026-04-10",
+          "return_date": "2026-04-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cairo on 2026-04-10 returning 2026-04-16"
+        },
+        {
+          "dates": "Mon, Apr 20 \u2013 Wed, Apr 29",
+          "price": "CA$1,296",
+          "price_value": 1296,
+          "depart_date": "2026-04-20",
+          "return_date": "2026-04-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cairo on 2026-04-20 returning 2026-04-29"
         }
       ]
     },
@@ -19647,7 +19679,8 @@
     "9745",
     "9744",
     "9743",
-    "9742"
+    "9742",
+    "9747"
   ],
-  "last_updated": "2026-03-06T06:06:35.905627"
+  "last_updated": "2026-03-06T08:14:40.449997"
 }
