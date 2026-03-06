@@ -13963,6 +13963,22 @@
           "depart_date": "2026-05-17",
           "return_date": "2026-05-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-05-17 returning 2026-05-26"
+        },
+        {
+          "dates": "Sat, Apr 25 \u2013 Mon, May 4",
+          "price": "CA$255",
+          "price_value": 255,
+          "depart_date": "2026-04-25",
+          "return_date": "2026-05-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-04-25 returning 2026-05-04"
+        },
+        {
+          "dates": "Sat, Apr 4 \u2013 Fri, Apr 10",
+          "price": "CA$344",
+          "price_value": 344,
+          "depart_date": "2026-04-04",
+          "return_date": "2026-04-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-04-04 returning 2026-04-10"
         }
       ]
     },
@@ -19705,7 +19721,9 @@
     "9743",
     "9742",
     "9747",
-    "9748"
+    "9748",
+    "9750",
+    "9749"
   ],
-  "last_updated": "2026-03-06T09:15:54.678427"
+  "last_updated": "2026-03-06T10:20:24.996119"
 }
