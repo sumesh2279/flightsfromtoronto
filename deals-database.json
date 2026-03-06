@@ -3205,6 +3205,30 @@
           "depart_date": "2026-09-12",
           "return_date": "2026-09-19",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-09-12 returning 2026-09-19"
+        },
+        {
+          "dates": "Mon, Jul 20 \u2013 Sun, Jul 26",
+          "price": "CA$484",
+          "price_value": 484,
+          "depart_date": "2026-07-20",
+          "return_date": "2026-07-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-07-20 returning 2026-07-26"
+        },
+        {
+          "dates": "Fri, Jul 31 \u2013 Sun, Aug 9",
+          "price": "CA$669",
+          "price_value": 669,
+          "depart_date": "2026-07-31",
+          "return_date": "2026-08-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-07-31 returning 2026-08-09"
+        },
+        {
+          "dates": "Fri, Jul 24 \u2013 Sun, Aug 2",
+          "price": "CA$694",
+          "price_value": 694,
+          "depart_date": "2026-07-24",
+          "return_date": "2026-08-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-07-24 returning 2026-08-02"
         }
       ]
     },
@@ -8449,14 +8473,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Calgary on 2026-07-06 returning 2026-07-15"
         },
         {
-          "dates": "Sat, Jul 18 \u2013 Fri, Jul 24",
-          "price": "CA$358",
-          "price_value": 358,
-          "depart_date": "2026-07-18",
-          "return_date": "2026-07-24",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Calgary on 2026-07-18 returning 2026-07-24"
-        },
-        {
           "dates": "Sun, Jul 12 \u2013 Tue, Jul 21",
           "price": "CA$363",
           "price_value": 363,
@@ -8503,6 +8519,30 @@
           "depart_date": "2026-06-06",
           "return_date": "2026-06-15",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-06-06 returning 2026-06-15"
+        },
+        {
+          "dates": "Thu, Jul 23 \u2013 Fri, Jul 31",
+          "price": "CA$256",
+          "price_value": 256,
+          "depart_date": "2026-07-23",
+          "return_date": "2026-07-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-07-23 returning 2026-07-31"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Fri, Jul 24",
+          "price": "CA$351",
+          "price_value": 351,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-07-18 returning 2026-07-24"
+        },
+        {
+          "dates": "Fri, Jul 31 \u2013 Fri, Aug 7",
+          "price": "CA$351",
+          "price_value": 351,
+          "depart_date": "2026-07-31",
+          "return_date": "2026-08-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-07-31 returning 2026-08-07"
         }
       ]
     },
@@ -9099,6 +9139,22 @@
           "depart_date": "2026-06-15",
           "return_date": "2026-06-24",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-15 returning 2026-06-24"
+        },
+        {
+          "dates": "Sun, May 24 \u2013 Mon, Jun 1",
+          "price": "CA$884",
+          "price_value": 884,
+          "depart_date": "2026-05-24",
+          "return_date": "2026-06-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-05-24 returning 2026-06-01"
+        },
+        {
+          "dates": "Sun, May 3 \u2013 Sun, May 10",
+          "price": "CA$831",
+          "price_value": 831,
+          "depart_date": "2026-05-03",
+          "return_date": "2026-05-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-05-03 returning 2026-05-10"
         }
       ]
     },
@@ -9313,6 +9369,30 @@
           "depart_date": "2026-05-11",
           "return_date": "2026-05-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-05-11 returning 2026-05-20"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Mon, Sep 7",
+          "price": "CA$1,738",
+          "price_value": 1738,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-08-31 returning 2026-09-07"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
+          "price": "CA$2,364",
+          "price_value": 2364,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-08-06 returning 2026-08-12"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Wed, Aug 26",
+          "price": "CA$2,364",
+          "price_value": 2364,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-08-20 returning 2026-08-26"
         }
       ]
     },
@@ -19563,7 +19643,11 @@
     "9735",
     "9739",
     "9740",
-    "9741"
+    "9741",
+    "9745",
+    "9744",
+    "9743",
+    "9742"
   ],
-  "last_updated": "2026-03-05T21:06:44.729976"
+  "last_updated": "2026-03-06T06:06:35.905627"
 }
