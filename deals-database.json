@@ -883,20 +883,20 @@
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Canc%C3%BAn on 2026-08-24 returning 2026-08-30"
         },
         {
-          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
-          "price": "CA$423",
-          "price_value": 423,
-          "depart_date": "2026-08-31",
-          "return_date": "2026-09-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Canc%C3%BAn on 2026-08-31 returning 2026-09-09"
-        },
-        {
           "dates": "Mon, Aug 3 \u2013 Sun, Aug 9",
-          "price": "CA$453",
-          "price_value": 453,
+          "price": "CA$417",
+          "price_value": 417,
           "depart_date": "2026-08-03",
           "return_date": "2026-08-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Canc%C3%BAn on 2026-08-03 returning 2026-08-09"
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-08-03 returning 2026-08-09"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
+          "price": "CA$422",
+          "price_value": 422,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-08-31 returning 2026-09-09"
         }
       ]
     },
@@ -3657,6 +3657,22 @@
           "depart_date": "2026-03-23",
           "return_date": "2026-03-29",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-03-23 returning 2026-03-29"
+        },
+        {
+          "dates": "Sat, Jul 4 \u2013 Sun, Jul 12",
+          "price": "CA$725",
+          "price_value": 725,
+          "depart_date": "2026-07-04",
+          "return_date": "2026-07-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-07-04 returning 2026-07-12"
+        },
+        {
+          "dates": "Mon, Jul 27 \u2013 Wed, Aug 5",
+          "price": "CA$825",
+          "price_value": 825,
+          "depart_date": "2026-07-27",
+          "return_date": "2026-08-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-07-27 returning 2026-08-05"
         }
       ]
     },
@@ -19733,7 +19749,9 @@
     "9750",
     "9749",
     "9753",
-    "9790"
+    "9790",
+    "9793",
+    "9791"
   ],
-  "last_updated": "2026-03-06T14:32:25.467215"
+  "last_updated": "2026-03-06T15:32:27.673508"
 }
