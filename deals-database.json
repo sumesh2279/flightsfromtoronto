@@ -1121,22 +1121,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-23 returning 2026-07-29"
         },
         {
-          "dates": "Thu, Jul 9 \u2013 Thu, Jul 16",
-          "price": "CA$476",
-          "price_value": 476,
-          "depart_date": "2026-07-09",
-          "return_date": "2026-07-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-09 returning 2026-07-16"
-        },
-        {
-          "dates": "Thu, Jul 16 \u2013 Thu, Jul 23",
-          "price": "CA$476",
-          "price_value": 476,
-          "depart_date": "2026-07-16",
-          "return_date": "2026-07-23",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-16 returning 2026-07-23"
-        },
-        {
           "dates": "Sun, May 10 \u2013 Mon, May 18",
           "price": "CA$402",
           "price_value": 402,
@@ -1159,6 +1143,30 @@
           "depart_date": "2026-05-29",
           "return_date": "2026-06-05",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-05-29 returning 2026-06-05"
+        },
+        {
+          "dates": "Thu, Jul 2 \u2013 Thu, Jul 9",
+          "price": "CA$426",
+          "price_value": 426,
+          "depart_date": "2026-07-02",
+          "return_date": "2026-07-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-02 returning 2026-07-09"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Thu, Jul 16",
+          "price": "CA$426",
+          "price_value": 426,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-09 returning 2026-07-16"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Thu, Jul 23",
+          "price": "CA$426",
+          "price_value": 426,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-16 returning 2026-07-23"
         }
       ]
     },
@@ -18801,6 +18809,30 @@
           "depart_date": "2026-04-05",
           "return_date": "2026-04-14",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-04-05 returning 2026-04-14"
+        },
+        {
+          "dates": "Sat, Aug 15 \u2013 Sun, Aug 23",
+          "price": "CA$170",
+          "price_value": 170,
+          "depart_date": "2026-08-15",
+          "return_date": "2026-08-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-15 returning 2026-08-23"
+        },
+        {
+          "dates": "Mon, Aug 10 \u2013 Sun, Aug 16",
+          "price": "CA$244",
+          "price_value": 244,
+          "depart_date": "2026-08-10",
+          "return_date": "2026-08-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-10 returning 2026-08-16"
+        },
+        {
+          "dates": "Sun, Aug 2 \u2013 Tue, Aug 11",
+          "price": "CA$265",
+          "price_value": 265,
+          "depart_date": "2026-08-02",
+          "return_date": "2026-08-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-02 returning 2026-08-11"
         }
       ]
     },
@@ -20624,7 +20656,9 @@
     "12712",
     "12713",
     "18151",
-    "18149"
+    "18149",
+    "18158",
+    "18154"
   ],
-  "last_updated": "2026-03-09T10:42:46.590527"
+  "last_updated": "2026-03-09T11:42:58.151525"
 }
