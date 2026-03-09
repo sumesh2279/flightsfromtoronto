@@ -19241,6 +19241,30 @@
           "depart_date": "2026-08-13",
           "return_date": "2026-08-19",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-08-13 returning 2026-08-19"
+        },
+        {
+          "dates": "Fri, Sep 4 \u2013 Thu, Sep 10",
+          "price": "CA$244",
+          "price_value": 244,
+          "depart_date": "2026-09-04",
+          "return_date": "2026-09-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-09-04 returning 2026-09-10"
+        },
+        {
+          "dates": "Thu, Sep 10 \u2013 Wed, Sep 16",
+          "price": "CA$310",
+          "price_value": 310,
+          "depart_date": "2026-09-10",
+          "return_date": "2026-09-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-09-10 returning 2026-09-16"
+        },
+        {
+          "dates": "Thu, Sep 17 \u2013 Wed, Sep 23",
+          "price": "CA$310",
+          "price_value": 310,
+          "depart_date": "2026-09-17",
+          "return_date": "2026-09-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-09-17 returning 2026-09-23"
         }
       ]
     }
@@ -20733,7 +20757,8 @@
     "18154",
     "18160",
     "18162",
-    "18170"
+    "18170",
+    "18171"
   ],
-  "last_updated": "2026-03-09T16:10:47.022185"
+  "last_updated": "2026-03-09T18:25:14.381915"
 }
