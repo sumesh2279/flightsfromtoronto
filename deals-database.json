@@ -5055,6 +5055,38 @@
           "depart_date": "2026-09-11",
           "return_date": "2026-09-17",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-09-11 returning 2026-09-17"
+        },
+        {
+          "dates": "Thu, Aug 27 \u2013 Thu, Sep 3",
+          "price": "CA$826",
+          "price_value": 826,
+          "depart_date": "2026-08-27",
+          "return_date": "2026-09-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-08-27 returning 2026-09-03"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
+          "price": "CA$425",
+          "price_value": 425,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-08-31 returning 2026-09-09"
+        },
+        {
+          "dates": "Mon, Aug 24 \u2013 Sun, Aug 30",
+          "price": "CA$601",
+          "price_value": 601,
+          "depart_date": "2026-08-24",
+          "return_date": "2026-08-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-08-24 returning 2026-08-30"
+        },
+        {
+          "dates": "Sat, Aug 15 \u2013 Fri, Aug 21",
+          "price": "CA$676",
+          "price_value": 676,
+          "depart_date": "2026-08-15",
+          "return_date": "2026-08-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-08-15 returning 2026-08-21"
         }
       ]
     },
@@ -20658,7 +20690,8 @@
     "18151",
     "18149",
     "18158",
-    "18154"
+    "18154",
+    "18160"
   ],
-  "last_updated": "2026-03-09T11:42:58.151525"
+  "last_updated": "2026-03-09T12:43:57.793505"
 }
