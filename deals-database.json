@@ -11153,6 +11153,22 @@
           "depart_date": "2026-04-17",
           "return_date": "2026-04-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-04-17 returning 2026-04-23"
+        },
+        {
+          "dates": "Sat, Apr 18 \u2013 Sun, Apr 26",
+          "price": "CA$126",
+          "price_value": 126,
+          "depart_date": "2026-04-18",
+          "return_date": "2026-04-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-04-18 returning 2026-04-26"
+        },
+        {
+          "dates": "Sun, Apr 12 \u2013 Sat, Apr 18",
+          "price": "CA$234",
+          "price_value": 234,
+          "depart_date": "2026-04-12",
+          "return_date": "2026-04-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-04-12 returning 2026-04-18"
         }
       ]
     },
@@ -14745,6 +14761,30 @@
           "depart_date": "2026-09-17",
           "return_date": "2026-09-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-09-17 returning 2026-09-23"
+        },
+        {
+          "dates": "Sat, May 30 \u2013 Fri, Jun 5",
+          "price": "CA$371",
+          "price_value": 371,
+          "depart_date": "2026-05-30",
+          "return_date": "2026-06-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-05-30 returning 2026-06-05"
+        },
+        {
+          "dates": "Sat, May 23 \u2013 Fri, May 29",
+          "price": "CA$417",
+          "price_value": 417,
+          "depart_date": "2026-05-23",
+          "return_date": "2026-05-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-05-23 returning 2026-05-29"
+        },
+        {
+          "dates": "Mon, May 11 \u2013 Tue, May 19",
+          "price": "CA$417",
+          "price_value": 417,
+          "depart_date": "2026-05-11",
+          "return_date": "2026-05-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-05-11 returning 2026-05-19"
         }
       ]
     },
@@ -20582,7 +20622,9 @@
     "12710",
     "12711",
     "12712",
-    "12713"
+    "12713",
+    "18151",
+    "18149"
   ],
-  "last_updated": "2026-03-09T08:42:12.725207"
+  "last_updated": "2026-03-09T10:42:46.590527"
 }
