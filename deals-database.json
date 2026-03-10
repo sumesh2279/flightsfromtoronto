@@ -9071,6 +9071,30 @@
           "depart_date": "2026-04-03",
           "return_date": "2026-04-10",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Calgary on 2026-04-03 returning 2026-04-10"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Fri, Jun 19",
+          "price": "CA$193",
+          "price_value": 193,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-06-12 returning 2026-06-19"
+        },
+        {
+          "dates": "Fri, Jun 5 \u2013 Fri, Jun 12",
+          "price": "CA$252",
+          "price_value": 252,
+          "depart_date": "2026-06-05",
+          "return_date": "2026-06-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-06-05 returning 2026-06-12"
+        },
+        {
+          "dates": "Mon, Jun 29 \u2013 Sun, Jul 5",
+          "price": "CA$301",
+          "price_value": 301,
+          "depart_date": "2026-06-29",
+          "return_date": "2026-07-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-06-29 returning 2026-07-05"
         }
       ]
     },
@@ -20825,7 +20849,8 @@
     "18171",
     "18172",
     "18176",
-    "18175"
+    "18175",
+    "18180"
   ],
-  "last_updated": "2026-03-09T21:35:07.500000"
+  "last_updated": "2026-03-09T22:42:18.932935"
 }
