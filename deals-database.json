@@ -5945,6 +5945,22 @@
           "depart_date": "2026-09-26",
           "return_date": "2026-10-02",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Puerto%20Plata on 2026-09-26 returning 2026-10-02"
+        },
+        {
+          "dates": "Sat, Jun 6 \u2013 Mon, Jun 15",
+          "price": "CA$653",
+          "price_value": 653,
+          "depart_date": "2026-06-06",
+          "return_date": "2026-06-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Puerto%20Plata on 2026-06-06 returning 2026-06-15"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Sun, Jun 7",
+          "price": "CA$727",
+          "price_value": 727,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Puerto%20Plata on 2026-06-01 returning 2026-06-07"
         }
       ]
     },
@@ -21011,7 +21027,8 @@
     "18197",
     "18198",
     "18199",
-    "18200"
+    "18200",
+    "18206"
   ],
-  "last_updated": "2026-03-10T12:17:55.457764"
+  "last_updated": "2026-03-10T14:17:46.423267"
 }
