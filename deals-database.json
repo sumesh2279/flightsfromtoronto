@@ -2761,6 +2761,30 @@
           "depart_date": "2026-07-23",
           "return_date": "2026-07-29",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-07-23 returning 2026-07-29"
+        },
+        {
+          "dates": "Thu, Apr 16 \u2013 Wed, Apr 22",
+          "price": "CA$531",
+          "price_value": 531,
+          "depart_date": "2026-04-16",
+          "return_date": "2026-04-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-04-16 returning 2026-04-22"
+        },
+        {
+          "dates": "Mon, Apr 27 \u2013 Tue, May 5",
+          "price": "CA$531",
+          "price_value": 531,
+          "depart_date": "2026-04-27",
+          "return_date": "2026-05-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-04-27 returning 2026-05-05"
+        },
+        {
+          "dates": "Thu, Apr 30 \u2013 Wed, May 6",
+          "price": "CA$531",
+          "price_value": 531,
+          "depart_date": "2026-04-30",
+          "return_date": "2026-05-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-04-30 returning 2026-05-06"
         }
       ]
     },
@@ -16193,6 +16217,30 @@
           "depart_date": "2026-06-01",
           "return_date": "2026-06-07",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Portland on 2026-06-01 returning 2026-06-07"
+        },
+        {
+          "dates": "Sun, Apr 5 \u2013 Mon, Apr 13",
+          "price": "CA$402",
+          "price_value": 402,
+          "depart_date": "2026-04-05",
+          "return_date": "2026-04-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Portland on 2026-04-05 returning 2026-04-13"
+        },
+        {
+          "dates": "Fri, Apr 10 \u2013 Fri, Apr 17",
+          "price": "CA$402",
+          "price_value": 402,
+          "depart_date": "2026-04-10",
+          "return_date": "2026-04-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Portland on 2026-04-10 returning 2026-04-17"
+        },
+        {
+          "dates": "Fri, Apr 17 \u2013 Fri, Apr 24",
+          "price": "CA$402",
+          "price_value": 402,
+          "depart_date": "2026-04-17",
+          "return_date": "2026-04-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Portland on 2026-04-17 returning 2026-04-24"
         }
       ]
     },
@@ -20775,7 +20823,9 @@
     "18162",
     "18170",
     "18171",
-    "18172"
+    "18172",
+    "18176",
+    "18175"
   ],
-  "last_updated": "2026-03-09T20:34:56.284535"
+  "last_updated": "2026-03-09T21:35:07.500000"
 }
