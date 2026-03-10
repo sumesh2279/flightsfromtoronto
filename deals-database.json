@@ -17131,22 +17131,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-05-07 returning 2026-05-13"
         },
         {
-          "dates": "Sun, Apr 5 \u2013 Tue, Apr 14",
-          "price": "CA$756",
-          "price_value": 756,
-          "depart_date": "2026-04-05",
-          "return_date": "2026-04-14",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-04-05 returning 2026-04-14"
-        },
-        {
-          "dates": "Mon, Apr 13 \u2013 Tue, Apr 21",
-          "price": "CA$671",
-          "price_value": 671,
-          "depart_date": "2026-04-13",
-          "return_date": "2026-04-21",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-04-13 returning 2026-04-21"
-        },
-        {
           "dates": "Mon, Apr 27 \u2013 Wed, May 6",
           "price": "CA$679",
           "price_value": 679,
@@ -17313,6 +17297,38 @@
           "depart_date": "2026-06-04",
           "return_date": "2026-06-10",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-06-04 returning 2026-06-10"
+        },
+        {
+          "dates": "Thu, Apr 9 \u2013 Thu, Apr 16",
+          "price": "CA$725",
+          "price_value": 725,
+          "depart_date": "2026-04-09",
+          "return_date": "2026-04-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-04-09 returning 2026-04-16"
+        },
+        {
+          "dates": "Sun, Apr 5 \u2013 Tue, Apr 14",
+          "price": "CA$659",
+          "price_value": 659,
+          "depart_date": "2026-04-05",
+          "return_date": "2026-04-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-04-05 returning 2026-04-14"
+        },
+        {
+          "dates": "Mon, Apr 13 \u2013 Tue, Apr 21",
+          "price": "CA$659",
+          "price_value": 659,
+          "depart_date": "2026-04-13",
+          "return_date": "2026-04-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-04-13 returning 2026-04-21"
+        },
+        {
+          "dates": "Mon, Apr 20 \u2013 Tue, Apr 28",
+          "price": "CA$659",
+          "price_value": 659,
+          "depart_date": "2026-04-20",
+          "return_date": "2026-04-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-04-20 returning 2026-04-28"
         }
       ]
     },
@@ -21087,7 +21103,8 @@
     "18206",
     "18210",
     "18212",
-    "18213"
+    "18213",
+    "18217"
   ],
-  "last_updated": "2026-03-10T17:17:59.270604"
+  "last_updated": "2026-03-10T18:40:45.803764"
 }
