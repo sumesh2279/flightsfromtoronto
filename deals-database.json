@@ -157,14 +157,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-07-31 returning 2026-08-07"
         },
         {
-          "dates": "Sat, Jul 11 \u2013 Sat, Jul 18",
-          "price": "CA$780",
-          "price_value": 780,
-          "depart_date": "2026-07-11",
-          "return_date": "2026-07-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-07-11 returning 2026-07-18"
-        },
-        {
           "dates": "Fri, Jul 17 \u2013 Sat, Jul 25",
           "price": "CA$780",
           "price_value": 780,
@@ -219,6 +211,30 @@
           "depart_date": "2026-06-13",
           "return_date": "2026-06-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-06-13 returning 2026-06-20"
+        },
+        {
+          "dates": "Sat, Jul 11 \u2013 Sat, Jul 18",
+          "price": "CA$737",
+          "price_value": 737,
+          "depart_date": "2026-07-11",
+          "return_date": "2026-07-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-07-11 returning 2026-07-18"
+        },
+        {
+          "dates": "Thu, Jul 2 \u2013 Fri, Jul 10",
+          "price": "CA$802",
+          "price_value": 802,
+          "depart_date": "2026-07-02",
+          "return_date": "2026-07-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-07-02 returning 2026-07-10"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Sat, Jul 25",
+          "price": "CA$816",
+          "price_value": 816,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-07-18 returning 2026-07-25"
         }
       ]
     },
@@ -20758,7 +20774,8 @@
     "18160",
     "18162",
     "18170",
-    "18171"
+    "18171",
+    "18172"
   ],
-  "last_updated": "2026-03-09T18:25:14.381915"
+  "last_updated": "2026-03-09T20:34:56.284535"
 }
