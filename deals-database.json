@@ -12781,30 +12781,6 @@
       "cheapest_current": "CA$269",
       "deals": [
         {
-          "dates": "Fri, May 1 \u2013 Fri, May 8",
-          "price": "CA$336",
-          "price_value": 336,
-          "depart_date": "2026-05-01",
-          "return_date": "2026-05-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-05-01 returning 2026-05-08"
-        },
-        {
-          "dates": "Fri, May 8 \u2013 Fri, May 15",
-          "price": "CA$336",
-          "price_value": 336,
-          "depart_date": "2026-05-08",
-          "return_date": "2026-05-15",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-05-08 returning 2026-05-15"
-        },
-        {
-          "dates": "Fri, May 15 \u2013 Fri, May 22",
-          "price": "CA$336",
-          "price_value": 336,
-          "depart_date": "2026-05-15",
-          "return_date": "2026-05-22",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-05-15 returning 2026-05-22"
-        },
-        {
           "dates": "Sat, Apr 18 \u2013 Fri, Apr 24",
           "price": "CA$269",
           "price_value": 269,
@@ -12891,6 +12867,30 @@
           "depart_date": "2026-06-19",
           "return_date": "2026-06-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-06-19 returning 2026-06-26"
+        },
+        {
+          "dates": "Fri, May 1 \u2013 Fri, May 8",
+          "price": "CA$313",
+          "price_value": 313,
+          "depart_date": "2026-05-01",
+          "return_date": "2026-05-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-05-01 returning 2026-05-08"
+        },
+        {
+          "dates": "Fri, May 8 \u2013 Fri, May 15",
+          "price": "CA$313",
+          "price_value": 313,
+          "depart_date": "2026-05-08",
+          "return_date": "2026-05-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-05-08 returning 2026-05-15"
+        },
+        {
+          "dates": "Fri, May 15 \u2013 Fri, May 22",
+          "price": "CA$313",
+          "price_value": 313,
+          "depart_date": "2026-05-15",
+          "return_date": "2026-05-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Varadero on 2026-05-15 returning 2026-05-22"
         }
       ]
     },
@@ -18533,6 +18533,30 @@
           "depart_date": "2026-04-16",
           "return_date": "2026-04-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bengaluru on 2026-04-16 returning 2026-04-22"
+        },
+        {
+          "dates": "Sun, May 3 \u2013 Tue, May 12",
+          "price": "CA$1,327",
+          "price_value": 1327,
+          "depart_date": "2026-05-03",
+          "return_date": "2026-05-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bengaluru on 2026-05-03 returning 2026-05-12"
+        },
+        {
+          "dates": "Fri, May 8 \u2013 Thu, May 14",
+          "price": "CA$1,327",
+          "price_value": 1327,
+          "depart_date": "2026-05-08",
+          "return_date": "2026-05-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bengaluru on 2026-05-08 returning 2026-05-14"
+        },
+        {
+          "dates": "Fri, May 22 \u2013 Thu, May 28",
+          "price": "CA$1,327",
+          "price_value": 1327,
+          "depart_date": "2026-05-22",
+          "return_date": "2026-05-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bengaluru on 2026-05-22 returning 2026-05-28"
         }
       ]
     },
@@ -21104,7 +21128,9 @@
     "18210",
     "18212",
     "18213",
-    "18217"
+    "18217",
+    "18220",
+    "18219"
   ],
-  "last_updated": "2026-03-10T18:40:45.803764"
+  "last_updated": "2026-03-10T20:41:36.369346"
 }
