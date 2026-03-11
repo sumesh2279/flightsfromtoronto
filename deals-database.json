@@ -235,6 +235,30 @@
           "depart_date": "2026-07-18",
           "return_date": "2026-07-25",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-07-18 returning 2026-07-25"
+        },
+        {
+          "dates": "Sat, Sep 12 \u2013 Fri, Sep 18",
+          "price": "CA$590",
+          "price_value": 590,
+          "depart_date": "2026-09-12",
+          "return_date": "2026-09-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-09-12 returning 2026-09-18"
+        },
+        {
+          "dates": "Sat, Sep 5 \u2013 Sat, Sep 12",
+          "price": "CA$684",
+          "price_value": 684,
+          "depart_date": "2026-09-05",
+          "return_date": "2026-09-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-09-05 returning 2026-09-12"
+        },
+        {
+          "dates": "Fri, Sep 25 \u2013 Fri, Oct 2",
+          "price": "CA$726",
+          "price_value": 726,
+          "depart_date": "2026-09-25",
+          "return_date": "2026-10-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-09-25 returning 2026-10-02"
         }
       ]
     },
@@ -3857,6 +3881,22 @@
           "depart_date": "2026-06-20",
           "return_date": "2026-06-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-06-20 returning 2026-06-26"
+        },
+        {
+          "dates": "Sat, Jul 4 \u2013 Fri, Jul 10",
+          "price": "CA$649",
+          "price_value": 649,
+          "depart_date": "2026-07-04",
+          "return_date": "2026-07-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-07-04 returning 2026-07-10"
+        },
+        {
+          "dates": "Sat, Jul 11 \u2013 Sun, Jul 19",
+          "price": "CA$774",
+          "price_value": 774,
+          "depart_date": "2026-07-11",
+          "return_date": "2026-07-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-07-11 returning 2026-07-19"
         }
       ]
     },
@@ -6843,6 +6883,30 @@
           "depart_date": "2026-07-18",
           "return_date": "2026-07-25",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-07-18 returning 2026-07-25"
+        },
+        {
+          "dates": "Thu, Sep 10 \u2013 Wed, Sep 16",
+          "price": "CA$677",
+          "price_value": 677,
+          "depart_date": "2026-09-10",
+          "return_date": "2026-09-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-09-10 returning 2026-09-16"
+        },
+        {
+          "dates": "Mon, Sep 21 \u2013 Mon, Sep 28",
+          "price": "CA$677",
+          "price_value": 677,
+          "depart_date": "2026-09-21",
+          "return_date": "2026-09-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-09-21 returning 2026-09-28"
+        },
+        {
+          "dates": "Sun, Sep 27 \u2013 Mon, Oct 5",
+          "price": "CA$677",
+          "price_value": 677,
+          "depart_date": "2026-09-27",
+          "return_date": "2026-10-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-09-27 returning 2026-10-05"
         }
       ]
     },
@@ -7431,14 +7495,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-04-12 returning 2026-04-21"
         },
         {
-          "dates": "Mon, Aug 31 \u2013 Tue, Sep 8",
-          "price": "CA$428",
-          "price_value": 428,
-          "depart_date": "2026-08-31",
-          "return_date": "2026-09-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Punta%20Cana on 2026-08-31 returning 2026-09-08"
-        },
-        {
           "dates": "Fri, Aug 7 \u2013 Thu, Aug 13",
           "price": "CA$386",
           "price_value": 386,
@@ -7789,6 +7845,22 @@
           "depart_date": "2026-04-13",
           "return_date": "2026-04-20",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Punta%20Cana on 2026-04-13 returning 2026-04-20"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Tue, Sep 8",
+          "price": "CA$416",
+          "price_value": 416,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-08-31 returning 2026-09-08"
+        },
+        {
+          "dates": "Fri, Aug 21 \u2013 Sat, Aug 29",
+          "price": "CA$426",
+          "price_value": 426,
+          "depart_date": "2026-08-21",
+          "return_date": "2026-08-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-08-21 returning 2026-08-29"
         }
       ]
     },
@@ -13247,6 +13319,30 @@
           "depart_date": "2026-04-13",
           "return_date": "2026-04-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Key%20West on 2026-04-13 returning 2026-04-22"
+        },
+        {
+          "dates": "Thu, Aug 27 \u2013 Thu, Sep 3",
+          "price": "CA$734",
+          "price_value": 734,
+          "depart_date": "2026-08-27",
+          "return_date": "2026-09-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Key%20West on 2026-08-27 returning 2026-09-03"
+        },
+        {
+          "dates": "Fri, Aug 21 \u2013 Thu, Aug 27",
+          "price": "CA$768",
+          "price_value": 768,
+          "depart_date": "2026-08-21",
+          "return_date": "2026-08-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Key%20West on 2026-08-21 returning 2026-08-27"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Thu, Aug 13",
+          "price": "CA$776",
+          "price_value": 776,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Key%20West on 2026-08-06 returning 2026-08-13"
         }
       ]
     },
@@ -21139,7 +21235,12 @@
     "18217",
     "18220",
     "18219",
-    "18221"
+    "18221",
+    "18226",
+    "18225",
+    "18224",
+    "18223",
+    "18222"
   ],
-  "last_updated": "2026-03-10T22:41:39.558644"
+  "last_updated": "2026-03-11T07:41:31.256684"
 }
