@@ -18701,14 +18701,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-26 returning 2026-08-04"
         },
         {
-          "dates": "Sun, Jul 12 \u2013 Tue, Jul 21",
-          "price": "CA$346",
-          "price_value": 346,
-          "depart_date": "2026-07-12",
-          "return_date": "2026-07-21",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-12 returning 2026-07-21"
-        },
-        {
           "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
           "price": "CA$169",
           "price_value": 169,
@@ -18851,6 +18843,14 @@
           "depart_date": "2026-05-08",
           "return_date": "2026-05-14",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-05-08 returning 2026-05-14"
+        },
+        {
+          "dates": "Sun, Jul 12 \u2013 Tue, Jul 21",
+          "price": "CA$319",
+          "price_value": 319,
+          "depart_date": "2026-07-12",
+          "return_date": "2026-07-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-07-12 returning 2026-07-21"
         }
       ]
     },
@@ -19361,6 +19361,14 @@
           "depart_date": "2026-08-02",
           "return_date": "2026-08-11",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-02 returning 2026-08-11"
+        },
+        {
+          "dates": "Sun, Jul 12 \u2013 Tue, Jul 21",
+          "price": "CA$319",
+          "price_value": 319,
+          "depart_date": "2026-07-12",
+          "return_date": "2026-07-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-07-12 returning 2026-07-21"
         }
       ]
     },
@@ -21240,7 +21248,9 @@
     "18225",
     "18224",
     "18223",
-    "18222"
+    "18222",
+    "18255",
+    "18254"
   ],
-  "last_updated": "2026-03-11T07:41:31.256684"
+  "last_updated": "2026-03-11T12:05:10.529290"
 }
