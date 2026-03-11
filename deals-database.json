@@ -8617,6 +8617,38 @@
           "depart_date": "2026-09-17",
           "return_date": "2026-09-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Berlin on 2026-09-17 returning 2026-09-23"
+        },
+        {
+          "dates": "Sat, Aug 29 \u2013 Fri, Sep 4",
+          "price": "CA$1,015",
+          "price_value": 1015,
+          "depart_date": "2026-08-29",
+          "return_date": "2026-09-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Berlin on 2026-08-29 returning 2026-09-04"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Tue, Sep 8",
+          "price": "CA$977",
+          "price_value": 977,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Berlin on 2026-08-30 returning 2026-09-08"
+        },
+        {
+          "dates": "Mon, Aug 10 \u2013 Wed, Aug 19",
+          "price": "CA$1,073",
+          "price_value": 1073,
+          "depart_date": "2026-08-10",
+          "return_date": "2026-08-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Berlin on 2026-08-10 returning 2026-08-19"
+        },
+        {
+          "dates": "Mon, Aug 17 \u2013 Wed, Aug 26",
+          "price": "CA$1,074",
+          "price_value": 1074,
+          "depart_date": "2026-08-17",
+          "return_date": "2026-08-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Berlin on 2026-08-17 returning 2026-08-26"
         }
       ]
     },
@@ -21293,7 +21325,8 @@
     "18254",
     "18261",
     "18260",
-    "18258"
+    "18258",
+    "18266"
   ],
-  "last_updated": "2026-03-11T13:05:23.615544"
+  "last_updated": "2026-03-11T14:10:43.393030"
 }
