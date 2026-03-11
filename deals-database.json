@@ -5573,14 +5573,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-06-04 returning 2026-06-10"
         },
         {
-          "dates": "Mon, May 25 \u2013 Mon, Jun 1",
-          "price": "CA$565",
-          "price_value": 565,
-          "depart_date": "2026-05-25",
-          "return_date": "2026-06-01",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-05-25 returning 2026-06-01"
-        },
-        {
           "dates": "Sun, May 10 \u2013 Sat, May 16",
           "price": "CA$444",
           "price_value": 444,
@@ -5667,6 +5659,22 @@
           "depart_date": "2026-09-17",
           "return_date": "2026-09-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-09-17 returning 2026-09-23"
+        },
+        {
+          "dates": "Mon, May 25 \u2013 Mon, Jun 1",
+          "price": "CA$562",
+          "price_value": 562,
+          "depart_date": "2026-05-25",
+          "return_date": "2026-06-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-05-25 returning 2026-06-01"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Sat, May 23",
+          "price": "CA$488",
+          "price_value": 488,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-05-17 returning 2026-05-23"
         }
       ]
     },
@@ -16403,6 +16411,30 @@
           "depart_date": "2026-06-20",
           "return_date": "2026-06-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-06-20 returning 2026-06-26"
+        },
+        {
+          "dates": "Thu, Sep 3 \u2013 Wed, Sep 9",
+          "price": "CA$385",
+          "price_value": 385,
+          "depart_date": "2026-09-03",
+          "return_date": "2026-09-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-09-03 returning 2026-09-09"
+        },
+        {
+          "dates": "Thu, Sep 10 \u2013 Wed, Sep 16",
+          "price": "CA$385",
+          "price_value": 385,
+          "depart_date": "2026-09-10",
+          "return_date": "2026-09-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-09-10 returning 2026-09-16"
+        },
+        {
+          "dates": "Thu, Sep 17 \u2013 Wed, Sep 23",
+          "price": "CA$385",
+          "price_value": 385,
+          "depart_date": "2026-09-17",
+          "return_date": "2026-09-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-09-17 returning 2026-09-23"
         }
       ]
     },
@@ -21326,7 +21358,9 @@
     "18261",
     "18260",
     "18258",
-    "18266"
+    "18266",
+    "18274",
+    "18273"
   ],
-  "last_updated": "2026-03-11T14:10:43.393030"
+  "last_updated": "2026-03-11T16:15:55.023348"
 }
