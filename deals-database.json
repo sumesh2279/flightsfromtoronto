@@ -13661,6 +13661,30 @@
           "depart_date": "2026-07-10",
           "return_date": "2026-07-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-07-10 returning 2026-07-16"
+        },
+        {
+          "dates": "Fri, Sep 4 \u2013 Sun, Sep 13",
+          "price": "CA$585",
+          "price_value": 585,
+          "depart_date": "2026-09-04",
+          "return_date": "2026-09-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-09-04 returning 2026-09-13"
+        },
+        {
+          "dates": "Fri, Sep 11 \u2013 Sat, Sep 19",
+          "price": "CA$585",
+          "price_value": 585,
+          "depart_date": "2026-09-11",
+          "return_date": "2026-09-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-09-11 returning 2026-09-19"
+        },
+        {
+          "dates": "Fri, Sep 18 \u2013 Sat, Sep 26",
+          "price": "CA$585",
+          "price_value": 585,
+          "depart_date": "2026-09-18",
+          "return_date": "2026-09-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Francisco on 2026-09-18 returning 2026-09-26"
         }
       ]
     },
@@ -19369,6 +19393,22 @@
           "depart_date": "2026-07-12",
           "return_date": "2026-07-21",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-07-12 returning 2026-07-21"
+        },
+        {
+          "dates": "Sat, Jun 6 \u2013 Sat, Jun 13",
+          "price": "CA$218",
+          "price_value": 218,
+          "depart_date": "2026-06-06",
+          "return_date": "2026-06-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-06-06 returning 2026-06-13"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Sat, Jun 20",
+          "price": "CA$294",
+          "price_value": 294,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-06-11 returning 2026-06-20"
         }
       ]
     },
@@ -21250,7 +21290,10 @@
     "18223",
     "18222",
     "18255",
-    "18254"
+    "18254",
+    "18261",
+    "18260",
+    "18258"
   ],
-  "last_updated": "2026-03-11T12:05:10.529290"
+  "last_updated": "2026-03-11T13:05:23.615544"
 }
