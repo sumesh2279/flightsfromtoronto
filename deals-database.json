@@ -7917,6 +7917,30 @@
           "depart_date": "2026-08-21",
           "return_date": "2026-08-29",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-08-21 returning 2026-08-29"
+        },
+        {
+          "dates": "Sat, Sep 12 \u2013 Mon, Sep 21",
+          "price": "CA$324",
+          "price_value": 324,
+          "depart_date": "2026-09-12",
+          "return_date": "2026-09-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-09-12 returning 2026-09-21"
+        },
+        {
+          "dates": "Fri, Sep 18 \u2013 Thu, Sep 24",
+          "price": "CA$385",
+          "price_value": 385,
+          "depart_date": "2026-09-18",
+          "return_date": "2026-09-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-09-18 returning 2026-09-24"
+        },
+        {
+          "dates": "Sat, Sep 26 \u2013 Sat, Oct 3",
+          "price": "CA$407",
+          "price_value": 407,
+          "depart_date": "2026-09-26",
+          "return_date": "2026-10-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-09-26 returning 2026-10-03"
         }
       ]
     },
@@ -21596,7 +21620,8 @@
     "18286",
     "18288",
     "18295",
-    "18292"
+    "18292",
+    "18296"
   ],
-  "last_updated": "2026-03-12T11:11:46.663137"
+  "last_updated": "2026-03-12T12:12:27.323533"
 }
