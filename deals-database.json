@@ -6928,7 +6928,7 @@
     },
     "Halifax": {
       "origin": "Hamilton, Toronto",
-      "cheapest_current": "CA$116",
+      "cheapest_current": "CA$112",
       "deals": [
         {
           "dates": "Sun, May 3 \u2013 Sun, May 10",
@@ -6961,14 +6961,6 @@
           "depart_date": "2026-05-02",
           "return_date": "2026-05-09",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-05-02 returning 2026-05-09"
-        },
-        {
-          "dates": "Thu, May 7 \u2013 Sat, May 16",
-          "price": "CA$167",
-          "price_value": 167,
-          "depart_date": "2026-05-07",
-          "return_date": "2026-05-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-05-07 returning 2026-05-16"
         },
         {
           "dates": "Sat, May 2 \u2013 Sun, May 10",
@@ -7361,6 +7353,22 @@
           "depart_date": "2026-09-26",
           "return_date": "2026-10-04",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-09-26 returning 2026-10-04"
+        },
+        {
+          "dates": "Thu, May 14 \u2013 Sat, May 23",
+          "price": "CA$112",
+          "price_value": 112,
+          "depart_date": "2026-05-14",
+          "return_date": "2026-05-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-05-14 returning 2026-05-23"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Sat, May 16",
+          "price": "CA$161",
+          "price_value": 161,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-05-07 returning 2026-05-16"
         }
       ]
     },
@@ -10423,6 +10431,38 @@
           "depart_date": "2026-04-23",
           "return_date": "2026-04-30",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to London on 2026-04-23 returning 2026-04-30"
+        },
+        {
+          "dates": "Mon, Aug 24 \u2013 Wed, Sep 2",
+          "price": "CA$1,176",
+          "price_value": 1176,
+          "depart_date": "2026-08-24",
+          "return_date": "2026-09-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to London on 2026-08-24 returning 2026-09-02"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Sat, Sep 5",
+          "price": "CA$767",
+          "price_value": 767,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to London on 2026-08-30 returning 2026-09-05"
+        },
+        {
+          "dates": "Mon, Aug 24 \u2013 Tue, Sep 1",
+          "price": "CA$774",
+          "price_value": 774,
+          "depart_date": "2026-08-24",
+          "return_date": "2026-09-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to London on 2026-08-24 returning 2026-09-01"
+        },
+        {
+          "dates": "Mon, Aug 3 \u2013 Mon, Aug 10",
+          "price": "CA$820",
+          "price_value": 820,
+          "depart_date": "2026-08-03",
+          "return_date": "2026-08-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to London on 2026-08-03 returning 2026-08-10"
         }
       ]
     },
@@ -11775,6 +11815,30 @@
           "depart_date": "2026-05-28",
           "return_date": "2026-06-03",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-05-28 returning 2026-06-03"
+        },
+        {
+          "dates": "Thu, Apr 16 \u2013 Wed, Apr 22",
+          "price": "CA$603",
+          "price_value": 603,
+          "depart_date": "2026-04-16",
+          "return_date": "2026-04-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-04-16 returning 2026-04-22"
+        },
+        {
+          "dates": "Mon, Apr 13 \u2013 Mon, Apr 20",
+          "price": "CA$603",
+          "price_value": 603,
+          "depart_date": "2026-04-13",
+          "return_date": "2026-04-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-04-13 returning 2026-04-20"
+        },
+        {
+          "dates": "Fri, Apr 3 \u2013 Fri, Apr 10",
+          "price": "CA$603",
+          "price_value": 603,
+          "depart_date": "2026-04-03",
+          "return_date": "2026-04-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-04-03 returning 2026-04-10"
         }
       ]
     },
@@ -11973,6 +12037,30 @@
           "depart_date": "2026-06-20",
           "return_date": "2026-06-29",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bermuda on 2026-06-20 returning 2026-06-29"
+        },
+        {
+          "dates": "Sat, May 30 \u2013 Mon, Jun 8",
+          "price": "CA$504",
+          "price_value": 504,
+          "depart_date": "2026-05-30",
+          "return_date": "2026-06-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bermuda on 2026-05-30 returning 2026-06-08"
+        },
+        {
+          "dates": "Mon, May 25 \u2013 Wed, Jun 3",
+          "price": "CA$578",
+          "price_value": 578,
+          "depart_date": "2026-05-25",
+          "return_date": "2026-06-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bermuda on 2026-05-25 returning 2026-06-03"
+        },
+        {
+          "dates": "Sun, May 3 \u2013 Sun, May 10",
+          "price": "CA$599",
+          "price_value": 599,
+          "depart_date": "2026-05-03",
+          "return_date": "2026-05-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bermuda on 2026-05-03 returning 2026-05-10"
         }
       ]
     },
@@ -20009,9 +20097,9 @@
       "date": "2026-02-22T14:34:35.631823"
     },
     "Halifax": {
-      "lowest_ever": "CA$116",
-      "lowest_value": 116,
-      "date": "2026-02-22T14:34:33.462945"
+      "lowest_ever": "CA$112",
+      "lowest_value": 112,
+      "date": "2026-03-12T08:09:41.319247"
     },
     "Aspen": {
       "lowest_ever": "CA$590",
@@ -21403,7 +21491,11 @@
     "18273",
     "18275",
     "18280",
-    "18279"
+    "18279",
+    "18284",
+    "18283",
+    "18282",
+    "18281"
   ],
-  "last_updated": "2026-03-12T06:08:51.771592"
+  "last_updated": "2026-03-12T08:09:41.319976"
 }
