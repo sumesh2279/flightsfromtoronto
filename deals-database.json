@@ -5421,6 +5421,14 @@
           "depart_date": "2026-04-24",
           "return_date": "2026-05-02",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-04-24 returning 2026-05-02"
+        },
+        {
+          "dates": "Thu, May 28 \u2013 Wed, Jun 3",
+          "price": "CA$532",
+          "price_value": 532,
+          "depart_date": "2026-05-28",
+          "return_date": "2026-06-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-05-28 returning 2026-06-03"
         }
       ]
     },
@@ -12131,6 +12139,14 @@
           "depart_date": "2026-05-08",
           "return_date": "2026-05-14",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to George%20Town on 2026-05-08 returning 2026-05-14"
+        },
+        {
+          "dates": "Mon, Apr 13 \u2013 Mon, Apr 20",
+          "price": "CA$477",
+          "price_value": 477,
+          "depart_date": "2026-04-13",
+          "return_date": "2026-04-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to George%20Town on 2026-04-13 returning 2026-04-20"
         }
       ]
     },
@@ -21385,7 +21401,9 @@
     "18266",
     "18274",
     "18273",
-    "18275"
+    "18275",
+    "18280",
+    "18279"
   ],
-  "last_updated": "2026-03-11T17:16:38.832435"
+  "last_updated": "2026-03-12T06:08:51.771592"
 }
