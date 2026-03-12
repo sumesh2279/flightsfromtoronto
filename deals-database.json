@@ -2841,6 +2841,30 @@
           "depart_date": "2026-04-30",
           "return_date": "2026-05-06",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-04-30 returning 2026-05-06"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
+          "price": "CA$613",
+          "price_value": 613,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-08-06 returning 2026-08-12"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Wed, Aug 19",
+          "price": "CA$724",
+          "price_value": 724,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-08-13 returning 2026-08-19"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Wed, Aug 26",
+          "price": "CA$724",
+          "price_value": 724,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-08-20 returning 2026-08-26"
         }
       ]
     },
@@ -21679,7 +21703,8 @@
     "18292",
     "18296",
     "18309",
-    "18308"
+    "18308",
+    "18311"
   ],
-  "last_updated": "2026-03-12T14:16:21.025268"
+  "last_updated": "2026-03-12T15:16:18.686768"
 }
