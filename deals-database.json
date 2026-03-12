@@ -259,6 +259,30 @@
           "depart_date": "2026-09-25",
           "return_date": "2026-10-02",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-09-25 returning 2026-10-02"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Mon, Jun 8",
+          "price": "CA$649",
+          "price_value": 649,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-06-01 returning 2026-06-08"
+        },
+        {
+          "dates": "Sat, Jun 13 \u2013 Mon, Jun 22",
+          "price": "CA$649",
+          "price_value": 649,
+          "depart_date": "2026-06-13",
+          "return_date": "2026-06-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-06-13 returning 2026-06-22"
+        },
+        {
+          "dates": "Thu, Jun 18 \u2013 Wed, Jun 24",
+          "price": "CA$649",
+          "price_value": 649,
+          "depart_date": "2026-06-18",
+          "return_date": "2026-06-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-06-18 returning 2026-06-24"
         }
       ]
     },
@@ -21729,7 +21753,8 @@
     "18309",
     "18308",
     "18311",
-    "18319"
+    "18319",
+    "18320"
   ],
-  "last_updated": "2026-03-12T17:16:20.019016"
+  "last_updated": "2026-03-12T18:16:20.234912"
 }
