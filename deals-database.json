@@ -2611,6 +2611,30 @@
           "depart_date": "2026-07-09",
           "return_date": "2026-07-15",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-07-09 returning 2026-07-15"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Thu, Aug 13",
+          "price": "CA$582",
+          "price_value": 582,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-06 returning 2026-08-13"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Thu, Aug 20",
+          "price": "CA$582",
+          "price_value": 582,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-13 returning 2026-08-20"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Thu, Aug 27",
+          "price": "CA$582",
+          "price_value": 582,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-20 returning 2026-08-27"
         }
       ]
     },
@@ -11251,6 +11275,22 @@
           "depart_date": "2026-09-13",
           "return_date": "2026-09-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Budapest on 2026-09-13 returning 2026-09-22"
+        },
+        {
+          "dates": "Mon, Apr 27 \u2013 Mon, May 4",
+          "price": "CA$793",
+          "price_value": 793,
+          "depart_date": "2026-04-27",
+          "return_date": "2026-05-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Budapest on 2026-04-27 returning 2026-05-04"
+        },
+        {
+          "dates": "Mon, Apr 20 \u2013 Mon, Apr 27",
+          "price": "CA$822",
+          "price_value": 822,
+          "depart_date": "2026-04-20",
+          "return_date": "2026-04-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Budapest on 2026-04-20 returning 2026-04-27"
         }
       ]
     },
@@ -21554,7 +21594,9 @@
     "18281",
     "18287",
     "18286",
-    "18288"
+    "18288",
+    "18295",
+    "18292"
   ],
-  "last_updated": "2026-03-12T10:10:58.650101"
+  "last_updated": "2026-03-12T11:11:46.663137"
 }
