@@ -6928,7 +6928,7 @@
     },
     "Halifax": {
       "origin": "Hamilton, Toronto",
-      "cheapest_current": "CA$112",
+      "cheapest_current": "CA$107",
       "deals": [
         {
           "dates": "Sun, May 3 \u2013 Sun, May 10",
@@ -7369,6 +7369,14 @@
           "depart_date": "2026-05-07",
           "return_date": "2026-05-16",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-05-07 returning 2026-05-16"
+        },
+        {
+          "dates": "Fri, May 22 \u2013 Sat, May 30",
+          "price": "CA$107",
+          "price_value": 107,
+          "depart_date": "2026-05-22",
+          "return_date": "2026-05-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-05-22 returning 2026-05-30"
         }
       ]
     },
@@ -20145,9 +20153,9 @@
       "date": "2026-02-22T14:34:35.631823"
     },
     "Halifax": {
-      "lowest_ever": "CA$112",
-      "lowest_value": 112,
-      "date": "2026-03-12T08:09:41.319247"
+      "lowest_ever": "CA$107",
+      "lowest_value": 107,
+      "date": "2026-03-12T10:10:58.650041"
     },
     "Aspen": {
       "lowest_ever": "CA$590",
@@ -21545,7 +21553,8 @@
     "18282",
     "18281",
     "18287",
-    "18286"
+    "18286",
+    "18288"
   ],
-  "last_updated": "2026-03-12T09:10:23.230062"
+  "last_updated": "2026-03-12T10:10:58.650101"
 }
