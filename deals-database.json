@@ -5153,14 +5153,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-06-01 returning 2026-06-07"
         },
         {
-          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
-          "price": "CA$602",
-          "price_value": 602,
-          "depart_date": "2026-06-04",
-          "return_date": "2026-06-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-06-04 returning 2026-06-11"
-        },
-        {
           "dates": "Thu, Jun 11 \u2013 Thu, Jun 18",
           "price": "CA$602",
           "price_value": 602,
@@ -5295,6 +5287,14 @@
           "depart_date": "2026-08-15",
           "return_date": "2026-08-21",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-08-15 returning 2026-08-21"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
+          "price": "CA$499",
+          "price_value": 499,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-06-04 returning 2026-06-11"
         }
       ]
     },
@@ -7639,6 +7639,22 @@
           "depart_date": "2026-05-23",
           "return_date": "2026-05-29",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aspen on 2026-05-23 returning 2026-05-29"
+        },
+        {
+          "dates": "Mon, Apr 6 \u2013 Tue, Apr 14",
+          "price": "CA$801",
+          "price_value": 801,
+          "depart_date": "2026-04-06",
+          "return_date": "2026-04-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aspen on 2026-04-06 returning 2026-04-14"
+        },
+        {
+          "dates": "Sun, Apr 12 \u2013 Sat, Apr 18",
+          "price": "CA$813",
+          "price_value": 813,
+          "depart_date": "2026-04-12",
+          "return_date": "2026-04-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aspen on 2026-04-12 returning 2026-04-18"
         }
       ]
     },
@@ -21957,7 +21973,9 @@
     "18334",
     "18335",
     "18336",
-    "18366"
+    "18366",
+    "18404",
+    "18373"
   ],
-  "last_updated": "2026-03-13T15:55:47.808895"
+  "last_updated": "2026-03-13T17:55:49.238283"
 }
