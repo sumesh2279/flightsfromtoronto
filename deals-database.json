@@ -7737,6 +7737,22 @@
           "depart_date": "2026-05-22",
           "return_date": "2026-05-30",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-05-22 returning 2026-05-30"
+        },
+        {
+          "dates": "Sun, Apr 5 \u2013 Sun, Apr 12",
+          "price": "CA$172",
+          "price_value": 172,
+          "depart_date": "2026-04-05",
+          "return_date": "2026-04-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-04-05 returning 2026-04-12"
+        },
+        {
+          "dates": "Thu, Apr 16 \u2013 Sat, Apr 25",
+          "price": "CA$172",
+          "price_value": 172,
+          "depart_date": "2026-04-16",
+          "return_date": "2026-04-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-04-16 returning 2026-04-25"
         }
       ]
     },
@@ -9665,14 +9681,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-09-28 returning 2026-10-04"
         },
         {
-          "dates": "Mon, Sep 14 \u2013 Wed, Sep 23",
-          "price": "CA$242",
-          "price_value": 242,
-          "depart_date": "2026-09-14",
-          "return_date": "2026-09-23",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-09-14 returning 2026-09-23"
-        },
-        {
           "dates": "Sat, Apr 4 \u2013 Mon, Apr 13",
           "price": "CA$171",
           "price_value": 171,
@@ -9751,6 +9759,54 @@
           "depart_date": "2026-07-04",
           "return_date": "2026-07-10",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Calgary on 2026-07-04 returning 2026-07-10"
+        },
+        {
+          "dates": "Mon, Aug 3 \u2013 Wed, Aug 12",
+          "price": "CA$320",
+          "price_value": 320,
+          "depart_date": "2026-08-03",
+          "return_date": "2026-08-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-08-03 returning 2026-08-12"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
+          "price": "CA$320",
+          "price_value": 320,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-08-06 returning 2026-08-12"
+        },
+        {
+          "dates": "Sat, Aug 29 \u2013 Fri, Sep 4",
+          "price": "CA$359",
+          "price_value": 359,
+          "depart_date": "2026-08-29",
+          "return_date": "2026-09-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-08-29 returning 2026-09-04"
+        },
+        {
+          "dates": "Mon, Sep 14 \u2013 Wed, Sep 23",
+          "price": "CA$192",
+          "price_value": 192,
+          "depart_date": "2026-09-14",
+          "return_date": "2026-09-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-09-14 returning 2026-09-23"
+        },
+        {
+          "dates": "Thu, Sep 17 \u2013 Wed, Sep 23",
+          "price": "CA$260",
+          "price_value": 260,
+          "depart_date": "2026-09-17",
+          "return_date": "2026-09-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-09-17 returning 2026-09-23"
+        },
+        {
+          "dates": "Sun, Sep 27 \u2013 Mon, Oct 5",
+          "price": "CA$264",
+          "price_value": 264,
+          "depart_date": "2026-09-27",
+          "return_date": "2026-10-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-09-27 returning 2026-10-05"
         }
       ]
     },
@@ -20615,12 +20671,36 @@
           "depart_date": "2026-04-05",
           "return_date": "2026-04-14",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-04-05 returning 2026-04-14"
+        },
+        {
+          "dates": "Fri, Aug 7 \u2013 Thu, Aug 13",
+          "price": "CA$418",
+          "price_value": 418,
+          "depart_date": "2026-08-07",
+          "return_date": "2026-08-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-08-07 returning 2026-08-13"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Tue, Sep 8",
+          "price": "CA$419",
+          "price_value": 419,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-08-31 returning 2026-09-08"
+        },
+        {
+          "dates": "Fri, Aug 21 \u2013 Sat, Aug 29",
+          "price": "CA$439",
+          "price_value": 439,
+          "depart_date": "2026-08-21",
+          "return_date": "2026-08-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-08-21 returning 2026-08-29"
         }
       ]
     },
     "Samana, Santo Domingo": {
       "origin": "Toronto",
-      "cheapest_current": "CA$474",
+      "cheapest_current": "CA$375",
       "deals": [
         {
           "dates": "Sun, May 24 \u2013 Sun, May 31",
@@ -20717,6 +20797,30 @@
           "depart_date": "2026-08-07",
           "return_date": "2026-08-14",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-08-07 returning 2026-08-14"
+        },
+        {
+          "dates": "Thu, Apr 23 \u2013 Thu, Apr 30",
+          "price": "CA$375",
+          "price_value": 375,
+          "depart_date": "2026-04-23",
+          "return_date": "2026-04-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-23 returning 2026-04-30"
+        },
+        {
+          "dates": "Sun, Apr 19 \u2013 Sun, Apr 26",
+          "price": "CA$566",
+          "price_value": 566,
+          "depart_date": "2026-04-19",
+          "return_date": "2026-04-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-19 returning 2026-04-26"
+        },
+        {
+          "dates": "Sun, Apr 5 \u2013 Sun, Apr 12",
+          "price": "CA$596",
+          "price_value": 596,
+          "depart_date": "2026-04-05",
+          "return_date": "2026-04-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-05 returning 2026-04-12"
         }
       ]
     },
@@ -21307,9 +21411,9 @@
       "date": "2026-03-03T09:47:33.353305"
     },
     "Samana, Santo Domingo": {
-      "lowest_ever": "CA$474",
-      "lowest_value": 474,
-      "date": "2026-02-26T09:50:38.262255"
+      "lowest_ever": "CA$375",
+      "lowest_value": 375,
+      "date": "2026-03-16T10:17:55.221286"
     },
     "Canc\u00fan, Cozumel": {
       "lowest_ever": "CA$290",
@@ -22509,7 +22613,12 @@
     "18436",
     "18437",
     "18438",
-    "18439"
+    "18439",
+    "18448",
+    "18442",
+    "18444",
+    "18441",
+    "18440"
   ],
-  "last_updated": "2026-03-15T22:12:43.523217"
+  "last_updated": "2026-03-16T10:17:55.221328"
 }
