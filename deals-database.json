@@ -5963,6 +5963,38 @@
           "depart_date": "2026-05-17",
           "return_date": "2026-05-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-05-17 returning 2026-05-23"
+        },
+        {
+          "dates": "Sat, Apr 4 \u2013 Fri, Apr 10",
+          "price": "CA$594",
+          "price_value": 594,
+          "depart_date": "2026-04-04",
+          "return_date": "2026-04-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-04-04 returning 2026-04-10"
+        },
+        {
+          "dates": "Thu, Apr 23 \u2013 Thu, Apr 30",
+          "price": "CA$400",
+          "price_value": 400,
+          "depart_date": "2026-04-23",
+          "return_date": "2026-04-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-04-23 returning 2026-04-30"
+        },
+        {
+          "dates": "Sat, Apr 4 \u2013 Mon, Apr 13",
+          "price": "CA$450",
+          "price_value": 450,
+          "depart_date": "2026-04-04",
+          "return_date": "2026-04-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-04-04 returning 2026-04-13"
+        },
+        {
+          "dates": "Sat, Apr 18 \u2013 Fri, Apr 24",
+          "price": "CA$450",
+          "price_value": 450,
+          "depart_date": "2026-04-18",
+          "return_date": "2026-04-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-04-18 returning 2026-04-24"
         }
       ]
     },
@@ -12193,6 +12225,22 @@
           "depart_date": "2026-04-12",
           "return_date": "2026-04-18",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-04-12 returning 2026-04-18"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Wed, May 13",
+          "price": "CA$384",
+          "price_value": 384,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-05-07 returning 2026-05-13"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Mon, May 25",
+          "price": "CA$384",
+          "price_value": 384,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-05-17 returning 2026-05-25"
         }
       ]
     },
@@ -16145,6 +16193,30 @@
           "depart_date": "2026-05-11",
           "return_date": "2026-05-19",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-05-11 returning 2026-05-19"
+        },
+        {
+          "dates": "Mon, Apr 27 \u2013 Tue, May 5",
+          "price": "CA$464",
+          "price_value": 464,
+          "depart_date": "2026-04-27",
+          "return_date": "2026-05-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-04-27 returning 2026-05-05"
+        },
+        {
+          "dates": "Sat, Apr 18 \u2013 Fri, Apr 24",
+          "price": "CA$408",
+          "price_value": 408,
+          "depart_date": "2026-04-18",
+          "return_date": "2026-04-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-04-18 returning 2026-04-24"
+        },
+        {
+          "dates": "Mon, Apr 6 \u2013 Wed, Apr 15",
+          "price": "CA$423",
+          "price_value": 423,
+          "depart_date": "2026-04-06",
+          "return_date": "2026-04-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-04-06 returning 2026-04-15"
         }
       ]
     },
@@ -20137,12 +20209,28 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-05-04 returning 2026-05-12"
         },
         {
+          "dates": "Mon, May 4 \u2013 Mon, May 11",
+          "price": "CA$272",
+          "price_value": 272,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-05-04 returning 2026-05-11"
+        },
+        {
           "dates": "Mon, May 18 \u2013 Tue, May 26",
-          "price": "CA$396",
-          "price_value": 396,
+          "price": "CA$320",
+          "price_value": 320,
           "depart_date": "2026-05-18",
           "return_date": "2026-05-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-05-18 returning 2026-05-26"
+        },
+        {
+          "dates": "Thu, May 21 \u2013 Wed, May 27",
+          "price": "CA$320",
+          "price_value": 320,
+          "depart_date": "2026-05-21",
+          "return_date": "2026-05-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-05-21 returning 2026-05-27"
         }
       ]
     },
@@ -22643,7 +22731,11 @@
     "18444",
     "18441",
     "18440",
-    "18455"
+    "18455",
+    "18478",
+    "18477",
+    "18476",
+    "18475"
   ],
-  "last_updated": "2026-03-16T12:19:10.201210"
+  "last_updated": "2026-03-16T13:39:03.895963"
 }
