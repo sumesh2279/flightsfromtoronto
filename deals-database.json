@@ -8843,6 +8843,30 @@
           "depart_date": "2026-04-16",
           "return_date": "2026-04-25",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Edmonton on 2026-04-16 returning 2026-04-25"
+        },
+        {
+          "dates": "Fri, Sep 18 \u2013 Sat, Sep 26",
+          "price": "CA$204",
+          "price_value": 204,
+          "depart_date": "2026-09-18",
+          "return_date": "2026-09-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-09-18 returning 2026-09-26"
+        },
+        {
+          "dates": "Thu, Sep 24 \u2013 Sat, Oct 3",
+          "price": "CA$204",
+          "price_value": 204,
+          "depart_date": "2026-09-24",
+          "return_date": "2026-10-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-09-24 returning 2026-10-03"
+        },
+        {
+          "dates": "Fri, Sep 11 \u2013 Thu, Sep 17",
+          "price": "CA$215",
+          "price_value": 215,
+          "depart_date": "2026-09-11",
+          "return_date": "2026-09-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-09-11 returning 2026-09-17"
         }
       ]
     },
@@ -22618,7 +22642,8 @@
     "18442",
     "18444",
     "18441",
-    "18440"
+    "18440",
+    "18455"
   ],
-  "last_updated": "2026-03-16T10:17:55.221328"
+  "last_updated": "2026-03-16T12:19:10.201210"
 }
