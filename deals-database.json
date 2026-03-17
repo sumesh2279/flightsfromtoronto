@@ -2779,6 +2779,30 @@
           "depart_date": "2026-08-20",
           "return_date": "2026-08-27",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-20 returning 2026-08-27"
+        },
+        {
+          "dates": "Fri, Sep 25 \u2013 Sun, Oct 4",
+          "price": "CA$379",
+          "price_value": 379,
+          "depart_date": "2026-09-25",
+          "return_date": "2026-10-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-09-25 returning 2026-10-04"
+        },
+        {
+          "dates": "Thu, Sep 3 \u2013 Wed, Sep 9",
+          "price": "CA$580",
+          "price_value": 580,
+          "depart_date": "2026-09-03",
+          "return_date": "2026-09-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-09-03 returning 2026-09-09"
+        },
+        {
+          "dates": "Thu, Sep 10 \u2013 Wed, Sep 16",
+          "price": "CA$580",
+          "price_value": 580,
+          "depart_date": "2026-09-10",
+          "return_date": "2026-09-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-09-10 returning 2026-09-16"
         }
       ]
     },
@@ -4129,6 +4153,30 @@
           "depart_date": "2026-07-11",
           "return_date": "2026-07-19",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-07-11 returning 2026-07-19"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Wed, Aug 19",
+          "price": "CA$639",
+          "price_value": 639,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-08-13 returning 2026-08-19"
+        },
+        {
+          "dates": "Sat, Aug 8 \u2013 Fri, Aug 14",
+          "price": "CA$744",
+          "price_value": 744,
+          "depart_date": "2026-08-08",
+          "return_date": "2026-08-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-08-08 returning 2026-08-14"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Fri, Aug 28",
+          "price": "CA$744",
+          "price_value": 744,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-08-20 returning 2026-08-28"
         }
       ]
     },
@@ -9801,14 +9849,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-06-12 returning 2026-06-19"
         },
         {
-          "dates": "Fri, Jun 5 \u2013 Fri, Jun 12",
-          "price": "CA$252",
-          "price_value": 252,
-          "depart_date": "2026-06-05",
-          "return_date": "2026-06-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-06-05 returning 2026-06-12"
-        },
-        {
           "dates": "Mon, Jun 29 \u2013 Sun, Jul 5",
           "price": "CA$301",
           "price_value": 301,
@@ -9887,6 +9927,22 @@
           "depart_date": "2026-09-27",
           "return_date": "2026-10-05",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Calgary on 2026-09-27 returning 2026-10-05"
+        },
+        {
+          "dates": "Fri, Jun 5 \u2013 Fri, Jun 12",
+          "price": "CA$147",
+          "price_value": 147,
+          "depart_date": "2026-06-05",
+          "return_date": "2026-06-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Calgary on 2026-06-05 returning 2026-06-12"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Thu, Jun 18",
+          "price": "CA$289",
+          "price_value": 289,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Calgary on 2026-06-12 returning 2026-06-18"
         }
       ]
     },
@@ -9965,14 +10021,6 @@
           "depart_date": "2026-05-14",
           "return_date": "2026-05-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-05-14 returning 2026-05-20"
-        },
-        {
-          "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
-          "price": "CA$313",
-          "price_value": 313,
-          "depart_date": "2026-07-02",
-          "return_date": "2026-07-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-07-02 returning 2026-07-08"
         },
         {
           "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
@@ -10141,6 +10189,14 @@
           "depart_date": "2026-06-01",
           "return_date": "2026-06-08",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-06-01 returning 2026-06-08"
+        },
+        {
+          "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
+          "price": "CA$271",
+          "price_value": 271,
+          "depart_date": "2026-07-02",
+          "return_date": "2026-07-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-07-02 returning 2026-07-08"
         }
       ]
     },
@@ -15677,6 +15733,22 @@
           "depart_date": "2026-04-16",
           "return_date": "2026-04-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-04-16 returning 2026-04-23"
+        },
+        {
+          "dates": "Sat, May 23 \u2013 Mon, Jun 1",
+          "price": "CA$453",
+          "price_value": 453,
+          "depart_date": "2026-05-23",
+          "return_date": "2026-06-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-05-23 returning 2026-06-01"
+        },
+        {
+          "dates": "Sat, May 9 \u2013 Sat, May 16",
+          "price": "CA$485",
+          "price_value": 485,
+          "depart_date": "2026-05-09",
+          "return_date": "2026-05-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-05-09 returning 2026-05-16"
         }
       ]
     },
@@ -20107,6 +20179,14 @@
           "depart_date": "2026-04-19",
           "return_date": "2026-04-28",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-04-19 returning 2026-04-28"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Wed, Jun 17",
+          "price": "CA$302",
+          "price_value": 302,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-11 returning 2026-06-17"
         }
       ]
     },
@@ -21209,6 +21289,30 @@
           "depart_date": "2026-04-09",
           "return_date": "2026-04-15",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-04-09 returning 2026-04-15"
+        },
+        {
+          "dates": "Fri, May 1 \u2013 Fri, May 8",
+          "price": "CA$166",
+          "price_value": 166,
+          "depart_date": "2026-05-01",
+          "return_date": "2026-05-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-05-01 returning 2026-05-08"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Wed, May 13",
+          "price": "CA$166",
+          "price_value": 166,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-05-07 returning 2026-05-13"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Sat, May 23",
+          "price": "CA$166",
+          "price_value": 166,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-05-17 returning 2026-05-23"
         }
       ]
     }
@@ -22812,7 +22916,14 @@
     "18480",
     "18479",
     "18491",
-    "18494"
+    "18494",
+    "18496",
+    "18497",
+    "18498",
+    "18499",
+    "18500",
+    "18501",
+    "18502"
   ],
-  "last_updated": "2026-03-16T21:07:59.127677"
+  "last_updated": "2026-03-17T09:18:54.790449"
 }
