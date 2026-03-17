@@ -18197,6 +18197,14 @@
           "depart_date": "2026-05-28",
           "return_date": "2026-06-03",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-05-28 returning 2026-06-03"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Sat, Jun 13",
+          "price": "CA$492",
+          "price_value": 492,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-06-04 returning 2026-06-13"
         }
       ]
     },
@@ -22803,7 +22811,8 @@
     "18481",
     "18480",
     "18479",
-    "18491"
+    "18491",
+    "18494"
   ],
-  "last_updated": "2026-03-16T18:07:59.014914"
+  "last_updated": "2026-03-16T21:07:59.127677"
 }
