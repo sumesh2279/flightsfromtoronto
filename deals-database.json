@@ -1755,6 +1755,30 @@
           "depart_date": "2026-04-16",
           "return_date": "2026-04-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-04-16 returning 2026-04-22"
+        },
+        {
+          "dates": "Mon, Jul 6 \u2013 Sun, Jul 12",
+          "price": "CA$1,509",
+          "price_value": 1509,
+          "depart_date": "2026-07-06",
+          "return_date": "2026-07-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-07-06 returning 2026-07-12"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Mon, Jul 27",
+          "price": "CA$1,509",
+          "price_value": 1509,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-07-18 returning 2026-07-27"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
+          "price": "CA$1,539",
+          "price_value": 1539,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-07-09 returning 2026-07-15"
         }
       ]
     },
@@ -16377,6 +16401,38 @@
           "depart_date": "2026-04-06",
           "return_date": "2026-04-15",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-04-06 returning 2026-04-15"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Tue, Sep 8",
+          "price": "CA$912",
+          "price_value": 912,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-08-31 returning 2026-09-08"
+        },
+        {
+          "dates": "Sat, Aug 29 \u2013 Mon, Sep 7",
+          "price": "CA$458",
+          "price_value": 458,
+          "depart_date": "2026-08-29",
+          "return_date": "2026-09-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-08-29 returning 2026-09-07"
+        },
+        {
+          "dates": "Sat, Aug 22 \u2013 Fri, Aug 28",
+          "price": "CA$658",
+          "price_value": 658,
+          "depart_date": "2026-08-22",
+          "return_date": "2026-08-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-08-22 returning 2026-08-28"
+        },
+        {
+          "dates": "Mon, Aug 10 \u2013 Tue, Aug 18",
+          "price": "CA$829",
+          "price_value": 829,
+          "depart_date": "2026-08-10",
+          "return_date": "2026-08-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-08-10 returning 2026-08-18"
         }
       ]
     },
@@ -22998,7 +23054,9 @@
     "18502",
     "18522",
     "18515",
-    "18512"
+    "18512",
+    "18548",
+    "18544"
   ],
-  "last_updated": "2026-03-17T12:09:41.856432"
+  "last_updated": "2026-03-17T14:09:33.450687"
 }
