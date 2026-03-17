@@ -10389,14 +10389,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-04-09 returning 2026-04-15"
         },
         {
-          "dates": "Fri, Apr 24 \u2013 Thu, Apr 30",
-          "price": "CA$762",
-          "price_value": 762,
-          "depart_date": "2026-04-24",
-          "return_date": "2026-04-30",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-04-24 returning 2026-04-30"
-        },
-        {
           "dates": "Fri, May 1 \u2013 Sat, May 9",
           "price": "CA$902",
           "price_value": 902,
@@ -10619,6 +10611,38 @@
           "depart_date": "2026-06-15",
           "return_date": "2026-06-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-15 returning 2026-06-22"
+        },
+        {
+          "dates": "Mon, Apr 27 \u2013 Tue, May 5",
+          "price": "CA$1,571",
+          "price_value": 1571,
+          "depart_date": "2026-04-27",
+          "return_date": "2026-05-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-04-27 returning 2026-05-05"
+        },
+        {
+          "dates": "Fri, Apr 10 \u2013 Thu, Apr 16",
+          "price": "CA$718",
+          "price_value": 718,
+          "depart_date": "2026-04-10",
+          "return_date": "2026-04-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-04-10 returning 2026-04-16"
+        },
+        {
+          "dates": "Fri, Apr 24 \u2013 Thu, Apr 30",
+          "price": "CA$718",
+          "price_value": 718,
+          "depart_date": "2026-04-24",
+          "return_date": "2026-04-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-04-24 returning 2026-04-30"
+        },
+        {
+          "dates": "Mon, Apr 20 \u2013 Wed, Apr 29",
+          "price": "CA$718",
+          "price_value": 718,
+          "depart_date": "2026-04-20",
+          "return_date": "2026-04-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-04-20 returning 2026-04-29"
         }
       ]
     },
@@ -19965,6 +19989,30 @@
           "depart_date": "2026-05-22",
           "return_date": "2026-05-28",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bengaluru on 2026-05-22 returning 2026-05-28"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Tue, Sep 8",
+          "price": "CA$1,424",
+          "price_value": 1424,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bengaluru on 2026-08-30 returning 2026-09-08"
+        },
+        {
+          "dates": "Mon, Aug 17 \u2013 Wed, Aug 26",
+          "price": "CA$1,640",
+          "price_value": 1640,
+          "depart_date": "2026-08-17",
+          "return_date": "2026-08-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bengaluru on 2026-08-17 returning 2026-08-26"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Wed, Aug 26",
+          "price": "CA$1,640",
+          "price_value": 1640,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bengaluru on 2026-08-20 returning 2026-08-26"
         }
       ]
     },
@@ -20265,6 +20313,30 @@
           "depart_date": "2026-08-06",
           "return_date": "2026-08-12",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Hyderabad on 2026-08-06 returning 2026-08-12"
+        },
+        {
+          "dates": "Thu, Jul 23 \u2013 Wed, Jul 29",
+          "price": "CA$1,678",
+          "price_value": 1678,
+          "depart_date": "2026-07-23",
+          "return_date": "2026-07-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Hyderabad on 2026-07-23 returning 2026-07-29"
+        },
+        {
+          "dates": "Mon, Jul 20 \u2013 Wed, Jul 29",
+          "price": "CA$1,778",
+          "price_value": 1778,
+          "depart_date": "2026-07-20",
+          "return_date": "2026-07-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Hyderabad on 2026-07-20 returning 2026-07-29"
+        },
+        {
+          "dates": "Mon, Jul 6 \u2013 Mon, Jul 13",
+          "price": "CA$1,828",
+          "price_value": 1828,
+          "depart_date": "2026-07-06",
+          "return_date": "2026-07-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Hyderabad on 2026-07-06 returning 2026-07-13"
         }
       ]
     },
@@ -22923,7 +22995,10 @@
     "18499",
     "18500",
     "18501",
-    "18502"
+    "18502",
+    "18522",
+    "18515",
+    "18512"
   ],
-  "last_updated": "2026-03-17T09:18:54.790449"
+  "last_updated": "2026-03-17T12:09:41.856432"
 }
