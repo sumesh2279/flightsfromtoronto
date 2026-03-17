@@ -14738,7 +14738,7 @@
     },
     "Fort-de-France": {
       "origin": "Toronto",
-      "cheapest_current": "CA$486",
+      "cheapest_current": "CA$464",
       "deals": [
         {
           "dates": "Sat, Mar 21 \u2013 Sat, Mar 28",
@@ -14819,14 +14819,6 @@
           "depart_date": "2026-07-26",
           "return_date": "2026-08-03",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-07-26 returning 2026-08-03"
-        },
-        {
-          "dates": "Mon, Apr 6 \u2013 Tue, Apr 14",
-          "price": "CA$486",
-          "price_value": 486,
-          "depart_date": "2026-04-06",
-          "return_date": "2026-04-14",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-04-06 returning 2026-04-14"
         },
         {
           "dates": "Sun, Apr 26 \u2013 Tue, May 5",
@@ -14979,6 +14971,30 @@
           "depart_date": "2026-04-27",
           "return_date": "2026-05-05",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-04-27 returning 2026-05-05"
+        },
+        {
+          "dates": "Mon, Apr 6 \u2013 Tue, Apr 14",
+          "price": "CA$464",
+          "price_value": 464,
+          "depart_date": "2026-04-06",
+          "return_date": "2026-04-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-04-06 returning 2026-04-14"
+        },
+        {
+          "dates": "Thu, Apr 9 \u2013 Wed, Apr 15",
+          "price": "CA$464",
+          "price_value": 464,
+          "depart_date": "2026-04-09",
+          "return_date": "2026-04-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-04-09 returning 2026-04-15"
+        },
+        {
+          "dates": "Thu, Apr 16 \u2013 Wed, Apr 22",
+          "price": "CA$514",
+          "price_value": 514,
+          "depart_date": "2026-04-16",
+          "return_date": "2026-04-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-04-16 returning 2026-04-22"
         }
       ]
     },
@@ -21726,9 +21742,9 @@
       "date": "2026-03-04T08:50:16.571847"
     },
     "Fort-de-France": {
-      "lowest_ever": "CA$486",
-      "lowest_value": 486,
-      "date": "2026-02-22T14:34:39.883188"
+      "lowest_ever": "CA$464",
+      "lowest_value": 464,
+      "date": "2026-03-17T18:21:45.916815"
     },
     "Havana": {
       "lowest_ever": "CA$319",
@@ -23082,7 +23098,8 @@
     "18548",
     "18544",
     "18551",
-    "18554"
+    "18554",
+    "18556"
   ],
-  "last_updated": "2026-03-17T17:09:34.383599"
+  "last_updated": "2026-03-17T18:21:45.916868"
 }
