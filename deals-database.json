@@ -16903,6 +16903,14 @@
           "depart_date": "2026-09-10",
           "return_date": "2026-09-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-09-10 returning 2026-09-16"
+        },
+        {
+          "dates": "Sat, Jul 25 \u2013 Fri, Jul 31",
+          "price": "CA$362",
+          "price_value": 362,
+          "depart_date": "2026-07-25",
+          "return_date": "2026-07-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-07-25 returning 2026-07-31"
         }
       ]
     },
@@ -21177,6 +21185,30 @@
           "depart_date": "2026-04-19",
           "return_date": "2026-04-28",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-04-19 returning 2026-04-28"
+        },
+        {
+          "dates": "Sun, May 31 \u2013 Sat, Jun 6",
+          "price": "CA$281",
+          "price_value": 281,
+          "depart_date": "2026-05-31",
+          "return_date": "2026-06-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-31 returning 2026-06-06"
+        },
+        {
+          "dates": "Sun, May 3 \u2013 Tue, May 12",
+          "price": "CA$291",
+          "price_value": 291,
+          "depart_date": "2026-05-03",
+          "return_date": "2026-05-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-03 returning 2026-05-12"
+        },
+        {
+          "dates": "Sun, May 24 \u2013 Tue, Jun 2",
+          "price": "CA$291",
+          "price_value": 291,
+          "depart_date": "2026-05-24",
+          "return_date": "2026-06-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-24 returning 2026-06-02"
         }
       ]
     },
@@ -23283,7 +23315,9 @@
     "18561",
     "18578",
     "18583",
-    "18584"
+    "18584",
+    "18596",
+    "18594"
   ],
-  "last_updated": "2026-03-18T14:24:36.483137"
+  "last_updated": "2026-03-18T15:25:12.871546"
 }
