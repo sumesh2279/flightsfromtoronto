@@ -20861,6 +20861,30 @@
           "depart_date": "2026-07-20",
           "return_date": "2026-07-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-07-20 returning 2026-07-26"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Wed, Jul 22",
+          "price": "CA$299",
+          "price_value": 299,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-07-16 returning 2026-07-22"
+        },
+        {
+          "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
+          "price": "CA$299",
+          "price_value": 299,
+          "depart_date": "2026-07-02",
+          "return_date": "2026-07-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-07-02 returning 2026-07-08"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
+          "price": "CA$299",
+          "price_value": 299,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sarasota%2C%20Tampa on 2026-07-09 returning 2026-07-15"
         }
       ]
     },
@@ -23241,7 +23265,8 @@
     "18564",
     "18563",
     "18561",
-    "18578"
+    "18578",
+    "18583"
   ],
-  "last_updated": "2026-03-18T11:15:00.976083"
+  "last_updated": "2026-03-18T13:23:54.857297"
 }
