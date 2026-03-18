@@ -14155,14 +14155,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Holguin on 2026-03-26 returning 2026-04-02"
         },
         {
-          "dates": "Mon, Jul 6 \u2013 Mon, Jul 13",
-          "price": "CA$672",
-          "price_value": 672,
-          "depart_date": "2026-07-06",
-          "return_date": "2026-07-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Holguin on 2026-07-06 returning 2026-07-13"
-        },
-        {
           "dates": "Thu, Jul 9 \u2013 Thu, Jul 16",
           "price": "CA$639",
           "price_value": 639,
@@ -14249,6 +14241,30 @@
           "depart_date": "2026-07-06",
           "return_date": "2026-07-14",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Holguin on 2026-07-06 returning 2026-07-14"
+        },
+        {
+          "dates": "Mon, Jul 6 \u2013 Mon, Jul 13",
+          "price": "CA$622",
+          "price_value": 622,
+          "depart_date": "2026-07-06",
+          "return_date": "2026-07-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Holguin on 2026-07-06 returning 2026-07-13"
+        },
+        {
+          "dates": "Mon, Jul 13 \u2013 Mon, Jul 20",
+          "price": "CA$622",
+          "price_value": 622,
+          "depart_date": "2026-07-13",
+          "return_date": "2026-07-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Holguin on 2026-07-13 returning 2026-07-20"
+        },
+        {
+          "dates": "Mon, Jul 20 \u2013 Mon, Jul 27",
+          "price": "CA$622",
+          "price_value": 622,
+          "depart_date": "2026-07-20",
+          "return_date": "2026-07-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Holguin on 2026-07-20 returning 2026-07-27"
         }
       ]
     },
@@ -23317,7 +23333,8 @@
     "18583",
     "18584",
     "18596",
-    "18594"
+    "18594",
+    "18601"
   ],
-  "last_updated": "2026-03-18T15:25:12.871546"
+  "last_updated": "2026-03-18T16:25:46.785713"
 }
