@@ -18463,14 +18463,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-06-01 returning 2026-06-09"
         },
         {
-          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
-          "price": "CA$509",
-          "price_value": 509,
-          "depart_date": "2026-06-04",
-          "return_date": "2026-06-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-06-04 returning 2026-06-10"
-        },
-        {
           "dates": "Thu, Jun 11 \u2013 Wed, Jun 17",
           "price": "CA$546",
           "price_value": 546,
@@ -18509,6 +18501,30 @@
           "depart_date": "2026-06-04",
           "return_date": "2026-06-13",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-06-04 returning 2026-06-13"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
+          "price": "CA$312",
+          "price_value": 312,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-06-04 returning 2026-06-10"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Fri, Jun 19",
+          "price": "CA$312",
+          "price_value": 312,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-06-12 returning 2026-06-19"
+        },
+        {
+          "dates": "Sat, Jun 20 \u2013 Fri, Jun 26",
+          "price": "CA$312",
+          "price_value": 312,
+          "depart_date": "2026-06-20",
+          "return_date": "2026-06-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-06-20 returning 2026-06-26"
         }
       ]
     },
@@ -23266,7 +23282,8 @@
     "18563",
     "18561",
     "18578",
-    "18583"
+    "18583",
+    "18584"
   ],
-  "last_updated": "2026-03-18T13:23:54.857297"
+  "last_updated": "2026-03-18T14:24:36.483137"
 }
