@@ -37,14 +37,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-03-02 returning 2026-03-08"
         },
         {
-          "dates": "Sat, Jun 6 \u2013 Sat, Jun 13",
-          "price": "CA$589",
-          "price_value": 589,
-          "depart_date": "2026-06-06",
-          "return_date": "2026-06-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-06-06 returning 2026-06-13"
-        },
-        {
           "dates": "Fri, Jun 12 \u2013 Sat, Jun 20",
           "price": "CA$689",
           "price_value": 689,
@@ -283,6 +275,22 @@
           "depart_date": "2026-06-18",
           "return_date": "2026-06-24",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-06-18 returning 2026-06-24"
+        },
+        {
+          "dates": "Sat, Jun 6 \u2013 Sat, Jun 13",
+          "price": "CA$567",
+          "price_value": 567,
+          "depart_date": "2026-06-06",
+          "return_date": "2026-06-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-06-06 returning 2026-06-13"
+        },
+        {
+          "dates": "Mon, Jun 29 \u2013 Tue, Jul 7",
+          "price": "CA$681",
+          "price_value": 681,
+          "depart_date": "2026-06-29",
+          "return_date": "2026-07-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-06-29 returning 2026-07-07"
         }
       ]
     },
@@ -1915,14 +1923,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-05-03 returning 2026-05-09"
         },
         {
-          "dates": "Thu, May 7 \u2013 Wed, May 13",
-          "price": "CA$384",
-          "price_value": 384,
-          "depart_date": "2026-05-07",
-          "return_date": "2026-05-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-05-07 returning 2026-05-13"
-        },
-        {
           "dates": "Mon, May 18 \u2013 Wed, May 27",
           "price": "CA$384",
           "price_value": 384,
@@ -2049,6 +2049,38 @@
           "depart_date": "2026-04-17",
           "return_date": "2026-04-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-04-17 returning 2026-04-23"
+        },
+        {
+          "dates": "Fri, May 29 \u2013 Fri, Jun 5",
+          "price": "CA$440",
+          "price_value": 440,
+          "depart_date": "2026-05-29",
+          "return_date": "2026-06-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-05-29 returning 2026-06-05"
+        },
+        {
+          "dates": "Sat, May 2 \u2013 Sat, May 9",
+          "price": "CA$383",
+          "price_value": 383,
+          "depart_date": "2026-05-02",
+          "return_date": "2026-05-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-05-02 returning 2026-05-09"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Wed, May 13",
+          "price": "CA$383",
+          "price_value": 383,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-05-07 returning 2026-05-13"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Tue, May 26",
+          "price": "CA$383",
+          "price_value": 383,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-05-17 returning 2026-05-26"
         }
       ]
     },
@@ -15997,6 +16029,30 @@
           "depart_date": "2026-05-09",
           "return_date": "2026-05-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-05-09 returning 2026-05-16"
+        },
+        {
+          "dates": "Sat, Jul 4 \u2013 Mon, Jul 13",
+          "price": "CA$504",
+          "price_value": 504,
+          "depart_date": "2026-07-04",
+          "return_date": "2026-07-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-07-04 returning 2026-07-13"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Thu, Jul 16",
+          "price": "CA$581",
+          "price_value": 581,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-07-09 returning 2026-07-16"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Wed, Jul 22",
+          "price": "CA$624",
+          "price_value": 624,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-07-16 returning 2026-07-22"
         }
       ]
     },
@@ -23384,7 +23440,10 @@
     "18594",
     "18601",
     "18603",
-    "18607"
+    "18607",
+    "18612",
+    "18609",
+    "18608"
   ],
-  "last_updated": "2026-03-18T20:38:38.506824"
+  "last_updated": "2026-03-19T08:40:12.404544"
 }
