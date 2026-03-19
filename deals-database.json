@@ -7435,6 +7435,30 @@
           "depart_date": "2026-07-16",
           "return_date": "2026-07-25",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-07-16 returning 2026-07-25"
+        },
+        {
+          "dates": "Fri, May 1 \u2013 Sat, May 9",
+          "price": "CA$610",
+          "price_value": 610,
+          "depart_date": "2026-05-01",
+          "return_date": "2026-05-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-05-01 returning 2026-05-09"
+        },
+        {
+          "dates": "Fri, May 8 \u2013 Sat, May 16",
+          "price": "CA$610",
+          "price_value": 610,
+          "depart_date": "2026-05-08",
+          "return_date": "2026-05-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-05-08 returning 2026-05-16"
+        },
+        {
+          "dates": "Fri, May 15 \u2013 Sat, May 23",
+          "price": "CA$610",
+          "price_value": 610,
+          "depart_date": "2026-05-15",
+          "return_date": "2026-05-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-05-15 returning 2026-05-23"
         }
       ]
     },
@@ -23359,7 +23383,8 @@
     "18596",
     "18594",
     "18601",
-    "18603"
+    "18603",
+    "18607"
   ],
-  "last_updated": "2026-03-18T17:26:22.217056"
+  "last_updated": "2026-03-18T20:38:38.506824"
 }
