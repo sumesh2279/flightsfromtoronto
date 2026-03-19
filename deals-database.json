@@ -2955,14 +2955,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-03-09 returning 2026-03-17"
         },
         {
-          "dates": "Thu, May 7 \u2013 Wed, May 13",
-          "price": "CA$606",
-          "price_value": 606,
-          "depart_date": "2026-05-07",
-          "return_date": "2026-05-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-05-07 returning 2026-05-13"
-        },
-        {
           "dates": "Fri, Apr 17 \u2013 Thu, Apr 23",
           "price": "CA$604",
           "price_value": 604,
@@ -3089,6 +3081,30 @@
           "depart_date": "2026-08-20",
           "return_date": "2026-08-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-08-20 returning 2026-08-26"
+        },
+        {
+          "dates": "Sun, May 3 \u2013 Sat, May 9",
+          "price": "CA$593",
+          "price_value": 593,
+          "depart_date": "2026-05-03",
+          "return_date": "2026-05-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-05-03 returning 2026-05-09"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Wed, May 13",
+          "price": "CA$593",
+          "price_value": 593,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-05-07 returning 2026-05-13"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Tue, May 26",
+          "price": "CA$593",
+          "price_value": 593,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-05-17 returning 2026-05-26"
         }
       ]
     },
@@ -13523,14 +13539,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Juan on 2026-03-16 returning 2026-03-25"
         },
         {
-          "dates": "Sun, Apr 12 \u2013 Sat, Apr 18",
-          "price": "CA$762",
-          "price_value": 762,
-          "depart_date": "2026-04-12",
-          "return_date": "2026-04-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Juan on 2026-04-12 returning 2026-04-18"
-        },
-        {
           "dates": "Mon, Apr 13 \u2013 Wed, Apr 22",
           "price": "CA$327",
           "price_value": 327,
@@ -13649,6 +13657,22 @@
           "depart_date": "2026-07-18",
           "return_date": "2026-07-27",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Juan on 2026-07-18 returning 2026-07-27"
+        },
+        {
+          "dates": "Sun, Apr 12 \u2013 Sat, Apr 18",
+          "price": "CA$477",
+          "price_value": 477,
+          "depart_date": "2026-04-12",
+          "return_date": "2026-04-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Juan on 2026-04-12 returning 2026-04-18"
+        },
+        {
+          "dates": "Fri, Apr 24 \u2013 Thu, Apr 30",
+          "price": "CA$412",
+          "price_value": 412,
+          "depart_date": "2026-04-24",
+          "return_date": "2026-04-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Juan on 2026-04-24 returning 2026-04-30"
         }
       ]
     },
@@ -23743,7 +23767,9 @@
     "18656",
     "18655",
     "18652",
-    "18680"
+    "18680",
+    "18684",
+    "18683"
   ],
-  "last_updated": "2026-03-19T16:40:47.948129"
+  "last_updated": "2026-03-19T17:40:44.429883"
 }
