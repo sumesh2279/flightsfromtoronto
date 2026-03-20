@@ -3543,22 +3543,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-09 returning 2026-05-17"
         },
         {
-          "dates": "Mon, May 4 \u2013 Wed, May 13",
-          "price": "CA$612",
-          "price_value": 612,
-          "depart_date": "2026-05-04",
-          "return_date": "2026-05-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-04 returning 2026-05-13"
-        },
-        {
-          "dates": "Thu, May 7 \u2013 Wed, May 13",
-          "price": "CA$660",
-          "price_value": 660,
-          "depart_date": "2026-05-07",
-          "return_date": "2026-05-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-07 returning 2026-05-13"
-        },
-        {
           "dates": "Thu, May 14 \u2013 Wed, May 20",
           "price": "CA$666",
           "price_value": 666,
@@ -3733,6 +3717,30 @@
           "depart_date": "2026-04-27",
           "return_date": "2026-05-05",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-04-27 returning 2026-05-05"
+        },
+        {
+          "dates": "Mon, May 4 \u2013 Wed, May 13",
+          "price": "CA$579",
+          "price_value": 579,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-04 returning 2026-05-13"
+        },
+        {
+          "dates": "Mon, May 18 \u2013 Wed, May 27",
+          "price": "CA$599",
+          "price_value": 599,
+          "depart_date": "2026-05-18",
+          "return_date": "2026-05-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-18 returning 2026-05-27"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Wed, May 13",
+          "price": "CA$629",
+          "price_value": 629,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-07 returning 2026-05-13"
         }
       ]
     },
@@ -20941,14 +20949,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-02 returning 2026-08-11"
         },
         {
-          "dates": "Thu, Aug 6 \u2013 Thu, Aug 13",
-          "price": "CA$312",
-          "price_value": 312,
-          "depart_date": "2026-08-06",
-          "return_date": "2026-08-13",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-06 returning 2026-08-13"
-        },
-        {
           "dates": "Sun, May 24 \u2013 Sat, May 30",
           "price": "CA$196",
           "price_value": 196,
@@ -21035,6 +21035,30 @@
           "depart_date": "2026-05-10",
           "return_date": "2026-05-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-05-10 returning 2026-05-16"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Thu, Aug 13",
+          "price": "CA$194",
+          "price_value": 194,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-06 returning 2026-08-13"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Thu, Aug 27",
+          "price": "CA$289",
+          "price_value": 289,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-20 returning 2026-08-27"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Sat, Sep 5",
+          "price": "CA$315",
+          "price_value": 315,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-30 returning 2026-09-05"
         }
       ]
     },
@@ -23957,7 +23981,10 @@
     "18695",
     "18694",
     "18688",
-    "18705"
+    "18705",
+    "18719",
+    "18716",
+    "18713"
   ],
-  "last_updated": "2026-03-20T09:40:45.673154"
+  "last_updated": "2026-03-20T10:40:46.699919"
 }
