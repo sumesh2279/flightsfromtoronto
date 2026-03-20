@@ -8183,6 +8183,30 @@
           "depart_date": "2026-04-12",
           "return_date": "2026-04-18",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aspen on 2026-04-12 returning 2026-04-18"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Fri, Jun 19",
+          "price": "CA$834",
+          "price_value": 834,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aspen on 2026-06-12 returning 2026-06-19"
+        },
+        {
+          "dates": "Sat, Jun 20 \u2013 Fri, Jun 26",
+          "price": "CA$835",
+          "price_value": 835,
+          "depart_date": "2026-06-20",
+          "return_date": "2026-06-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aspen on 2026-06-20 returning 2026-06-26"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
+          "price": "CA$835",
+          "price_value": 835,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aspen on 2026-06-04 returning 2026-06-10"
         }
       ]
     },
@@ -24113,7 +24137,8 @@
     "18737",
     "18733",
     "18739",
-    "18748"
+    "18748",
+    "18749"
   ],
-  "last_updated": "2026-03-20T17:40:49.657735"
+  "last_updated": "2026-03-20T19:40:44.988482"
 }
