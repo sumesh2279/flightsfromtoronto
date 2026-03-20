@@ -1009,6 +1009,14 @@
           "depart_date": "2026-05-30",
           "return_date": "2026-06-06",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Canc%C3%BAn on 2026-05-30 returning 2026-06-06"
+        },
+        {
+          "dates": "Sun, Apr 12 \u2013 Tue, Apr 21",
+          "price": "CA$368",
+          "price_value": 368,
+          "depart_date": "2026-04-12",
+          "return_date": "2026-04-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Canc%C3%BAn on 2026-04-12 returning 2026-04-21"
         }
       ]
     },
@@ -23769,7 +23777,8 @@
     "18652",
     "18680",
     "18684",
-    "18683"
+    "18683",
+    "18686"
   ],
-  "last_updated": "2026-03-19T17:40:44.429883"
+  "last_updated": "2026-03-19T20:40:45.525680"
 }
