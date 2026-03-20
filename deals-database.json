@@ -2525,30 +2525,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-07-26 returning 2026-08-04"
         },
         {
-          "dates": "Sat, Aug 1 \u2013 Fri, Aug 7",
-          "price": "CA$580",
-          "price_value": 580,
-          "depart_date": "2026-08-01",
-          "return_date": "2026-08-07",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-01 returning 2026-08-07"
-        },
-        {
-          "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
-          "price": "CA$580",
-          "price_value": 580,
-          "depart_date": "2026-08-06",
-          "return_date": "2026-08-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-06 returning 2026-08-12"
-        },
-        {
-          "dates": "Thu, Aug 13 \u2013 Wed, Aug 19",
-          "price": "CA$580",
-          "price_value": 580,
-          "depart_date": "2026-08-13",
-          "return_date": "2026-08-19",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-13 returning 2026-08-19"
-        },
-        {
           "dates": "Fri, May 1 \u2013 Thu, May 7",
           "price": "CA$648",
           "price_value": 648,
@@ -2867,6 +2843,30 @@
           "depart_date": "2026-09-10",
           "return_date": "2026-09-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-09-10 returning 2026-09-16"
+        },
+        {
+          "dates": "Sat, Aug 1 \u2013 Fri, Aug 7",
+          "price": "CA$519",
+          "price_value": 519,
+          "depart_date": "2026-08-01",
+          "return_date": "2026-08-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-01 returning 2026-08-07"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
+          "price": "CA$519",
+          "price_value": 519,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-06 returning 2026-08-12"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Wed, Aug 19",
+          "price": "CA$519",
+          "price_value": 519,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-13 returning 2026-08-19"
         }
       ]
     },
@@ -14039,6 +14039,38 @@
           "depart_date": "2026-07-16",
           "return_date": "2026-07-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cairo on 2026-07-16 returning 2026-07-22"
+        },
+        {
+          "dates": "Fri, May 1 \u2013 Thu, May 7",
+          "price": "CA$1,539",
+          "price_value": 1539,
+          "depart_date": "2026-05-01",
+          "return_date": "2026-05-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cairo on 2026-05-01 returning 2026-05-07"
+        },
+        {
+          "dates": "Mon, May 4 \u2013 Tue, May 12",
+          "price": "CA$1,231",
+          "price_value": 1231,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cairo on 2026-05-04 returning 2026-05-12"
+        },
+        {
+          "dates": "Sat, May 9 \u2013 Fri, May 15",
+          "price": "CA$1,231",
+          "price_value": 1231,
+          "depart_date": "2026-05-09",
+          "return_date": "2026-05-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cairo on 2026-05-09 returning 2026-05-15"
+        },
+        {
+          "dates": "Sat, May 16 \u2013 Fri, May 22",
+          "price": "CA$1,231",
+          "price_value": 1231,
+          "depart_date": "2026-05-16",
+          "return_date": "2026-05-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cairo on 2026-05-16 returning 2026-05-22"
         }
       ]
     },
@@ -24029,7 +24061,9 @@
     "18720",
     "18724",
     "18722",
-    "18731"
+    "18731",
+    "18737",
+    "18733"
   ],
-  "last_updated": "2026-03-20T13:40:45.031128"
+  "last_updated": "2026-03-20T14:40:46.479718"
 }
