@@ -11153,6 +11153,30 @@
           "depart_date": "2026-06-01",
           "return_date": "2026-06-09",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Thu, Sep 24 \u2013 Thu, Oct 1",
+          "price": "CA$1,828",
+          "price_value": 1828,
+          "depart_date": "2026-09-24",
+          "return_date": "2026-10-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-09-24 returning 2026-10-01"
+        },
+        {
+          "dates": "Mon, Sep 14 \u2013 Mon, Sep 21",
+          "price": "CA$1,876",
+          "price_value": 1876,
+          "depart_date": "2026-09-14",
+          "return_date": "2026-09-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-09-14 returning 2026-09-21"
+        },
+        {
+          "dates": "Thu, Sep 17 \u2013 Wed, Sep 23",
+          "price": "CA$1,876",
+          "price_value": 1876,
+          "depart_date": "2026-09-17",
+          "return_date": "2026-09-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-09-17 returning 2026-09-23"
         }
       ]
     },
@@ -21820,8 +21844,8 @@
         },
         {
           "dates": "Sun, May 31 \u2013 Sun, Jun 7",
-          "price": "CA$266",
-          "price_value": 266,
+          "price": "CA$246",
+          "price_value": 246,
           "depart_date": "2026-05-31",
           "return_date": "2026-06-07",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-31 returning 2026-06-07"
@@ -23984,7 +24008,9 @@
     "18705",
     "18719",
     "18716",
-    "18713"
+    "18713",
+    "18721",
+    "18720"
   ],
-  "last_updated": "2026-03-20T10:40:46.699919"
+  "last_updated": "2026-03-20T11:40:46.619205"
 }
