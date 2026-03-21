@@ -2530,7 +2530,7 @@
     },
     "Austin": {
       "origin": "Toronto",
-      "cheapest_current": "CA$354",
+      "cheapest_current": "CA$349",
       "deals": [
         {
           "dates": "Thu, Apr 2 \u2013 Thu, Apr 9",
@@ -2923,6 +2923,14 @@
           "depart_date": "2026-08-13",
           "return_date": "2026-08-19",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-13 returning 2026-08-19"
+        },
+        {
+          "dates": "Fri, Aug 14 \u2013 Sun, Aug 23",
+          "price": "CA$349",
+          "price_value": 349,
+          "depart_date": "2026-08-14",
+          "return_date": "2026-08-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Austin on 2026-08-14 returning 2026-08-23"
         }
       ]
     },
@@ -22671,9 +22679,9 @@
       "date": "2026-02-22T14:33:22.092132"
     },
     "Austin": {
-      "lowest_ever": "CA$354",
-      "lowest_value": 354,
-      "date": "2026-02-22T14:32:39.105980"
+      "lowest_ever": "CA$349",
+      "lowest_value": 349,
+      "date": "2026-03-21T14:40:52.404459"
     },
     "Richmond": {
       "lowest_ever": "CA$447",
@@ -24308,7 +24316,8 @@
     "18753",
     "18764",
     "18763",
-    "18761"
+    "18761",
+    "18765"
   ],
-  "last_updated": "2026-03-21T12:40:45.971927"
+  "last_updated": "2026-03-21T14:40:52.404529"
 }
