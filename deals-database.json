@@ -1041,6 +1041,14 @@
           "depart_date": "2026-05-07",
           "return_date": "2026-05-15",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-05-07 returning 2026-05-15"
+        },
+        {
+          "dates": "Sun, Jun 14 \u2013 Tue, Jun 23",
+          "price": "CA$368",
+          "price_value": 368,
+          "depart_date": "2026-06-14",
+          "return_date": "2026-06-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-06-14 returning 2026-06-23"
         }
       ]
     },
@@ -19453,14 +19461,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kingston on 2026-06-06 returning 2026-06-12"
         },
         {
-          "dates": "Fri, Jun 12 \u2013 Fri, Jun 19",
-          "price": "CA$472",
-          "price_value": 472,
-          "depart_date": "2026-06-12",
-          "return_date": "2026-06-19",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kingston on 2026-06-12 returning 2026-06-19"
-        },
-        {
           "dates": "Fri, May 1 \u2013 Fri, May 8",
           "price": "CA$427",
           "price_value": 427,
@@ -19507,6 +19507,22 @@
           "depart_date": "2026-04-17",
           "return_date": "2026-04-25",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kingston on 2026-04-17 returning 2026-04-25"
+        },
+        {
+          "dates": "Fri, Jun 5 \u2013 Fri, Jun 12",
+          "price": "CA$440",
+          "price_value": 440,
+          "depart_date": "2026-06-05",
+          "return_date": "2026-06-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kingston on 2026-06-05 returning 2026-06-12"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Fri, Jun 19",
+          "price": "CA$440",
+          "price_value": 440,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kingston on 2026-06-12 returning 2026-06-19"
         }
       ]
     },
@@ -22443,6 +22459,30 @@
           "depart_date": "2026-05-30",
           "return_date": "2026-06-06",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-05-30 returning 2026-06-06"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
+          "price": "CA$368",
+          "price_value": 368,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-06-04 returning 2026-06-11"
+        },
+        {
+          "dates": "Sun, Jun 14 \u2013 Tue, Jun 23",
+          "price": "CA$368",
+          "price_value": 368,
+          "depart_date": "2026-06-14",
+          "return_date": "2026-06-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-06-14 returning 2026-06-23"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Sun, Jun 7",
+          "price": "CA$385",
+          "price_value": 385,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-06-01 returning 2026-06-07"
         }
       ]
     },
@@ -24265,7 +24305,10 @@
     "18756",
     "18755",
     "18754",
-    "18753"
+    "18753",
+    "18764",
+    "18763",
+    "18761"
   ],
-  "last_updated": "2026-03-21T07:40:51.694615"
+  "last_updated": "2026-03-21T12:40:45.971927"
 }
