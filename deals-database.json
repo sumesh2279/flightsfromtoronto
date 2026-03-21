@@ -1017,6 +1017,30 @@
           "depart_date": "2026-04-12",
           "return_date": "2026-04-21",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Canc%C3%BAn on 2026-04-12 returning 2026-04-21"
+        },
+        {
+          "dates": "Fri, May 29 \u2013 Thu, Jun 4",
+          "price": "CA$385",
+          "price_value": 385,
+          "depart_date": "2026-05-29",
+          "return_date": "2026-06-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-05-29 returning 2026-06-04"
+        },
+        {
+          "dates": "Fri, May 22 \u2013 Fri, May 29",
+          "price": "CA$389",
+          "price_value": 389,
+          "depart_date": "2026-05-22",
+          "return_date": "2026-05-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-05-22 returning 2026-05-29"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Fri, May 15",
+          "price": "CA$391",
+          "price_value": 391,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-05-07 returning 2026-05-15"
         }
       ]
     },
@@ -5631,6 +5655,30 @@
           "depart_date": "2026-06-04",
           "return_date": "2026-06-11",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-06-04 returning 2026-06-11"
+        },
+        {
+          "dates": "Fri, May 29 \u2013 Fri, Jun 5",
+          "price": "CA$827",
+          "price_value": 827,
+          "depart_date": "2026-05-29",
+          "return_date": "2026-06-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-05-29 returning 2026-06-05"
+        },
+        {
+          "dates": "Fri, May 8 \u2013 Sat, May 16",
+          "price": "CA$422",
+          "price_value": 422,
+          "depart_date": "2026-05-08",
+          "return_date": "2026-05-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-05-08 returning 2026-05-16"
+        },
+        {
+          "dates": "Fri, May 15 \u2013 Sat, May 23",
+          "price": "CA$467",
+          "price_value": 467,
+          "depart_date": "2026-05-15",
+          "return_date": "2026-05-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-05-15 returning 2026-05-23"
         }
       ]
     },
@@ -24138,7 +24186,9 @@
     "18733",
     "18739",
     "18748",
-    "18749"
+    "18749",
+    "18752",
+    "18751"
   ],
-  "last_updated": "2026-03-20T19:40:44.988482"
+  "last_updated": "2026-03-20T21:40:48.249676"
 }
