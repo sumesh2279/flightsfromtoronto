@@ -3471,6 +3471,30 @@
           "depart_date": "2026-07-04",
           "return_date": "2026-07-10",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sapporo on 2026-07-04 returning 2026-07-10"
+        },
+        {
+          "dates": "Thu, Aug 27 \u2013 Thu, Sep 3",
+          "price": "CA$1,303",
+          "price_value": 1303,
+          "depart_date": "2026-08-27",
+          "return_date": "2026-09-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sapporo on 2026-08-27 returning 2026-09-03"
+        },
+        {
+          "dates": "Mon, Aug 24 \u2013 Mon, Aug 31",
+          "price": "CA$1,339",
+          "price_value": 1339,
+          "depart_date": "2026-08-24",
+          "return_date": "2026-08-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sapporo on 2026-08-24 returning 2026-08-31"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Thu, Aug 20",
+          "price": "CA$1,398",
+          "price_value": 1398,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sapporo on 2026-08-13 returning 2026-08-20"
         }
       ]
     },
@@ -24503,7 +24527,8 @@
     "18773",
     "18776",
     "18775",
-    "18774"
+    "18774",
+    "18777"
   ],
-  "last_updated": "2026-03-22T11:40:54.120399"
+  "last_updated": "2026-03-22T12:40:52.503195"
 }
