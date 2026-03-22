@@ -5219,6 +5219,22 @@
           "depart_date": "2026-06-14",
           "return_date": "2026-06-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to New%20Delhi on 2026-06-14 returning 2026-06-20"
+        },
+        {
+          "dates": "Mon, Apr 27 \u2013 Mon, May 4",
+          "price": "CA$2,934",
+          "price_value": 2934,
+          "depart_date": "2026-04-27",
+          "return_date": "2026-05-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to New%20Delhi on 2026-04-27 returning 2026-05-04"
+        },
+        {
+          "dates": "Mon, Apr 20 \u2013 Wed, Apr 29",
+          "price": "CA$1,388",
+          "price_value": 1388,
+          "depart_date": "2026-04-20",
+          "return_date": "2026-04-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to New%20Delhi on 2026-04-20 returning 2026-04-29"
         }
       ]
     },
@@ -24553,7 +24569,8 @@
     "18775",
     "18774",
     "18777",
-    "18778"
+    "18778",
+    "18779"
   ],
-  "last_updated": "2026-03-22T14:40:54.015640"
+  "last_updated": "2026-03-22T18:40:47.445189"
 }
