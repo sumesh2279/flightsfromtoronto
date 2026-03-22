@@ -10573,6 +10573,14 @@
           "depart_date": "2026-05-15",
           "return_date": "2026-05-21",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-05-15 returning 2026-05-21"
+        },
+        {
+          "dates": "Thu, Sep 24 \u2013 Wed, Sep 30",
+          "price": "CA$297",
+          "price_value": 297,
+          "depart_date": "2026-09-24",
+          "return_date": "2026-09-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-09-24 returning 2026-09-30"
         }
       ]
     },
@@ -24351,7 +24359,8 @@
     "18761",
     "18765",
     "18766",
-    "18767"
+    "18767",
+    "18768"
   ],
-  "last_updated": "2026-03-21T18:40:51.345114"
+  "last_updated": "2026-03-21T20:40:45.692780"
 }
