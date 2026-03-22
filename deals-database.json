@@ -13945,6 +13945,30 @@
           "depart_date": "2026-04-24",
           "return_date": "2026-04-30",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Juan on 2026-04-24 returning 2026-04-30"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
+          "price": "CA$437",
+          "price_value": 437,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Juan on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Fri, Jun 26 \u2013 Sun, Jul 5",
+          "price": "CA$542",
+          "price_value": 542,
+          "depart_date": "2026-06-26",
+          "return_date": "2026-07-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Juan on 2026-06-26 returning 2026-07-05"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Thu, Jun 18",
+          "price": "CA$555",
+          "price_value": 555,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Juan on 2026-06-12 returning 2026-06-18"
         }
       ]
     },
@@ -24403,7 +24427,8 @@
     "18768",
     "18772",
     "18771",
-    "18770"
+    "18770",
+    "18773"
   ],
-  "last_updated": "2026-03-22T07:40:53.359965"
+  "last_updated": "2026-03-22T09:40:51.256955"
 }
