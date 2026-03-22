@@ -4695,14 +4695,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-05-01 returning 2026-05-04"
         },
         {
-          "dates": "Sat, May 9 \u2013 Mon, May 11",
-          "price": "CA$601",
-          "price_value": 601,
-          "depart_date": "2026-05-09",
-          "return_date": "2026-05-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-05-09 returning 2026-05-11"
-        },
-        {
           "dates": "Sat, May 30 \u2013 Sun, May 31",
           "price": "CA$626",
           "price_value": 626,
@@ -4845,6 +4837,30 @@
           "depart_date": "2026-04-30",
           "return_date": "2026-05-04",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-04-30 returning 2026-05-04"
+        },
+        {
+          "dates": "Sat, May 9 \u2013 Mon, May 11",
+          "price": "CA$583",
+          "price_value": 583,
+          "depart_date": "2026-05-09",
+          "return_date": "2026-05-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-05-09 returning 2026-05-11"
+        },
+        {
+          "dates": "Sat, May 2 \u2013 Mon, May 4",
+          "price": "CA$583",
+          "price_value": 583,
+          "depart_date": "2026-05-02",
+          "return_date": "2026-05-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-05-02 returning 2026-05-04"
+        },
+        {
+          "dates": "Thu, May 28 \u2013 Mon, Jun 1",
+          "price": "CA$615",
+          "price_value": 615,
+          "depart_date": "2026-05-28",
+          "return_date": "2026-06-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charleston on 2026-05-28 returning 2026-06-01"
         }
       ]
     },
@@ -7317,6 +7333,30 @@
           "depart_date": "2026-05-18",
           "return_date": "2026-05-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-05-18 returning 2026-05-26"
+        },
+        {
+          "dates": "Mon, Apr 27 \u2013 Sun, May 3",
+          "price": "CA$622",
+          "price_value": 622,
+          "depart_date": "2026-04-27",
+          "return_date": "2026-05-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-04-27 returning 2026-05-03"
+        },
+        {
+          "dates": "Sun, Apr 19 \u2013 Sat, Apr 25",
+          "price": "CA$488",
+          "price_value": 488,
+          "depart_date": "2026-04-19",
+          "return_date": "2026-04-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-04-19 returning 2026-04-25"
+        },
+        {
+          "dates": "Mon, Apr 13 \u2013 Mon, Apr 20",
+          "price": "CA$488",
+          "price_value": 488,
+          "depart_date": "2026-04-13",
+          "return_date": "2026-04-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-04-13 returning 2026-04-20"
         }
       ]
     },
@@ -24360,7 +24400,10 @@
     "18765",
     "18766",
     "18767",
-    "18768"
+    "18768",
+    "18772",
+    "18771",
+    "18770"
   ],
-  "last_updated": "2026-03-21T20:40:45.692780"
+  "last_updated": "2026-03-22T07:40:53.359965"
 }
