@@ -1923,14 +1923,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-12 returning 2026-07-19"
         },
         {
-          "dates": "Sun, Jul 5 \u2013 Sun, Jul 12",
-          "price": "CA$563",
-          "price_value": 563,
-          "depart_date": "2026-07-05",
-          "return_date": "2026-07-12",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-05 returning 2026-07-12"
-        },
-        {
           "dates": "Sun, Jul 26 \u2013 Sun, Aug 2",
           "price": "CA$563",
           "price_value": 563,
@@ -2153,6 +2145,38 @@
           "depart_date": "2026-04-30",
           "return_date": "2026-05-06",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-04-30 returning 2026-05-06"
+        },
+        {
+          "dates": "Fri, Jul 3 \u2013 Fri, Jul 10",
+          "price": "CA$551",
+          "price_value": 551,
+          "depart_date": "2026-07-03",
+          "return_date": "2026-07-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-03 returning 2026-07-10"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Wed, Jul 22",
+          "price": "CA$480",
+          "price_value": 480,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-16 returning 2026-07-22"
+        },
+        {
+          "dates": "Thu, Jul 23 \u2013 Wed, Jul 29",
+          "price": "CA$484",
+          "price_value": 484,
+          "depart_date": "2026-07-23",
+          "return_date": "2026-07-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-23 returning 2026-07-29"
+        },
+        {
+          "dates": "Sun, Jul 5 \u2013 Sun, Jul 12",
+          "price": "CA$545",
+          "price_value": 545,
+          "depart_date": "2026-07-05",
+          "return_date": "2026-07-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-05 returning 2026-07-12"
         }
       ]
     },
@@ -9491,6 +9515,22 @@
           "depart_date": "2026-09-11",
           "return_date": "2026-09-17",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-09-11 returning 2026-09-17"
+        },
+        {
+          "dates": "Sat, Jun 6 \u2013 Sun, Jun 14",
+          "price": "CA$304",
+          "price_value": 304,
+          "depart_date": "2026-06-06",
+          "return_date": "2026-06-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-06-06 returning 2026-06-14"
+        },
+        {
+          "dates": "Thu, Jun 18 \u2013 Wed, Jun 24",
+          "price": "CA$344",
+          "price_value": 344,
+          "depart_date": "2026-06-18",
+          "return_date": "2026-06-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-06-18 returning 2026-06-24"
         }
       ]
     },
@@ -22591,6 +22631,22 @@
           "depart_date": "2026-08-21",
           "return_date": "2026-08-29",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-08-21 returning 2026-08-29"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Sat, Jun 20",
+          "price": "CA$448",
+          "price_value": 448,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-06-11 returning 2026-06-20"
+        },
+        {
+          "dates": "Thu, Jun 18 \u2013 Sat, Jun 27",
+          "price": "CA$448",
+          "price_value": 448,
+          "depart_date": "2026-06-18",
+          "return_date": "2026-06-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-06-18 returning 2026-06-27"
         }
       ]
     },
@@ -24717,7 +24773,10 @@
     "18789",
     "18804",
     "18803",
-    "18822"
+    "18822",
+    "18840",
+    "18839",
+    "18833"
   ],
-  "last_updated": "2026-03-23T11:40:49.616880"
+  "last_updated": "2026-03-23T13:40:47.154858"
 }
