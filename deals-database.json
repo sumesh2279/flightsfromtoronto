@@ -4187,6 +4187,30 @@
           "depart_date": "2026-05-17",
           "return_date": "2026-05-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Belize%20City on 2026-05-17 returning 2026-05-23"
+        },
+        {
+          "dates": "Sat, Aug 22 \u2013 Fri, Aug 28",
+          "price": "CA$595",
+          "price_value": 595,
+          "depart_date": "2026-08-22",
+          "return_date": "2026-08-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Belize%20City on 2026-08-22 returning 2026-08-28"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Sat, Sep 5",
+          "price": "CA$595",
+          "price_value": 595,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Belize%20City on 2026-08-30 returning 2026-09-05"
+        },
+        {
+          "dates": "Mon, Aug 17 \u2013 Tue, Aug 25",
+          "price": "CA$595",
+          "price_value": 595,
+          "depart_date": "2026-08-17",
+          "return_date": "2026-08-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Belize%20City on 2026-08-17 returning 2026-08-25"
         }
       ]
     },
@@ -24851,7 +24875,8 @@
     "18833",
     "18845",
     "18844",
-    "18846"
+    "18846",
+    "18848"
   ],
-  "last_updated": "2026-03-23T16:42:20.856909"
+  "last_updated": "2026-03-23T19:43:34.316545"
 }
