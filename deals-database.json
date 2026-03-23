@@ -1327,6 +1327,30 @@
           "depart_date": "2026-09-18",
           "return_date": "2026-09-25",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-09-18 returning 2026-09-25"
+        },
+        {
+          "dates": "Fri, Aug 28 \u2013 Thu, Sep 3",
+          "price": "CA$430",
+          "price_value": 430,
+          "depart_date": "2026-08-28",
+          "return_date": "2026-09-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-08-28 returning 2026-09-03"
+        },
+        {
+          "dates": "Sat, Aug 8 \u2013 Sun, Aug 16",
+          "price": "CA$456",
+          "price_value": 456,
+          "depart_date": "2026-08-08",
+          "return_date": "2026-08-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-08-08 returning 2026-08-16"
+        },
+        {
+          "dates": "Fri, Aug 14 \u2013 Sun, Aug 23",
+          "price": "CA$456",
+          "price_value": 456,
+          "depart_date": "2026-08-14",
+          "return_date": "2026-08-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-08-14 returning 2026-08-23"
         }
       ]
     },
@@ -24826,7 +24850,8 @@
     "18839",
     "18833",
     "18845",
-    "18844"
+    "18844",
+    "18846"
   ],
-  "last_updated": "2026-03-23T15:41:31.683712"
+  "last_updated": "2026-03-23T16:42:20.856909"
 }
