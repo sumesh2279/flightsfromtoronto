@@ -7867,14 +7867,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-06-06 returning 2026-06-12"
         },
         {
-          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
-          "price": "CA$191",
-          "price_value": 191,
-          "depart_date": "2026-06-01",
-          "return_date": "2026-06-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-06-01 returning 2026-06-09"
-        },
-        {
           "dates": "Sun, Aug 30 \u2013 Tue, Sep 8",
           "price": "CA$192",
           "price_value": 192,
@@ -8281,6 +8273,38 @@
           "depart_date": "2026-06-18",
           "return_date": "2026-06-25",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-06-18 returning 2026-06-25"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
+          "price": "CA$186",
+          "price_value": 186,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Sat, Sep 5",
+          "price": "CA$244",
+          "price_value": 244,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-08-30 returning 2026-09-05"
+        },
+        {
+          "dates": "Sun, Aug 16 \u2013 Tue, Aug 25",
+          "price": "CA$298",
+          "price_value": 298,
+          "depart_date": "2026-08-16",
+          "return_date": "2026-08-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-08-16 returning 2026-08-25"
+        },
+        {
+          "dates": "Sun, Aug 23 \u2013 Tue, Sep 1",
+          "price": "CA$340",
+          "price_value": 340,
+          "depart_date": "2026-08-23",
+          "return_date": "2026-09-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-08-23 returning 2026-09-01"
         }
       ]
     },
@@ -22355,14 +22379,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-31 returning 2026-06-06"
         },
         {
-          "dates": "Sun, May 24 \u2013 Tue, Jun 2",
-          "price": "CA$291",
-          "price_value": 291,
-          "depart_date": "2026-05-24",
-          "return_date": "2026-06-02",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-24 returning 2026-06-02"
-        },
-        {
           "dates": "Sun, May 3 \u2013 Tue, May 12",
           "price": "CA$225",
           "price_value": 225,
@@ -22372,16 +22388,24 @@
         },
         {
           "dates": "Sun, May 10 \u2013 Sat, May 16",
-          "price": "CA$266",
-          "price_value": 266,
+          "price": "CA$200",
+          "price_value": 200,
           "depart_date": "2026-05-10",
           "return_date": "2026-05-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-10 returning 2026-05-16"
         },
         {
+          "dates": "Sun, May 24 \u2013 Tue, Jun 2",
+          "price": "CA$225",
+          "price_value": 225,
+          "depart_date": "2026-05-24",
+          "return_date": "2026-06-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-24 returning 2026-06-02"
+        },
+        {
           "dates": "Sun, May 31 \u2013 Sun, Jun 7",
-          "price": "CA$246",
-          "price_value": 246,
+          "price": "CA$225",
+          "price_value": 225,
           "depart_date": "2026-05-31",
           "return_date": "2026-06-07",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-05-31 returning 2026-06-07"
@@ -22637,6 +22661,30 @@
           "depart_date": "2026-04-05",
           "return_date": "2026-04-12",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-04-05 returning 2026-04-12"
+        },
+        {
+          "dates": "Thu, May 21 \u2013 Thu, May 28",
+          "price": "CA$618",
+          "price_value": 618,
+          "depart_date": "2026-05-21",
+          "return_date": "2026-05-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-05-21 returning 2026-05-28"
+        },
+        {
+          "dates": "Sun, May 3 \u2013 Tue, May 12",
+          "price": "CA$633",
+          "price_value": 633,
+          "depart_date": "2026-05-03",
+          "return_date": "2026-05-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-05-03 returning 2026-05-12"
+        },
+        {
+          "dates": "Thu, May 28 \u2013 Wed, Jun 3",
+          "price": "CA$679",
+          "price_value": 679,
+          "depart_date": "2026-05-28",
+          "return_date": "2026-06-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-05-28 returning 2026-06-03"
         }
       ]
     },
@@ -24604,7 +24652,11 @@
     "18778",
     "18779",
     "18781",
-    "18780"
+    "18780",
+    "18788",
+    "18787",
+    "18786",
+    "18785"
   ],
-  "last_updated": "2026-03-23T04:40:45.512306"
+  "last_updated": "2026-03-23T07:40:48.905845"
 }
