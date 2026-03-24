@@ -1645,14 +1645,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-05-25 returning 2026-06-03"
         },
         {
-          "dates": "Sun, May 10 \u2013 Mon, May 18",
-          "price": "CA$1,518",
-          "price_value": 1518,
-          "depart_date": "2026-05-10",
-          "return_date": "2026-05-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-05-10 returning 2026-05-18"
-        },
-        {
           "dates": "Sun, Aug 2 \u2013 Mon, Aug 10",
           "price": "CA$1,418",
           "price_value": 1418,
@@ -1875,6 +1867,30 @@
           "depart_date": "2026-07-09",
           "return_date": "2026-07-15",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-07-09 returning 2026-07-15"
+        },
+        {
+          "dates": "Sun, May 10 \u2013 Mon, May 18",
+          "price": "CA$1,388",
+          "price_value": 1388,
+          "depart_date": "2026-05-10",
+          "return_date": "2026-05-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-05-10 returning 2026-05-18"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Mon, May 25",
+          "price": "CA$1,388",
+          "price_value": 1388,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-05-17 returning 2026-05-25"
+        },
+        {
+          "dates": "Sun, May 24 \u2013 Mon, Jun 1",
+          "price": "CA$1,388",
+          "price_value": 1388,
+          "depart_date": "2026-05-24",
+          "return_date": "2026-06-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mumbai on 2026-05-24 returning 2026-06-01"
         }
       ]
     },
@@ -5585,6 +5601,30 @@
           "depart_date": "2026-08-22",
           "return_date": "2026-08-28",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Acapulco on 2026-08-22 returning 2026-08-28"
+        },
+        {
+          "dates": "Sat, Sep 12 \u2013 Sat, Sep 19",
+          "price": "CA$834",
+          "price_value": 834,
+          "depart_date": "2026-09-12",
+          "return_date": "2026-09-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Acapulco on 2026-09-12 returning 2026-09-19"
+        },
+        {
+          "dates": "Sat, Sep 19 \u2013 Sat, Sep 26",
+          "price": "CA$834",
+          "price_value": 834,
+          "depart_date": "2026-09-19",
+          "return_date": "2026-09-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Acapulco on 2026-09-19 returning 2026-09-26"
+        },
+        {
+          "dates": "Fri, Sep 25 \u2013 Thu, Oct 1",
+          "price": "CA$834",
+          "price_value": 834,
+          "depart_date": "2026-09-25",
+          "return_date": "2026-10-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Acapulco on 2026-09-25 returning 2026-10-01"
         }
       ]
     },
@@ -7565,6 +7605,30 @@
           "depart_date": "2026-04-13",
           "return_date": "2026-04-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-04-13 returning 2026-04-20"
+        },
+        {
+          "dates": "Mon, Apr 27 \u2013 Mon, May 4",
+          "price": "CA$580",
+          "price_value": 580,
+          "depart_date": "2026-04-27",
+          "return_date": "2026-05-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-04-27 returning 2026-05-04"
+        },
+        {
+          "dates": "Thu, Apr 30 \u2013 Wed, May 6",
+          "price": "CA$421",
+          "price_value": 421,
+          "depart_date": "2026-04-30",
+          "return_date": "2026-05-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-04-30 returning 2026-05-06"
+        },
+        {
+          "dates": "Sat, Apr 11 \u2013 Fri, Apr 17",
+          "price": "CA$421",
+          "price_value": 421,
+          "depart_date": "2026-04-11",
+          "return_date": "2026-04-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to San%20Diego on 2026-04-11 returning 2026-04-17"
         }
       ]
     },
@@ -17817,6 +17881,22 @@
           "depart_date": "2026-08-10",
           "return_date": "2026-08-18",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-08-10 returning 2026-08-18"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
+          "price": "CA$485",
+          "price_value": 485,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-07-09 returning 2026-07-15"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Wed, Jul 22",
+          "price": "CA$485",
+          "price_value": 485,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Aruba on 2026-07-16 returning 2026-07-22"
         }
       ]
     },
@@ -22247,6 +22327,22 @@
           "depart_date": "2026-07-16",
           "return_date": "2026-07-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-07-16 returning 2026-07-22"
+        },
+        {
+          "dates": "Sun, Jul 12 \u2013 Sat, Jul 18",
+          "price": "CA$266",
+          "price_value": 266,
+          "depart_date": "2026-07-12",
+          "return_date": "2026-07-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-07-12 returning 2026-07-18"
+        },
+        {
+          "dates": "Sun, Jul 19 \u2013 Sat, Jul 25",
+          "price": "CA$357",
+          "price_value": 357,
+          "depart_date": "2026-07-19",
+          "return_date": "2026-07-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-07-19 returning 2026-07-25"
         }
       ]
     },
@@ -25088,7 +25184,12 @@
     "18882",
     "18881",
     "18880",
-    "18878"
+    "18878",
+    "18888",
+    "18887",
+    "18885",
+    "18884",
+    "18883"
   ],
-  "last_updated": "2026-03-24T16:17:46.863464"
+  "last_updated": "2026-03-24T17:18:27.132335"
 }
