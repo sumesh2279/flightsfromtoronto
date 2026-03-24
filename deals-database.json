@@ -3615,14 +3615,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-28 returning 2026-06-03"
         },
         {
-          "dates": "Mon, May 18 \u2013 Tue, May 26",
-          "price": "CA$604",
-          "price_value": 604,
-          "depart_date": "2026-05-18",
-          "return_date": "2026-05-26",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-18 returning 2026-05-26"
-        },
-        {
           "dates": "Thu, Apr 2 \u2013 Wed, Apr 8",
           "price": "CA$736",
           "price_value": 736,
@@ -3925,6 +3917,30 @@
           "depart_date": "2026-05-07",
           "return_date": "2026-05-13",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-07 returning 2026-05-13"
+        },
+        {
+          "dates": "Sat, May 23 \u2013 Sat, May 30",
+          "price": "CA$505",
+          "price_value": 505,
+          "depart_date": "2026-05-23",
+          "return_date": "2026-05-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-23 returning 2026-05-30"
+        },
+        {
+          "dates": "Fri, May 1 \u2013 Sat, May 9",
+          "price": "CA$536",
+          "price_value": 536,
+          "depart_date": "2026-05-01",
+          "return_date": "2026-05-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-01 returning 2026-05-09"
+        },
+        {
+          "dates": "Mon, May 18 \u2013 Tue, May 26",
+          "price": "CA$558",
+          "price_value": 558,
+          "depart_date": "2026-05-18",
+          "return_date": "2026-05-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Atlanta on 2026-05-18 returning 2026-05-26"
         }
       ]
     },
@@ -9021,6 +9037,38 @@
           "depart_date": "2026-04-30",
           "return_date": "2026-05-06",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-04-30 returning 2026-05-06"
+        },
+        {
+          "dates": "Sun, May 24 \u2013 Tue, Jun 2",
+          "price": "CA$360",
+          "price_value": 360,
+          "depart_date": "2026-05-24",
+          "return_date": "2026-06-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-05-24 returning 2026-06-02"
+        },
+        {
+          "dates": "Sun, May 31 \u2013 Tue, Jun 9",
+          "price": "CA$360",
+          "price_value": 360,
+          "depart_date": "2026-05-31",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-05-31 returning 2026-06-09"
+        },
+        {
+          "dates": "Sat, May 2 \u2013 Sat, May 9",
+          "price": "CA$369",
+          "price_value": 369,
+          "depart_date": "2026-05-02",
+          "return_date": "2026-05-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Punta%20Cana on 2026-05-02 returning 2026-05-09"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Sun, May 24",
+          "price": "CA$423",
+          "price_value": 423,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Punta%20Cana on 2026-05-17 returning 2026-05-24"
         }
       ]
     },
@@ -13513,14 +13561,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-05-09 returning 2026-05-15"
         },
         {
-          "dates": "Thu, May 28 \u2013 Wed, Jun 3",
-          "price": "CA$596",
-          "price_value": 596,
-          "depart_date": "2026-05-28",
-          "return_date": "2026-06-03",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-05-28 returning 2026-06-03"
-        },
-        {
           "dates": "Thu, Apr 16 \u2013 Wed, Apr 22",
           "price": "CA$603",
           "price_value": 603,
@@ -13575,6 +13615,38 @@
           "depart_date": "2026-06-29",
           "return_date": "2026-07-07",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-06-29 returning 2026-07-07"
+        },
+        {
+          "dates": "Mon, May 18 \u2013 Sun, May 24",
+          "price": "CA$722",
+          "price_value": 722,
+          "depart_date": "2026-05-18",
+          "return_date": "2026-05-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-05-18 returning 2026-05-24"
+        },
+        {
+          "dates": "Mon, May 18 \u2013 Tue, May 26",
+          "price": "CA$489",
+          "price_value": 489,
+          "depart_date": "2026-05-18",
+          "return_date": "2026-05-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-05-18 returning 2026-05-26"
+        },
+        {
+          "dates": "Mon, May 4 \u2013 Wed, May 13",
+          "price": "CA$508",
+          "price_value": 508,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-05-04 returning 2026-05-13"
+        },
+        {
+          "dates": "Thu, May 28 \u2013 Wed, Jun 3",
+          "price": "CA$511",
+          "price_value": 511,
+          "depart_date": "2026-05-28",
+          "return_date": "2026-06-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-05-28 returning 2026-06-03"
         }
       ]
     },
@@ -25012,7 +25084,11 @@
     "18851",
     "18852",
     "18870",
-    "18875"
+    "18875",
+    "18882",
+    "18881",
+    "18880",
+    "18878"
   ],
-  "last_updated": "2026-03-24T15:17:10.034800"
+  "last_updated": "2026-03-24T16:17:46.863464"
 }
