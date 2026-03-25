@@ -8497,6 +8497,30 @@
           "depart_date": "2026-08-23",
           "return_date": "2026-09-01",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-08-23 returning 2026-09-01"
+        },
+        {
+          "dates": "Sat, Jul 11 \u2013 Fri, Jul 17",
+          "price": "CA$245",
+          "price_value": 245,
+          "depart_date": "2026-07-11",
+          "return_date": "2026-07-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-07-11 returning 2026-07-17"
+        },
+        {
+          "dates": "Sun, Jul 19 \u2013 Tue, Jul 28",
+          "price": "CA$355",
+          "price_value": 355,
+          "depart_date": "2026-07-19",
+          "return_date": "2026-07-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-07-19 returning 2026-07-28"
+        },
+        {
+          "dates": "Thu, Jul 2 \u2013 Sat, Jul 11",
+          "price": "CA$356",
+          "price_value": 356,
+          "depart_date": "2026-07-02",
+          "return_date": "2026-07-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-07-02 returning 2026-07-11"
         }
       ]
     },
@@ -25374,7 +25398,8 @@
     "18895",
     "18893",
     "18898",
-    "18908"
+    "18908",
+    "18912"
   ],
-  "last_updated": "2026-03-25T09:59:25.461723"
+  "last_updated": "2026-03-25T11:00:18.420107"
 }
