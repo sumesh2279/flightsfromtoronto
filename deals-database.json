@@ -18343,6 +18343,30 @@
           "depart_date": "2026-07-17",
           "return_date": "2026-07-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-07-17 returning 2026-07-23"
+        },
+        {
+          "dates": "Mon, Sep 21 \u2013 Mon, Sep 28",
+          "price": "CA$254",
+          "price_value": 254,
+          "depart_date": "2026-09-21",
+          "return_date": "2026-09-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-09-21 returning 2026-09-28"
+        },
+        {
+          "dates": "Mon, Sep 28 \u2013 Mon, Oct 5",
+          "price": "CA$530",
+          "price_value": 530,
+          "depart_date": "2026-09-28",
+          "return_date": "2026-10-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-09-28 returning 2026-10-05"
+        },
+        {
+          "dates": "Fri, Sep 4 \u2013 Thu, Sep 10",
+          "price": "CA$560",
+          "price_value": 560,
+          "depart_date": "2026-09-04",
+          "return_date": "2026-09-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-09-04 returning 2026-09-10"
         }
       ]
     },
@@ -25332,7 +25356,8 @@
     "18891",
     "18896",
     "18895",
-    "18893"
+    "18893",
+    "18898"
   ],
-  "last_updated": "2026-03-25T04:56:31.531912"
+  "last_updated": "2026-03-25T06:57:59.171167"
 }
