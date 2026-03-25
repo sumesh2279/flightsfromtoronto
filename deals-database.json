@@ -4807,6 +4807,30 @@
           "depart_date": "2026-04-30",
           "return_date": "2026-05-06",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Thiruvananthapuram on 2026-04-30 returning 2026-05-06"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Tue, Sep 8",
+          "price": "CA$2,073",
+          "price_value": 2073,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Thiruvananthapuram on 2026-08-30 returning 2026-09-08"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Wed, Aug 12",
+          "price": "CA$2,109",
+          "price_value": 2109,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Thiruvananthapuram on 2026-08-06 returning 2026-08-12"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Sat, Aug 22",
+          "price": "CA$2,139",
+          "price_value": 2139,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Thiruvananthapuram on 2026-08-13 returning 2026-08-22"
         }
       ]
     },
@@ -14155,6 +14179,30 @@
           "depart_date": "2026-07-09",
           "return_date": "2026-07-15",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to George%20Town on 2026-07-09 returning 2026-07-15"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
+          "price": "CA$757",
+          "price_value": 757,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to George%20Town on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Mon, Jun 8 \u2013 Wed, Jun 17",
+          "price": "CA$757",
+          "price_value": 757,
+          "depart_date": "2026-06-08",
+          "return_date": "2026-06-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to George%20Town on 2026-06-08 returning 2026-06-17"
+        },
+        {
+          "dates": "Mon, Jun 15 \u2013 Tue, Jun 23",
+          "price": "CA$757",
+          "price_value": 757,
+          "depart_date": "2026-06-15",
+          "return_date": "2026-06-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to George%20Town on 2026-06-15 returning 2026-06-23"
         }
       ]
     },
@@ -20545,6 +20593,22 @@
           "depart_date": "2026-05-11",
           "return_date": "2026-05-17",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-05-11 returning 2026-05-17"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Sat, Jun 13",
+          "price": "CA$711",
+          "price_value": 711,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-06-04 returning 2026-06-13"
+        },
+        {
+          "dates": "Sat, Jun 13 \u2013 Fri, Jun 19",
+          "price": "CA$711",
+          "price_value": 711,
+          "depart_date": "2026-06-13",
+          "return_date": "2026-06-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Paris on 2026-06-13 returning 2026-06-19"
         }
       ]
     },
@@ -25265,7 +25329,10 @@
     "18890",
     "18889",
     "18892",
-    "18891"
+    "18891",
+    "18896",
+    "18895",
+    "18893"
   ],
-  "last_updated": "2026-03-24T21:54:35.078297"
+  "last_updated": "2026-03-25T04:56:31.531912"
 }
