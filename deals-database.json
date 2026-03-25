@@ -16283,6 +16283,22 @@
           "depart_date": "2026-04-16",
           "return_date": "2026-04-22",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-04-16 returning 2026-04-22"
+        },
+        {
+          "dates": "Fri, Aug 21 \u2013 Thu, Aug 27",
+          "price": "CA$743",
+          "price_value": 743,
+          "depart_date": "2026-08-21",
+          "return_date": "2026-08-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-08-21 returning 2026-08-27"
+        },
+        {
+          "dates": "Sun, Aug 16 \u2013 Sat, Aug 22",
+          "price": "CA$839",
+          "price_value": 839,
+          "depart_date": "2026-08-16",
+          "return_date": "2026-08-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-08-16 returning 2026-08-22"
         }
       ]
     },
@@ -23221,6 +23237,30 @@
           "depart_date": "2026-05-28",
           "return_date": "2026-06-03",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-05-28 returning 2026-06-03"
+        },
+        {
+          "dates": "Mon, Sep 28 \u2013 Tue, Oct 6",
+          "price": "CA$611",
+          "price_value": 611,
+          "depart_date": "2026-09-28",
+          "return_date": "2026-10-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-09-28 returning 2026-10-06"
+        },
+        {
+          "dates": "Thu, Sep 17 \u2013 Thu, Sep 24",
+          "price": "CA$632",
+          "price_value": 632,
+          "depart_date": "2026-09-17",
+          "return_date": "2026-09-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-09-17 returning 2026-09-24"
+        },
+        {
+          "dates": "Mon, Sep 14 \u2013 Wed, Sep 23",
+          "price": "CA$665",
+          "price_value": 665,
+          "depart_date": "2026-09-14",
+          "return_date": "2026-09-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Samana%2C%20Santo%20Domingo on 2026-09-14 returning 2026-09-23"
         }
       ]
     },
@@ -25223,7 +25263,9 @@
     "18884",
     "18883",
     "18890",
-    "18889"
+    "18889",
+    "18892",
+    "18891"
   ],
-  "last_updated": "2026-03-24T19:53:16.031624"
+  "last_updated": "2026-03-24T21:54:35.078297"
 }
