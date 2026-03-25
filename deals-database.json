@@ -9731,6 +9731,22 @@
           "depart_date": "2026-06-18",
           "return_date": "2026-06-24",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-06-18 returning 2026-06-24"
+        },
+        {
+          "dates": "Sat, Jun 13 \u2013 Sat, Jun 20",
+          "price": "CA$256",
+          "price_value": 256,
+          "depart_date": "2026-06-13",
+          "return_date": "2026-06-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-06-13 returning 2026-06-20"
+        },
+        {
+          "dates": "Fri, Jun 5 \u2013 Sun, Jun 14",
+          "price": "CA$324",
+          "price_value": 324,
+          "depart_date": "2026-06-05",
+          "return_date": "2026-06-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-06-05 returning 2026-06-14"
         }
       ]
     },
@@ -25357,7 +25373,8 @@
     "18896",
     "18895",
     "18893",
-    "18898"
+    "18898",
+    "18908"
   ],
-  "last_updated": "2026-03-25T06:57:59.171167"
+  "last_updated": "2026-03-25T09:59:25.461723"
 }
