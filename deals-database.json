@@ -12775,14 +12775,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-04-04 returning 2026-04-10"
         },
         {
-          "dates": "Mon, Apr 13 \u2013 Wed, Apr 22",
-          "price": "CA$306",
-          "price_value": 306,
-          "depart_date": "2026-04-13",
-          "return_date": "2026-04-22",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Orlando on 2026-04-13 returning 2026-04-22"
-        },
-        {
           "dates": "Mon, Apr 6 \u2013 Tue, Apr 14",
           "price": "CA$225",
           "price_value": 225,
@@ -12805,6 +12797,14 @@
           "depart_date": "2026-04-10",
           "return_date": "2026-04-17",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Orlando on 2026-04-10 returning 2026-04-17"
+        },
+        {
+          "dates": "Mon, Apr 13 \u2013 Wed, Apr 22",
+          "price": "CA$252",
+          "price_value": 252,
+          "depart_date": "2026-04-13",
+          "return_date": "2026-04-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Orlando on 2026-04-13 returning 2026-04-22"
         }
       ]
     },
@@ -16657,6 +16657,30 @@
           "depart_date": "2026-05-03",
           "return_date": "2026-05-10",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Havana on 2026-05-03 returning 2026-05-10"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Thu, Jul 16",
+          "price": "CA$673",
+          "price_value": 673,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Havana on 2026-07-09 returning 2026-07-16"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Thu, Jul 23",
+          "price": "CA$673",
+          "price_value": 673,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Havana on 2026-07-16 returning 2026-07-23"
+        },
+        {
+          "dates": "Thu, Jul 23 \u2013 Fri, Jul 31",
+          "price": "CA$790",
+          "price_value": 790,
+          "depart_date": "2026-07-23",
+          "return_date": "2026-07-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Havana on 2026-07-23 returning 2026-07-31"
         }
       ]
     },
@@ -20165,6 +20189,38 @@
           "depart_date": "2026-06-20",
           "return_date": "2026-06-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-06-20 returning 2026-06-26"
+        },
+        {
+          "dates": "Mon, Apr 13 \u2013 Wed, Apr 22",
+          "price": "CA$386",
+          "price_value": 386,
+          "depart_date": "2026-04-13",
+          "return_date": "2026-04-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-04-13 returning 2026-04-22"
+        },
+        {
+          "dates": "Thu, Apr 16 \u2013 Wed, Apr 22",
+          "price": "CA$379",
+          "price_value": 379,
+          "depart_date": "2026-04-16",
+          "return_date": "2026-04-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-04-16 returning 2026-04-22"
+        },
+        {
+          "dates": "Thu, Apr 23 \u2013 Wed, Apr 29",
+          "price": "CA$379",
+          "price_value": 379,
+          "depart_date": "2026-04-23",
+          "return_date": "2026-04-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-04-23 returning 2026-04-29"
+        },
+        {
+          "dates": "Thu, Apr 30 \u2013 Wed, May 6",
+          "price": "CA$379",
+          "price_value": 379,
+          "depart_date": "2026-04-30",
+          "return_date": "2026-05-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-04-30 returning 2026-05-06"
         }
       ]
     },
@@ -25399,7 +25455,10 @@
     "18893",
     "18898",
     "18908",
-    "18912"
+    "18912",
+    "18924",
+    "18923",
+    "18922"
   ],
-  "last_updated": "2026-03-25T11:00:18.420107"
+  "last_updated": "2026-03-25T17:04:28.238099"
 }
