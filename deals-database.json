@@ -291,6 +291,30 @@
           "depart_date": "2026-06-29",
           "return_date": "2026-07-07",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-06-29 returning 2026-07-07"
+        },
+        {
+          "dates": "Thu, Apr 9 \u2013 Thu, Apr 16",
+          "price": "CA$500",
+          "price_value": 500,
+          "depart_date": "2026-04-09",
+          "return_date": "2026-04-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-04-09 returning 2026-04-16"
+        },
+        {
+          "dates": "Sat, Apr 18 \u2013 Sat, Apr 25",
+          "price": "CA$537",
+          "price_value": 537,
+          "depart_date": "2026-04-18",
+          "return_date": "2026-04-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-04-18 returning 2026-04-25"
+        },
+        {
+          "dates": "Sat, Apr 4 \u2013 Sat, Apr 11",
+          "price": "CA$537",
+          "price_value": 537,
+          "depart_date": "2026-04-04",
+          "return_date": "2026-04-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-04-04 returning 2026-04-11"
         }
       ]
     },
@@ -6603,6 +6627,38 @@
           "depart_date": "2026-05-25",
           "return_date": "2026-05-31",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-05-25 returning 2026-05-31"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Mon, Jul 27",
+          "price": "CA$700",
+          "price_value": 700,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-07-18 returning 2026-07-27"
+        },
+        {
+          "dates": "Fri, Jul 10 \u2013 Sat, Jul 18",
+          "price": "CA$505",
+          "price_value": 505,
+          "depart_date": "2026-07-10",
+          "return_date": "2026-07-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-07-10 returning 2026-07-18"
+        },
+        {
+          "dates": "Fri, Jul 3 \u2013 Thu, Jul 9",
+          "price": "CA$568",
+          "price_value": 568,
+          "depart_date": "2026-07-03",
+          "return_date": "2026-07-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-07-03 returning 2026-07-09"
+        },
+        {
+          "dates": "Mon, Jul 27 \u2013 Wed, Aug 5",
+          "price": "CA$597",
+          "price_value": 597,
+          "depart_date": "2026-07-27",
+          "return_date": "2026-08-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-07-27 returning 2026-08-05"
         }
       ]
     },
@@ -8011,6 +8067,30 @@
           "depart_date": "2026-05-15",
           "return_date": "2026-05-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-05-15 returning 2026-05-23"
+        },
+        {
+          "dates": "Fri, Jun 5 \u2013 Sat, Jun 13",
+          "price": "CA$610",
+          "price_value": 610,
+          "depart_date": "2026-06-05",
+          "return_date": "2026-06-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-06-05 returning 2026-06-13"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Sat, Jun 20",
+          "price": "CA$670",
+          "price_value": 670,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-06-12 returning 2026-06-20"
+        },
+        {
+          "dates": "Sat, Jun 27 \u2013 Sat, Jul 4",
+          "price": "CA$698",
+          "price_value": 698,
+          "depart_date": "2026-06-27",
+          "return_date": "2026-07-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Saint%20Kitts on 2026-06-27 returning 2026-07-04"
         }
       ]
     },
@@ -8545,6 +8625,14 @@
           "depart_date": "2026-07-02",
           "return_date": "2026-07-11",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-07-02 returning 2026-07-11"
+        },
+        {
+          "dates": "Fri, Jul 3 \u2013 Thu, Jul 9",
+          "price": "CA$322",
+          "price_value": 322,
+          "depart_date": "2026-07-03",
+          "return_date": "2026-07-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-07-03 returning 2026-07-09"
         }
       ]
     },
@@ -17391,20 +17479,36 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-09-05 returning 2026-09-12"
         },
         {
-          "dates": "Sat, Sep 12 \u2013 Sat, Sep 19",
-          "price": "CA$463",
-          "price_value": 463,
-          "depart_date": "2026-09-12",
-          "return_date": "2026-09-19",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-09-12 returning 2026-09-19"
-        },
-        {
           "dates": "Sat, Sep 19 \u2013 Sat, Sep 26",
           "price": "CA$463",
           "price_value": 463,
           "depart_date": "2026-09-19",
           "return_date": "2026-09-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-09-19 returning 2026-09-26"
+        },
+        {
+          "dates": "Sat, Sep 12 \u2013 Sat, Sep 19",
+          "price": "CA$411",
+          "price_value": 411,
+          "depart_date": "2026-09-12",
+          "return_date": "2026-09-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-09-12 returning 2026-09-19"
+        },
+        {
+          "dates": "Thu, Sep 3 \u2013 Thu, Sep 10",
+          "price": "CA$469",
+          "price_value": 469,
+          "depart_date": "2026-09-03",
+          "return_date": "2026-09-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-09-03 returning 2026-09-10"
+        },
+        {
+          "dates": "Thu, Sep 17 \u2013 Thu, Sep 24",
+          "price": "CA$488",
+          "price_value": 488,
+          "depart_date": "2026-09-17",
+          "return_date": "2026-09-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Grand%20Cayman on 2026-09-17 returning 2026-09-24"
         }
       ]
     },
@@ -25493,7 +25597,12 @@
     "18922",
     "18930",
     "18929",
-    "18932"
+    "18932",
+    "18937",
+    "18936",
+    "18935",
+    "18934",
+    "18933"
   ],
-  "last_updated": "2026-03-25T21:06:59.175838"
+  "last_updated": "2026-03-26T07:08:56.653886"
 }
