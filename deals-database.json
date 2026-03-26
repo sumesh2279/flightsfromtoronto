@@ -13211,6 +13211,30 @@
           "depart_date": "2026-06-19",
           "return_date": "2026-06-25",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Budapest on 2026-06-19 returning 2026-06-25"
+        },
+        {
+          "dates": "Mon, May 11 \u2013 Wed, May 20",
+          "price": "CA$844",
+          "price_value": 844,
+          "depart_date": "2026-05-11",
+          "return_date": "2026-05-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Budapest on 2026-05-11 returning 2026-05-20"
+        },
+        {
+          "dates": "Sun, May 31 \u2013 Tue, Jun 9",
+          "price": "CA$846",
+          "price_value": 846,
+          "depart_date": "2026-05-31",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Budapest on 2026-05-31 returning 2026-06-09"
+        },
+        {
+          "dates": "Mon, May 4 \u2013 Mon, May 11",
+          "price": "CA$878",
+          "price_value": 878,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Budapest on 2026-05-04 returning 2026-05-11"
         }
       ]
     },
@@ -25752,7 +25776,8 @@
     "18959",
     "18967",
     "18969",
-    "18970"
+    "18970",
+    "18985"
   ],
-  "last_updated": "2026-03-26T15:16:22.560483"
+  "last_updated": "2026-03-26T16:16:02.712599"
 }
