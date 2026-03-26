@@ -20207,6 +20207,22 @@
           "depart_date": "2026-04-09",
           "return_date": "2026-04-18",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Barcelona on 2026-04-09 returning 2026-04-18"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Sun, May 24",
+          "price": "CA$814",
+          "price_value": 814,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Barcelona on 2026-05-17 returning 2026-05-24"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Sat, May 16",
+          "price": "CA$814",
+          "price_value": 814,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Barcelona on 2026-05-07 returning 2026-05-16"
         }
       ]
     },
@@ -25794,7 +25810,8 @@
     "18969",
     "18970",
     "18985",
-    "19001"
+    "19001",
+    "19002"
   ],
-  "last_updated": "2026-03-26T17:16:04.347014"
+  "last_updated": "2026-03-26T18:19:46.829795"
 }
