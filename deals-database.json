@@ -13619,14 +13619,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-05-17 returning 2026-05-25"
         },
         {
-          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
-          "price": "CA$424",
-          "price_value": 424,
-          "depart_date": "2026-06-04",
-          "return_date": "2026-06-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-06-04 returning 2026-06-10"
-        },
-        {
           "dates": "Fri, Jun 12 \u2013 Fri, Jun 19",
           "price": "CA$424",
           "price_value": 424,
@@ -13641,6 +13633,30 @@
           "depart_date": "2026-06-01",
           "return_date": "2026-06-09",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Thu, Jun 18 \u2013 Thu, Jun 25",
+          "price": "CA$362",
+          "price_value": 362,
+          "depart_date": "2026-06-18",
+          "return_date": "2026-06-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-06-18 returning 2026-06-25"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
+          "price": "CA$411",
+          "price_value": 411,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-06-04 returning 2026-06-10"
+        },
+        {
+          "dates": "Fri, Jun 12 \u2013 Thu, Jun 18",
+          "price": "CA$411",
+          "price_value": 411,
+          "depart_date": "2026-06-12",
+          "return_date": "2026-06-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Vancouver on 2026-06-12 returning 2026-06-18"
         }
       ]
     },
@@ -25777,7 +25793,8 @@
     "18967",
     "18969",
     "18970",
-    "18985"
+    "18985",
+    "19001"
   ],
-  "last_updated": "2026-03-26T16:16:02.712599"
+  "last_updated": "2026-03-26T17:16:04.347014"
 }
