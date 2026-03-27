@@ -22787,6 +22787,22 @@
           "depart_date": "2026-06-01",
           "return_date": "2026-06-08",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-06-01 returning 2026-06-08"
+        },
+        {
+          "dates": "Thu, Sep 17 \u2013 Thu, Sep 24",
+          "price": "CA$216",
+          "price_value": 216,
+          "depart_date": "2026-09-17",
+          "return_date": "2026-09-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-09-17 returning 2026-09-24"
+        },
+        {
+          "dates": "Sun, Sep 13 \u2013 Tue, Sep 22",
+          "price": "CA$226",
+          "price_value": 226,
+          "depart_date": "2026-09-13",
+          "return_date": "2026-09-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-09-13 returning 2026-09-22"
         }
       ]
     },
@@ -26040,7 +26056,8 @@
     "19021",
     "19020",
     "19018",
-    "19023"
+    "19023",
+    "19037"
   ],
-  "last_updated": "2026-03-27T10:27:12.306596"
+  "last_updated": "2026-03-27T12:28:35.063404"
 }
