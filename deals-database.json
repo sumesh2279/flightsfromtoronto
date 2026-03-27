@@ -125,14 +125,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-05-02 returning 2026-05-09"
         },
         {
-          "dates": "Sat, May 9 \u2013 Sat, May 16",
-          "price": "CA$549",
-          "price_value": 549,
-          "depart_date": "2026-05-09",
-          "return_date": "2026-05-16",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-05-09 returning 2026-05-16"
-        },
-        {
           "dates": "Fri, May 15 \u2013 Sat, May 23",
           "price": "CA$549",
           "price_value": 549,
@@ -315,6 +307,22 @@
           "depart_date": "2026-04-04",
           "return_date": "2026-04-11",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-04-04 returning 2026-04-11"
+        },
+        {
+          "dates": "Sat, May 9 \u2013 Sat, May 16",
+          "price": "CA$501",
+          "price_value": 501,
+          "depart_date": "2026-05-09",
+          "return_date": "2026-05-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-05-09 returning 2026-05-16"
+        },
+        {
+          "dates": "Sat, May 16 \u2013 Sat, May 23",
+          "price": "CA$585",
+          "price_value": 585,
+          "depart_date": "2026-05-16",
+          "return_date": "2026-05-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Mazatl%C3%A1n on 2026-05-16 returning 2026-05-23"
         }
       ]
     },
@@ -11971,28 +11979,12 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-04-16 returning 2026-04-22"
         },
         {
-          "dates": "Sun, Aug 30 \u2013 Tue, Sep 8",
-          "price": "CA$2,139",
-          "price_value": 2139,
-          "depart_date": "2026-08-30",
-          "return_date": "2026-09-08",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-08-30 returning 2026-09-08"
-        },
-        {
           "dates": "Thu, Aug 6 \u2013 Thu, Aug 13",
           "price": "CA$2,173",
           "price_value": 2173,
           "depart_date": "2026-08-06",
           "return_date": "2026-08-13",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-08-06 returning 2026-08-13"
-        },
-        {
-          "dates": "Sun, Aug 23 \u2013 Tue, Sep 1",
-          "price": "CA$2,362",
-          "price_value": 2362,
-          "depart_date": "2026-08-23",
-          "return_date": "2026-09-01",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-08-23 returning 2026-09-01"
         },
         {
           "dates": "Mon, May 4 \u2013 Tue, May 12",
@@ -12089,6 +12081,30 @@
           "depart_date": "2026-09-17",
           "return_date": "2026-09-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-09-17 returning 2026-09-23"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Tue, Sep 8",
+          "price": "CA$1,898",
+          "price_value": 1898,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-08-30 returning 2026-09-08"
+        },
+        {
+          "dates": "Sun, Aug 23 \u2013 Tue, Sep 1",
+          "price": "CA$2,162",
+          "price_value": 2162,
+          "depart_date": "2026-08-23",
+          "return_date": "2026-09-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-08-23 returning 2026-09-01"
+        },
+        {
+          "dates": "Mon, Aug 10 \u2013 Tue, Aug 18",
+          "price": "CA$2,173",
+          "price_value": 2173,
+          "depart_date": "2026-08-10",
+          "return_date": "2026-08-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Kozhikode on 2026-08-10 returning 2026-08-18"
         }
       ]
     },
@@ -26057,7 +26073,9 @@
     "19020",
     "19018",
     "19023",
-    "19037"
+    "19037",
+    "19044",
+    "19043"
   ],
-  "last_updated": "2026-03-27T12:28:35.063404"
+  "last_updated": "2026-03-27T14:29:54.800360"
 }
