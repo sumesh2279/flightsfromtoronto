@@ -6389,6 +6389,14 @@
           "depart_date": "2026-07-02",
           "return_date": "2026-07-08",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-07-02 returning 2026-07-08"
+        },
+        {
+          "dates": "Thu, Apr 30 \u2013 Sat, May 9",
+          "price": "CA$500",
+          "price_value": 500,
+          "depart_date": "2026-04-30",
+          "return_date": "2026-05-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-04-30 returning 2026-05-09"
         }
       ]
     },
@@ -16055,6 +16063,30 @@
           "depart_date": "2026-06-29",
           "return_date": "2026-07-07",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Key%20West on 2026-06-29 returning 2026-07-07"
+        },
+        {
+          "dates": "Mon, Apr 27 \u2013 Tue, May 5",
+          "price": "CA$709",
+          "price_value": 709,
+          "depart_date": "2026-04-27",
+          "return_date": "2026-05-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Key%20West on 2026-04-27 returning 2026-05-05"
+        },
+        {
+          "dates": "Thu, Apr 16 \u2013 Wed, Apr 22",
+          "price": "CA$763",
+          "price_value": 763,
+          "depart_date": "2026-04-16",
+          "return_date": "2026-04-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Key%20West on 2026-04-16 returning 2026-04-22"
+        },
+        {
+          "dates": "Sat, Apr 11 \u2013 Fri, Apr 17",
+          "price": "CA$763",
+          "price_value": 763,
+          "depart_date": "2026-04-11",
+          "return_date": "2026-04-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Key%20West on 2026-04-11 returning 2026-04-17"
         }
       ]
     },
@@ -19803,6 +19835,30 @@
           "depart_date": "2026-04-30",
           "return_date": "2026-05-07",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-04-30 returning 2026-05-07"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
+          "price": "CA$222",
+          "price_value": 222,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-06-04 returning 2026-06-10"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Wed, Jun 10",
+          "price": "CA$285",
+          "price_value": 285,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-06-01 returning 2026-06-10"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Thu, Jun 18",
+          "price": "CA$285",
+          "price_value": 285,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-06-11 returning 2026-06-18"
         }
       ]
     },
@@ -24043,14 +24099,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-06-18 returning 2026-06-27"
         },
         {
-          "dates": "Mon, Jun 1 \u2013 Sun, Jun 7",
-          "price": "CA$319",
-          "price_value": 319,
-          "depart_date": "2026-06-01",
-          "return_date": "2026-06-07",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-06-01 returning 2026-06-07"
-        },
-        {
           "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
           "price": "CA$319",
           "price_value": 319,
@@ -24169,6 +24217,30 @@
           "depart_date": "2026-08-06",
           "return_date": "2026-08-12",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-08-06 returning 2026-08-12"
+        },
+        {
+          "dates": "Thu, Jun 25 \u2013 Fri, Jul 3",
+          "price": "CA$245",
+          "price_value": 245,
+          "depart_date": "2026-06-25",
+          "return_date": "2026-07-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-06-25 returning 2026-07-03"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
+          "price": "CA$250",
+          "price_value": 250,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-06-04 returning 2026-06-11"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Sun, Jun 7",
+          "price": "CA$311",
+          "price_value": 311,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Newark%2C%20New%20York on 2026-06-01 returning 2026-06-07"
         }
       ]
     }
@@ -25939,7 +26011,11 @@
     "19015",
     "19014",
     "19013",
-    "19011"
+    "19011",
+    "19022",
+    "19021",
+    "19020",
+    "19018"
   ],
-  "last_updated": "2026-03-27T07:25:02.385069"
+  "last_updated": "2026-03-27T09:26:28.530838"
 }
