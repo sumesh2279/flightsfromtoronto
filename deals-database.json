@@ -18115,6 +18115,30 @@
           "depart_date": "2026-06-26",
           "return_date": "2026-07-05",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-06-26 returning 2026-07-05"
+        },
+        {
+          "dates": "Sun, Jun 28 \u2013 Sat, Jul 4",
+          "price": "CA$233",
+          "price_value": 233,
+          "depart_date": "2026-06-28",
+          "return_date": "2026-07-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-06-28 returning 2026-07-04"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
+          "price": "CA$301",
+          "price_value": 301,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Thu, Jun 11",
+          "price": "CA$301",
+          "price_value": 301,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-06-04 returning 2026-06-11"
         }
       ]
     },
@@ -26015,7 +26039,8 @@
     "19022",
     "19021",
     "19020",
-    "19018"
+    "19018",
+    "19023"
   ],
-  "last_updated": "2026-03-27T09:26:28.530838"
+  "last_updated": "2026-03-27T10:27:12.306596"
 }
