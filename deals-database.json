@@ -19773,6 +19773,22 @@
           "depart_date": "2026-09-18",
           "return_date": "2026-09-25",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Tampa on 2026-09-18 returning 2026-09-25"
+        },
+        {
+          "dates": "Sun, Apr 5 \u2013 Tue, Apr 14",
+          "price": "CA$316",
+          "price_value": 316,
+          "depart_date": "2026-04-05",
+          "return_date": "2026-04-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Tampa on 2026-04-05 returning 2026-04-14"
+        },
+        {
+          "dates": "Sun, Apr 19 \u2013 Tue, Apr 28",
+          "price": "CA$316",
+          "price_value": 316,
+          "depart_date": "2026-04-19",
+          "return_date": "2026-04-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Tampa on 2026-04-19 returning 2026-04-28"
         }
       ]
     },
@@ -26463,7 +26479,8 @@
     "19059",
     "19058",
     "19055",
-    "19077"
+    "19077",
+    "19078"
   ],
-  "last_updated": "2026-03-28T11:33:22.612676"
+  "last_updated": "2026-03-28T12:34:23.477785"
 }
