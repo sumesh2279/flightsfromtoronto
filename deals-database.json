@@ -8924,11 +8924,27 @@
         },
         {
           "dates": "Thu, Jun 18 \u2013 Thu, Jun 25",
-          "price": "CA$213",
-          "price_value": 213,
+          "price": "CA$164",
+          "price_value": 164,
           "depart_date": "2026-06-18",
           "return_date": "2026-06-25",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-06-18 returning 2026-06-25"
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-06-18 returning 2026-06-25"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Fri, Jun 19",
+          "price": "CA$172",
+          "price_value": 172,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-06-11 returning 2026-06-19"
+        },
+        {
+          "dates": "Thu, Jun 4 \u2013 Wed, Jun 10",
+          "price": "CA$213",
+          "price_value": 213,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-06-04 returning 2026-06-10"
         }
       ]
     },
@@ -26480,7 +26496,8 @@
     "19058",
     "19055",
     "19077",
-    "19078"
+    "19078",
+    "19079"
   ],
-  "last_updated": "2026-03-28T12:34:23.477785"
+  "last_updated": "2026-03-28T13:35:04.647661"
 }
