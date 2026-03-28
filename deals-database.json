@@ -8945,6 +8945,14 @@
           "depart_date": "2026-06-04",
           "return_date": "2026-06-10",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Halifax on 2026-06-04 returning 2026-06-10"
+        },
+        {
+          "dates": "Mon, Jun 22 \u2013 Wed, Jul 1",
+          "price": "CA$181",
+          "price_value": 181,
+          "depart_date": "2026-06-22",
+          "return_date": "2026-07-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-06-22 returning 2026-07-01"
         }
       ]
     },
@@ -17735,6 +17743,22 @@
           "depart_date": "2026-05-04",
           "return_date": "2026-05-10",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-05-04 returning 2026-05-10"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
+          "price": "CA$388",
+          "price_value": 388,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-07-09 returning 2026-07-15"
+        },
+        {
+          "dates": "Thu, Jul 23 \u2013 Wed, Jul 29",
+          "price": "CA$388",
+          "price_value": 388,
+          "depart_date": "2026-07-23",
+          "return_date": "2026-07-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-07-23 returning 2026-07-29"
         }
       ]
     },
@@ -26515,7 +26539,9 @@
     "19078",
     "19079",
     "19080",
-    "19081"
+    "19081",
+    "19083",
+    "19082"
   ],
-  "last_updated": "2026-03-28T15:36:32.525179"
+  "last_updated": "2026-03-28T16:37:11.391556"
 }
