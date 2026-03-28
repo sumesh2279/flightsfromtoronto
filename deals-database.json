@@ -24485,14 +24485,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-04-09 returning 2026-04-16"
         },
         {
-          "dates": "Sat, Apr 4 \u2013 Fri, Apr 10",
-          "price": "CA$384",
-          "price_value": 384,
-          "depart_date": "2026-04-04",
-          "return_date": "2026-04-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-04-04 returning 2026-04-10"
-        },
-        {
           "dates": "Thu, May 7 \u2013 Sat, May 16",
           "price": "CA$368",
           "price_value": 368,
@@ -24539,6 +24531,30 @@
           "depart_date": "2026-06-01",
           "return_date": "2026-06-07",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-06-01 returning 2026-06-07"
+        },
+        {
+          "dates": "Sat, Apr 4 \u2013 Fri, Apr 10",
+          "price": "CA$373",
+          "price_value": 373,
+          "depart_date": "2026-04-04",
+          "return_date": "2026-04-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-04-04 returning 2026-04-10"
+        },
+        {
+          "dates": "Thu, Apr 9 \u2013 Wed, Apr 15",
+          "price": "CA$397",
+          "price_value": 397,
+          "depart_date": "2026-04-09",
+          "return_date": "2026-04-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-04-09 returning 2026-04-15"
+        },
+        {
+          "dates": "Sun, Apr 26 \u2013 Tue, May 5",
+          "price": "CA$411",
+          "price_value": 411,
+          "depart_date": "2026-04-26",
+          "return_date": "2026-05-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-04-26 returning 2026-05-05"
         }
       ]
     },
@@ -26498,7 +26514,8 @@
     "19077",
     "19078",
     "19079",
-    "19080"
+    "19080",
+    "19081"
   ],
-  "last_updated": "2026-03-28T14:35:47.659436"
+  "last_updated": "2026-03-28T15:36:32.525179"
 }
