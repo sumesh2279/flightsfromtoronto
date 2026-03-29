@@ -1129,6 +1129,22 @@
           "depart_date": "2026-07-03",
           "return_date": "2026-07-10",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Canc%C3%BAn on 2026-07-03 returning 2026-07-10"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Sat, Jul 25",
+          "price": "CA$403",
+          "price_value": 403,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-07-18 returning 2026-07-25"
+        },
+        {
+          "dates": "Fri, Jul 10 \u2013 Fri, Jul 17",
+          "price": "CA$453",
+          "price_value": 453,
+          "depart_date": "2026-07-10",
+          "return_date": "2026-07-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-07-10 returning 2026-07-17"
         }
       ]
     },
@@ -2717,6 +2733,30 @@
           "depart_date": "2026-08-16",
           "return_date": "2026-08-25",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Accra on 2026-08-16 returning 2026-08-25"
+        },
+        {
+          "dates": "Mon, Jul 6 \u2013 Sun, Jul 12",
+          "price": "CA$1,525",
+          "price_value": 1525,
+          "depart_date": "2026-07-06",
+          "return_date": "2026-07-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Accra on 2026-07-06 returning 2026-07-12"
+        },
+        {
+          "dates": "Fri, Jul 10 \u2013 Thu, Jul 16",
+          "price": "CA$1,565",
+          "price_value": 1565,
+          "depart_date": "2026-07-10",
+          "return_date": "2026-07-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Accra on 2026-07-10 returning 2026-07-16"
+        },
+        {
+          "dates": "Fri, Jul 17 \u2013 Thu, Jul 23",
+          "price": "CA$1,646",
+          "price_value": 1646,
+          "depart_date": "2026-07-17",
+          "return_date": "2026-07-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Accra on 2026-07-17 returning 2026-07-23"
         }
       ]
     },
@@ -4707,14 +4747,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-04-16 returning 2026-04-23"
         },
         {
-          "dates": "Sat, Apr 4 \u2013 Sat, Apr 11",
-          "price": "CA$1,027",
-          "price_value": 1027,
-          "depart_date": "2026-04-04",
-          "return_date": "2026-04-11",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-04-04 returning 2026-04-11"
-        },
-        {
           "dates": "Sat, Apr 11 \u2013 Fri, Apr 17",
           "price": "CA$577",
           "price_value": 577,
@@ -4729,6 +4761,22 @@
           "depart_date": "2026-04-30",
           "return_date": "2026-05-09",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-04-30 returning 2026-05-09"
+        },
+        {
+          "dates": "Sat, Apr 4 \u2013 Sat, Apr 11",
+          "price": "CA$917",
+          "price_value": 917,
+          "depart_date": "2026-04-04",
+          "return_date": "2026-04-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-04-04 returning 2026-04-11"
+        },
+        {
+          "dates": "Fri, Apr 10 \u2013 Thu, Apr 16",
+          "price": "CA$511",
+          "price_value": 511,
+          "depart_date": "2026-04-10",
+          "return_date": "2026-04-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Pointe-%C3%A0-Pitre on 2026-04-10 returning 2026-04-16"
         }
       ]
     },
@@ -26728,7 +26776,10 @@
     "19103",
     "19096",
     "19095",
-    "19105"
+    "19105",
+    "19108",
+    "19107",
+    "19106"
   ],
-  "last_updated": "2026-03-29T15:00:53.416562"
+  "last_updated": "2026-03-29T17:02:04.528694"
 }
