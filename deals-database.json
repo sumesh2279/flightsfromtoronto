@@ -15901,6 +15901,22 @@
           "depart_date": "2026-06-14",
           "return_date": "2026-06-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Amsterdam on 2026-06-14 returning 2026-06-20"
+        },
+        {
+          "dates": "Sun, Apr 5 \u2013 Tue, Apr 14",
+          "price": "CA$742",
+          "price_value": 742,
+          "depart_date": "2026-04-05",
+          "return_date": "2026-04-14",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Amsterdam on 2026-04-05 returning 2026-04-14"
+        },
+        {
+          "dates": "Mon, Apr 13 \u2013 Mon, Apr 20",
+          "price": "CA$742",
+          "price_value": 742,
+          "depart_date": "2026-04-13",
+          "return_date": "2026-04-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Amsterdam on 2026-04-13 returning 2026-04-20"
         }
       ]
     },
@@ -26711,7 +26727,8 @@
     "19104",
     "19103",
     "19096",
-    "19095"
+    "19095",
+    "19105"
   ],
-  "last_updated": "2026-03-29T14:00:42.181019"
+  "last_updated": "2026-03-29T15:00:53.416562"
 }
