@@ -5715,6 +5715,38 @@
           "depart_date": "2026-04-20",
           "return_date": "2026-04-29",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to New%20Delhi on 2026-04-20 returning 2026-04-29"
+        },
+        {
+          "dates": "Sat, May 30 \u2013 Mon, Jun 8",
+          "price": "CA$2,043",
+          "price_value": 2043,
+          "depart_date": "2026-05-30",
+          "return_date": "2026-06-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to New%20Delhi on 2026-05-30 returning 2026-06-08"
+        },
+        {
+          "dates": "Thu, May 28 \u2013 Thu, Jun 4",
+          "price": "CA$1,429",
+          "price_value": 1429,
+          "depart_date": "2026-05-28",
+          "return_date": "2026-06-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to New%20Delhi on 2026-05-28 returning 2026-06-04"
+        },
+        {
+          "dates": "Thu, May 21 \u2013 Thu, May 28",
+          "price": "CA$1,429",
+          "price_value": 1429,
+          "depart_date": "2026-05-21",
+          "return_date": "2026-05-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to New%20Delhi on 2026-05-21 returning 2026-05-28"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Tue, May 26",
+          "price": "CA$1,442",
+          "price_value": 1442,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to New%20Delhi on 2026-05-17 returning 2026-05-26"
         }
       ]
     },
@@ -9049,6 +9081,22 @@
           "depart_date": "2026-06-22",
           "return_date": "2026-07-01",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-06-22 returning 2026-07-01"
+        },
+        {
+          "dates": "Sun, Jun 14 \u2013 Tue, Jun 23",
+          "price": "CA$162",
+          "price_value": 162,
+          "depart_date": "2026-06-14",
+          "return_date": "2026-06-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-06-14 returning 2026-06-23"
+        },
+        {
+          "dates": "Thu, Jun 18 \u2013 Sat, Jun 27",
+          "price": "CA$162",
+          "price_value": 162,
+          "depart_date": "2026-06-18",
+          "return_date": "2026-06-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Halifax on 2026-06-18 returning 2026-06-27"
         }
       ]
     },
@@ -26813,7 +26861,10 @@
     "19107",
     "19106",
     "19110",
-    "19109"
+    "19109",
+    "19113",
+    "19112",
+    "19111"
   ],
-  "last_updated": "2026-03-29T19:03:12.079723"
+  "last_updated": "2026-03-29T21:00:49.057741"
 }
