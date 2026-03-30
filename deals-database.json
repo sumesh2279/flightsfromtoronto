@@ -6399,6 +6399,30 @@
           "depart_date": "2026-09-10",
           "return_date": "2026-09-17",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-09-10 returning 2026-09-17"
+        },
+        {
+          "dates": "Sat, Apr 4 \u2013 Mon, Apr 13",
+          "price": "CA$379",
+          "price_value": 379,
+          "depart_date": "2026-04-04",
+          "return_date": "2026-04-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-04-04 returning 2026-04-13"
+        },
+        {
+          "dates": "Thu, Apr 23 \u2013 Sat, May 2",
+          "price": "CA$422",
+          "price_value": 422,
+          "depart_date": "2026-04-23",
+          "return_date": "2026-05-02",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-04-23 returning 2026-05-02"
+        },
+        {
+          "dates": "Fri, Apr 17 \u2013 Thu, Apr 23",
+          "price": "CA$453",
+          "price_value": 453,
+          "depart_date": "2026-04-17",
+          "return_date": "2026-04-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Cura%C3%A7ao on 2026-04-17 returning 2026-04-23"
         }
       ]
     },
@@ -10411,6 +10435,30 @@
           "depart_date": "2026-07-27",
           "return_date": "2026-08-03",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-07-27 returning 2026-08-03"
+        },
+        {
+          "dates": "Sat, Aug 29 \u2013 Sat, Sep 5",
+          "price": "CA$289",
+          "price_value": 289,
+          "depart_date": "2026-08-29",
+          "return_date": "2026-09-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-08-29 returning 2026-09-05"
+        },
+        {
+          "dates": "Sat, Aug 22 \u2013 Mon, Aug 31",
+          "price": "CA$329",
+          "price_value": 329,
+          "depart_date": "2026-08-22",
+          "return_date": "2026-08-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-08-22 returning 2026-08-31"
+        },
+        {
+          "dates": "Sun, Aug 2 \u2013 Sat, Aug 8",
+          "price": "CA$329",
+          "price_value": 329,
+          "depart_date": "2026-08-02",
+          "return_date": "2026-08-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-08-02 returning 2026-08-08"
         }
       ]
     },
@@ -24601,6 +24649,30 @@
           "depart_date": "2026-08-15",
           "return_date": "2026-08-24",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-15 returning 2026-08-24"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Fri, Aug 21",
+          "price": "CA$229",
+          "price_value": 229,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-13 returning 2026-08-21"
+        },
+        {
+          "dates": "Mon, Aug 3 \u2013 Mon, Aug 10",
+          "price": "CA$281",
+          "price_value": 281,
+          "depart_date": "2026-08-03",
+          "return_date": "2026-08-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-03 returning 2026-08-10"
+        },
+        {
+          "dates": "Fri, Aug 7 \u2013 Thu, Aug 13",
+          "price": "CA$316",
+          "price_value": 316,
+          "depart_date": "2026-08-07",
+          "return_date": "2026-08-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-07 returning 2026-08-13"
         }
       ]
     },
@@ -27048,7 +27120,10 @@
     "19121",
     "19119",
     "19118",
-    "19117"
+    "19117",
+    "19169",
+    "19167",
+    "19148"
   ],
-  "last_updated": "2026-03-30T08:05:55.780133"
+  "last_updated": "2026-03-30T13:06:42.913292"
 }
