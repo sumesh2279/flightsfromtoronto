@@ -1145,6 +1145,22 @@
           "depart_date": "2026-07-10",
           "return_date": "2026-07-17",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-07-10 returning 2026-07-17"
+        },
+        {
+          "dates": "Thu, Jul 2 \u2013 Fri, Jul 10",
+          "price": "CA$426",
+          "price_value": 426,
+          "depart_date": "2026-07-02",
+          "return_date": "2026-07-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-07-02 returning 2026-07-10"
+        },
+        {
+          "dates": "Sat, Jul 11 \u2013 Sat, Jul 18",
+          "price": "CA$432",
+          "price_value": 432,
+          "depart_date": "2026-07-11",
+          "return_date": "2026-07-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-07-11 returning 2026-07-18"
         }
       ]
     },
@@ -2016,7 +2032,7 @@
     },
     "Nassau": {
       "origin": "Toronto",
-      "cheapest_current": "CA$360",
+      "cheapest_current": "CA$345",
       "deals": [
         {
           "dates": "Sat, Jun 13 \u2013 Sat, Jun 20",
@@ -2337,6 +2353,30 @@
           "depart_date": "2026-07-05",
           "return_date": "2026-07-12",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-05 returning 2026-07-12"
+        },
+        {
+          "dates": "Thu, Jul 23 \u2013 Fri, Jul 31",
+          "price": "CA$345",
+          "price_value": 345,
+          "depart_date": "2026-07-23",
+          "return_date": "2026-07-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-23 returning 2026-07-31"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
+          "price": "CA$464",
+          "price_value": 464,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-09 returning 2026-07-15"
+        },
+        {
+          "dates": "Thu, Jul 30 \u2013 Thu, Aug 6",
+          "price": "CA$464",
+          "price_value": 464,
+          "depart_date": "2026-07-30",
+          "return_date": "2026-08-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nassau on 2026-07-30 returning 2026-08-06"
         }
       ]
     },
@@ -7131,6 +7171,22 @@
           "depart_date": "2026-08-13",
           "return_date": "2026-08-19",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-08-13 returning 2026-08-19"
+        },
+        {
+          "dates": "Thu, May 28 \u2013 Fri, Jun 5",
+          "price": "CA$313",
+          "price_value": 313,
+          "depart_date": "2026-05-28",
+          "return_date": "2026-06-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-05-28 returning 2026-06-05"
+        },
+        {
+          "dates": "Mon, May 4 \u2013 Mon, May 11",
+          "price": "CA$480",
+          "price_value": 480,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Providenciales on 2026-05-04 returning 2026-05-11"
         }
       ]
     },
@@ -11837,6 +11893,30 @@
           "depart_date": "2026-05-04",
           "return_date": "2026-05-10",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-05-04 returning 2026-05-10"
+        },
+        {
+          "dates": "Mon, Jul 6 \u2013 Sun, Jul 12",
+          "price": "CA$166",
+          "price_value": 166,
+          "depart_date": "2026-07-06",
+          "return_date": "2026-07-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-07-06 returning 2026-07-12"
+        },
+        {
+          "dates": "Thu, Jul 16 \u2013 Fri, Jul 24",
+          "price": "CA$252",
+          "price_value": 252,
+          "depart_date": "2026-07-16",
+          "return_date": "2026-07-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-07-16 returning 2026-07-24"
+        },
+        {
+          "dates": "Mon, Jul 13 \u2013 Wed, Jul 22",
+          "price": "CA$252",
+          "price_value": 252,
+          "depart_date": "2026-07-13",
+          "return_date": "2026-07-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Boston on 2026-07-13 returning 2026-07-22"
         }
       ]
     },
@@ -17290,7 +17370,7 @@
     },
     "Fort-de-France": {
       "origin": "Toronto",
-      "cheapest_current": "CA$464",
+      "cheapest_current": "CA$324",
       "deals": [
         {
           "dates": "Sat, Mar 21 \u2013 Sat, Mar 28",
@@ -17595,6 +17675,30 @@
           "depart_date": "2026-08-28",
           "return_date": "2026-09-03",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-08-28 returning 2026-09-03"
+        },
+        {
+          "dates": "Mon, Jul 20 \u2013 Tue, Jul 28",
+          "price": "CA$324",
+          "price_value": 324,
+          "depart_date": "2026-07-20",
+          "return_date": "2026-07-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-07-20 returning 2026-07-28"
+        },
+        {
+          "dates": "Fri, Jul 24 \u2013 Thu, Jul 30",
+          "price": "CA$351",
+          "price_value": 351,
+          "depart_date": "2026-07-24",
+          "return_date": "2026-07-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-07-24 returning 2026-07-30"
+        },
+        {
+          "dates": "Sat, Jul 11 \u2013 Mon, Jul 20",
+          "price": "CA$556",
+          "price_value": 556,
+          "depart_date": "2026-07-11",
+          "return_date": "2026-07-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-07-11 returning 2026-07-20"
         }
       ]
     },
@@ -24878,7 +24982,7 @@
     },
     "La Romana, Punta Cana": {
       "origin": "Toronto",
-      "cheapest_current": "CA$320",
+      "cheapest_current": "CA$319",
       "deals": [
         {
           "dates": "Fri, Mar 6 \u2013 Fri, Mar 13",
@@ -25009,9 +25113,25 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-06-11 returning 2026-06-20"
         },
         {
+          "dates": "Thu, Jun 4 \u2013 Fri, Jun 12",
+          "price": "CA$319",
+          "price_value": 319,
+          "depart_date": "2026-06-04",
+          "return_date": "2026-06-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-06-04 returning 2026-06-12"
+        },
+        {
+          "dates": "Sat, Jun 13 \u2013 Sat, Jun 20",
+          "price": "CA$397",
+          "price_value": 397,
+          "depart_date": "2026-06-13",
+          "return_date": "2026-06-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-06-13 returning 2026-06-20"
+        },
+        {
           "dates": "Thu, Jun 18 \u2013 Sat, Jun 27",
-          "price": "CA$448",
-          "price_value": 448,
+          "price": "CA$436",
+          "price_value": 436,
           "depart_date": "2026-06-18",
           "return_date": "2026-06-27",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to La%20Romana%2C%20Punta%20Cana on 2026-06-18 returning 2026-06-27"
@@ -25331,6 +25451,30 @@
           "depart_date": "2026-04-26",
           "return_date": "2026-05-05",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-04-26 returning 2026-05-05"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Fri, Jul 24",
+          "price": "CA$403",
+          "price_value": 403,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-07-18 returning 2026-07-24"
+        },
+        {
+          "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
+          "price": "CA$426",
+          "price_value": 426,
+          "depart_date": "2026-07-02",
+          "return_date": "2026-07-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-07-02 returning 2026-07-08"
+        },
+        {
+          "dates": "Sun, Jul 12 \u2013 Sun, Jul 19",
+          "price": "CA$431",
+          "price_value": 431,
+          "depart_date": "2026-07-12",
+          "return_date": "2026-07-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-07-12 returning 2026-07-19"
         }
       ]
     },
@@ -25520,9 +25664,9 @@
       "date": "2026-02-22T14:34:03.541884"
     },
     "Nassau": {
-      "lowest_ever": "CA$360",
-      "lowest_value": 360,
-      "date": "2026-03-21T07:40:51.694580"
+      "lowest_ever": "CA$345",
+      "lowest_value": 345,
+      "date": "2026-03-30T17:08:22.308364"
     },
     "Freeport": {
       "lowest_ever": "CA$661",
@@ -25750,9 +25894,9 @@
       "date": "2026-03-04T08:50:16.571847"
     },
     "Fort-de-France": {
-      "lowest_ever": "CA$464",
-      "lowest_value": 464,
-      "date": "2026-03-17T18:21:45.916815"
+      "lowest_ever": "CA$324",
+      "lowest_value": 324,
+      "date": "2026-03-30T17:08:22.308782"
     },
     "Havana": {
       "lowest_ever": "CA$319",
@@ -25870,9 +26014,9 @@
       "date": "2026-03-03T09:47:33.355060"
     },
     "La Romana, Punta Cana": {
-      "lowest_ever": "CA$320",
-      "lowest_value": 320,
-      "date": "2026-03-03T09:47:33.353305"
+      "lowest_ever": "CA$319",
+      "lowest_value": 319,
+      "date": "2026-03-30T17:08:22.308887"
     },
     "Samana, Santo Domingo": {
       "lowest_ever": "CA$375",
@@ -27332,7 +27476,14 @@
     "19177",
     "19176",
     "19175",
-    "19170"
+    "19170",
+    "19192",
+    "19191",
+    "19190",
+    "19189",
+    "19188",
+    "19187",
+    "19186"
   ],
-  "last_updated": "2026-03-30T15:07:39.959743"
+  "last_updated": "2026-03-30T17:08:22.308916"
 }
