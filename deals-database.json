@@ -12293,28 +12293,12 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-05-04 returning 2026-05-10"
         },
         {
-          "dates": "Mon, Jun 8 \u2013 Wed, Jun 17",
-          "price": "CA$831",
-          "price_value": 831,
-          "depart_date": "2026-06-08",
-          "return_date": "2026-06-17",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-08 returning 2026-06-17"
-        },
-        {
           "dates": "Mon, Jun 1 \u2013 Mon, Jun 8",
           "price": "CA$834",
           "price_value": 834,
           "depart_date": "2026-06-01",
           "return_date": "2026-06-08",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-01 returning 2026-06-08"
-        },
-        {
-          "dates": "Thu, Jun 11 \u2013 Wed, Jun 17",
-          "price": "CA$835",
-          "price_value": 835,
-          "depart_date": "2026-06-11",
-          "return_date": "2026-06-17",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-11 returning 2026-06-17"
         },
         {
           "dates": "Mon, Jun 15 \u2013 Wed, Jun 24",
@@ -12459,6 +12443,38 @@
           "depart_date": "2026-08-22",
           "return_date": "2026-08-28",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-08-22 returning 2026-08-28"
+        },
+        {
+          "dates": "Mon, Jun 1 \u2013 Tue, Jun 9",
+          "price": "CA$781",
+          "price_value": 781,
+          "depart_date": "2026-06-01",
+          "return_date": "2026-06-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-01 returning 2026-06-09"
+        },
+        {
+          "dates": "Mon, Jun 8 \u2013 Wed, Jun 17",
+          "price": "CA$728",
+          "price_value": 728,
+          "depart_date": "2026-06-08",
+          "return_date": "2026-06-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-08 returning 2026-06-17"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Wed, Jun 17",
+          "price": "CA$728",
+          "price_value": 728,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-11 returning 2026-06-17"
+        },
+        {
+          "dates": "Sun, Jun 21 \u2013 Mon, Jun 29",
+          "price": "CA$728",
+          "price_value": 728,
+          "depart_date": "2026-06-21",
+          "return_date": "2026-06-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Athens on 2026-06-21 returning 2026-06-29"
         }
       ]
     },
@@ -20915,6 +20931,30 @@
           "depart_date": "2026-08-14",
           "return_date": "2026-08-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-08-14 returning 2026-08-20"
+        },
+        {
+          "dates": "Fri, May 29 \u2013 Thu, Jun 4",
+          "price": "CA$208",
+          "price_value": 208,
+          "depart_date": "2026-05-29",
+          "return_date": "2026-06-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-05-29 returning 2026-06-04"
+        },
+        {
+          "dates": "Sun, May 24 \u2013 Sat, May 30",
+          "price": "CA$213",
+          "price_value": 213,
+          "depart_date": "2026-05-24",
+          "return_date": "2026-05-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-05-24 returning 2026-05-30"
+        },
+        {
+          "dates": "Sun, May 17 \u2013 Tue, May 26",
+          "price": "CA$250",
+          "price_value": 250,
+          "depart_date": "2026-05-17",
+          "return_date": "2026-05-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-05-17 returning 2026-05-26"
         }
       ]
     },
@@ -27525,7 +27565,9 @@
     "19187",
     "19186",
     "19199",
-    "19197"
+    "19197",
+    "19204",
+    "19203"
   ],
-  "last_updated": "2026-03-30T18:09:11.874474"
+  "last_updated": "2026-03-30T19:09:51.360706"
 }
