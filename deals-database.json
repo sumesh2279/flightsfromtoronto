@@ -1161,6 +1161,22 @@
           "depart_date": "2026-07-11",
           "return_date": "2026-07-18",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-07-11 returning 2026-07-18"
+        },
+        {
+          "dates": "Sun, Jul 26 \u2013 Mon, Aug 3",
+          "price": "CA$342",
+          "price_value": 342,
+          "depart_date": "2026-07-26",
+          "return_date": "2026-08-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-07-26 returning 2026-08-03"
+        },
+        {
+          "dates": "Fri, Jul 31 \u2013 Thu, Aug 6",
+          "price": "CA$431",
+          "price_value": 431,
+          "depart_date": "2026-07-31",
+          "return_date": "2026-08-06",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-07-31 returning 2026-08-06"
         }
       ]
     },
@@ -9925,6 +9941,30 @@
           "depart_date": "2026-05-17",
           "return_date": "2026-05-24",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Punta%20Cana on 2026-05-17 returning 2026-05-24"
+        },
+        {
+          "dates": "Fri, Aug 21 \u2013 Fri, Aug 28",
+          "price": "CA$331",
+          "price_value": 331,
+          "depart_date": "2026-08-21",
+          "return_date": "2026-08-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Punta%20Cana on 2026-08-21 returning 2026-08-28"
+        },
+        {
+          "dates": "Fri, Aug 7 \u2013 Sat, Aug 15",
+          "price": "CA$435",
+          "price_value": 435,
+          "depart_date": "2026-08-07",
+          "return_date": "2026-08-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Punta%20Cana on 2026-08-07 returning 2026-08-15"
+        },
+        {
+          "dates": "Sat, Aug 1 \u2013 Fri, Aug 7",
+          "price": "CA$464",
+          "price_value": 464,
+          "depart_date": "2026-08-01",
+          "return_date": "2026-08-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Punta%20Cana on 2026-08-01 returning 2026-08-07"
         }
       ]
     },
@@ -27483,7 +27523,9 @@
     "19189",
     "19188",
     "19187",
-    "19186"
+    "19186",
+    "19199",
+    "19197"
   ],
-  "last_updated": "2026-03-30T17:08:22.308916"
+  "last_updated": "2026-03-30T18:09:11.874474"
 }
