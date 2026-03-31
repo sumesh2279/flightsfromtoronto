@@ -1479,6 +1479,30 @@
           "depart_date": "2026-08-14",
           "return_date": "2026-08-23",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-08-14 returning 2026-08-23"
+        },
+        {
+          "dates": "Fri, Jul 10 \u2013 Sat, Jul 18",
+          "price": "CA$436",
+          "price_value": 436,
+          "depart_date": "2026-07-10",
+          "return_date": "2026-07-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-10 returning 2026-07-18"
+        },
+        {
+          "dates": "Sat, Jul 4 \u2013 Sun, Jul 12",
+          "price": "CA$447",
+          "price_value": 447,
+          "depart_date": "2026-07-04",
+          "return_date": "2026-07-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-04 returning 2026-07-12"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Sat, Jul 25",
+          "price": "CA$447",
+          "price_value": 447,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Montego%20Bay on 2026-07-18 returning 2026-07-25"
         }
       ]
     },
@@ -23853,14 +23877,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-06 returning 2026-08-13"
         },
         {
-          "dates": "Thu, Aug 20 \u2013 Thu, Aug 27",
-          "price": "CA$289",
-          "price_value": 289,
-          "depart_date": "2026-08-20",
-          "return_date": "2026-08-27",
-          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-20 returning 2026-08-27"
-        },
-        {
           "dates": "Sun, Aug 30 \u2013 Sat, Sep 5",
           "price": "CA$315",
           "price_value": 315,
@@ -23979,6 +23995,30 @@
           "depart_date": "2026-08-13",
           "return_date": "2026-08-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-13 returning 2026-08-20"
+        },
+        {
+          "dates": "Fri, Aug 28 \u2013 Fri, Sep 4",
+          "price": "CA$166",
+          "price_value": 166,
+          "depart_date": "2026-08-28",
+          "return_date": "2026-09-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-28 returning 2026-09-04"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Thu, Aug 27",
+          "price": "CA$271",
+          "price_value": 271,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-20 returning 2026-08-27"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Wed, Aug 19",
+          "price": "CA$281",
+          "price_value": 281,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Fort%20Lauderdale%2C%20Miami on 2026-08-13 returning 2026-08-19"
         }
       ]
     },
@@ -25057,6 +25097,30 @@
           "depart_date": "2026-08-07",
           "return_date": "2026-08-13",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-07 returning 2026-08-13"
+        },
+        {
+          "dates": "Fri, Aug 28 \u2013 Fri, Sep 4",
+          "price": "CA$166",
+          "price_value": 166,
+          "depart_date": "2026-08-28",
+          "return_date": "2026-09-04",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-28 returning 2026-09-04"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Thu, Aug 27",
+          "price": "CA$271",
+          "price_value": 271,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-20 returning 2026-08-27"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Wed, Aug 19",
+          "price": "CA$281",
+          "price_value": 281,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Lauderdale%2C%20West%20Palm%20Beach on 2026-08-13 returning 2026-08-19"
         }
       ]
     },
@@ -27567,7 +27631,10 @@
     "19199",
     "19197",
     "19204",
-    "19203"
+    "19203",
+    "19207",
+    "19206",
+    "19205"
   ],
-  "last_updated": "2026-03-30T19:09:51.360706"
+  "last_updated": "2026-03-30T20:12:42.413262"
 }
