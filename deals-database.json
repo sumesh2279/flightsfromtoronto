@@ -8009,14 +8009,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Jackson on 2026-05-16 returning 2026-05-23"
         },
         {
-          "dates": "Thu, Jul 23 \u2013 Wed, Jul 29",
-          "price": "CA$774",
-          "price_value": 774,
-          "depart_date": "2026-07-23",
-          "return_date": "2026-07-29",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Jackson on 2026-07-23 returning 2026-07-29"
-        },
-        {
           "dates": "Thu, Jul 2 \u2013 Wed, Jul 8",
           "price": "CA$774",
           "price_value": 774,
@@ -8031,6 +8023,30 @@
           "depart_date": "2026-07-06",
           "return_date": "2026-07-14",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Jackson on 2026-07-06 returning 2026-07-14"
+        },
+        {
+          "dates": "Fri, Jul 3 \u2013 Fri, Jul 10",
+          "price": "CA$668",
+          "price_value": 668,
+          "depart_date": "2026-07-03",
+          "return_date": "2026-07-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Jackson on 2026-07-03 returning 2026-07-10"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Wed, Jul 15",
+          "price": "CA$771",
+          "price_value": 771,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Jackson on 2026-07-09 returning 2026-07-15"
+        },
+        {
+          "dates": "Thu, Jul 23 \u2013 Wed, Jul 29",
+          "price": "CA$771",
+          "price_value": 771,
+          "depart_date": "2026-07-23",
+          "return_date": "2026-07-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Jackson on 2026-07-23 returning 2026-07-29"
         }
       ]
     },
@@ -10194,7 +10210,7 @@
     },
     "Edmonton": {
       "origin": "Toronto",
-      "cheapest_current": "CA$104",
+      "cheapest_current": "CA$101",
       "deals": [
         {
           "dates": "Mon, May 4 \u2013 Tue, May 12",
@@ -10851,6 +10867,38 @@
           "depart_date": "2026-05-29",
           "return_date": "2026-06-07",
           "url": "https://www.google.com/travel/flights?q=flights from Hamilton%2C%20Toronto to Edmonton on 2026-05-29 returning 2026-06-07"
+        },
+        {
+          "dates": "Thu, Jul 9 \u2013 Sat, Jul 18",
+          "price": "CA$290",
+          "price_value": 290,
+          "depart_date": "2026-07-09",
+          "return_date": "2026-07-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-07-09 returning 2026-07-18"
+        },
+        {
+          "dates": "Sat, Jul 11 \u2013 Fri, Jul 17",
+          "price": "CA$101",
+          "price_value": 101,
+          "depart_date": "2026-07-11",
+          "return_date": "2026-07-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-07-11 returning 2026-07-17"
+        },
+        {
+          "dates": "Thu, Jul 23 \u2013 Wed, Jul 29",
+          "price": "CA$187",
+          "price_value": 187,
+          "depart_date": "2026-07-23",
+          "return_date": "2026-07-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-07-23 returning 2026-07-29"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Sat, Jul 25",
+          "price": "CA$234",
+          "price_value": 234,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Edmonton on 2026-07-18 returning 2026-07-25"
         }
       ]
     },
@@ -18187,6 +18235,30 @@
           "depart_date": "2026-07-11",
           "return_date": "2026-07-20",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-07-11 returning 2026-07-20"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Sat, Aug 22",
+          "price": "CA$324",
+          "price_value": 324,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-08-13 returning 2026-08-22"
+        },
+        {
+          "dates": "Thu, Aug 6 \u2013 Thu, Aug 13",
+          "price": "CA$324",
+          "price_value": 324,
+          "depart_date": "2026-08-06",
+          "return_date": "2026-08-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-08-06 returning 2026-08-13"
+        },
+        {
+          "dates": "Sat, Aug 22 \u2013 Mon, Aug 31",
+          "price": "CA$556",
+          "price_value": 556,
+          "depart_date": "2026-08-22",
+          "return_date": "2026-08-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort-de-France on 2026-08-22 returning 2026-08-31"
         }
       ]
     },
@@ -26544,9 +26616,9 @@
       "date": "2026-02-22T14:35:39.735177"
     },
     "Edmonton": {
-      "lowest_ever": "CA$104",
-      "lowest_value": 104,
-      "date": "2026-02-27T08:44:40.928288"
+      "lowest_ever": "CA$101",
+      "lowest_value": 101,
+      "date": "2026-04-01T08:32:43.033175"
     },
     "Berlin": {
       "lowest_ever": "CA$630",
@@ -28284,7 +28356,10 @@
     "19281",
     "19277",
     "19276",
-    "19274"
+    "19274",
+    "19292",
+    "19289",
+    "19288"
   ],
-  "last_updated": "2026-04-01T04:31:50.179452"
+  "last_updated": "2026-04-01T08:32:43.033256"
 }
