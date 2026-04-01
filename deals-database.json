@@ -15351,6 +15351,30 @@
           "depart_date": "2026-05-28",
           "return_date": "2026-06-03",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-05-28 returning 2026-06-03"
+        },
+        {
+          "dates": "Fri, Jul 3 \u2013 Sat, Jul 11",
+          "price": "CA$628",
+          "price_value": 628,
+          "depart_date": "2026-07-03",
+          "return_date": "2026-07-11",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-07-03 returning 2026-07-11"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Fri, Jul 24",
+          "price": "CA$636",
+          "price_value": 636,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-07-18 returning 2026-07-24"
+        },
+        {
+          "dates": "Sat, Jul 25 \u2013 Fri, Jul 31",
+          "price": "CA$636",
+          "price_value": 636,
+          "depart_date": "2026-07-25",
+          "return_date": "2026-07-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Charlotte on 2026-07-25 returning 2026-07-31"
         }
       ]
     },
@@ -25103,6 +25127,22 @@
           "depart_date": "2026-07-26",
           "return_date": "2026-08-01",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-07-26 returning 2026-08-01"
+        },
+        {
+          "dates": "Sat, Jun 20 \u2013 Fri, Jun 26",
+          "price": "CA$252",
+          "price_value": 252,
+          "depart_date": "2026-06-20",
+          "return_date": "2026-06-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-06-20 returning 2026-06-26"
+        },
+        {
+          "dates": "Thu, Jun 11 \u2013 Sat, Jun 20",
+          "price": "CA$303",
+          "price_value": 303,
+          "depart_date": "2026-06-11",
+          "return_date": "2026-06-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Daytona%20Beach%2C%20Orlando on 2026-06-11 returning 2026-06-20"
         }
       ]
     },
@@ -28478,7 +28518,9 @@
     "19330",
     "19321",
     "19317",
-    "19336"
+    "19336",
+    "19349",
+    "19344"
   ],
-  "last_updated": "2026-04-01T14:37:10.346602"
+  "last_updated": "2026-04-01T15:38:10.741257"
 }
