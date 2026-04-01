@@ -19691,6 +19691,22 @@
           "depart_date": "2026-06-04",
           "return_date": "2026-06-11",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-06-04 returning 2026-06-11"
+        },
+        {
+          "dates": "Sun, Jul 12 \u2013 Sun, Jul 19",
+          "price": "CA$172",
+          "price_value": 172,
+          "depart_date": "2026-07-12",
+          "return_date": "2026-07-19",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-07-12 returning 2026-07-19"
+        },
+        {
+          "dates": "Sat, Jul 4 \u2013 Mon, Jul 13",
+          "price": "CA$239",
+          "price_value": 239,
+          "depart_date": "2026-07-04",
+          "return_date": "2026-07-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Chicago on 2026-07-04 returning 2026-07-13"
         }
       ]
     },
@@ -22175,6 +22191,22 @@
           "depart_date": "2026-05-07",
           "return_date": "2026-05-16",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Barcelona on 2026-05-07 returning 2026-05-16"
+        },
+        {
+          "dates": "Sun, May 3 \u2013 Tue, May 12",
+          "price": "CA$710",
+          "price_value": 710,
+          "depart_date": "2026-05-03",
+          "return_date": "2026-05-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Barcelona on 2026-05-03 returning 2026-05-12"
+        },
+        {
+          "dates": "Thu, May 28 \u2013 Fri, Jun 5",
+          "price": "CA$760",
+          "price_value": 760,
+          "depart_date": "2026-05-28",
+          "return_date": "2026-06-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Barcelona on 2026-05-28 returning 2026-06-05"
         }
       ]
     },
@@ -28418,7 +28450,10 @@
     "19288",
     "19307",
     "19309",
-    "19312"
+    "19312",
+    "19330",
+    "19321",
+    "19317"
   ],
-  "last_updated": "2026-04-01T11:35:07.805606"
+  "last_updated": "2026-04-01T12:35:49.243876"
 }
