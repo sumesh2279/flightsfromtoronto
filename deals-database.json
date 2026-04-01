@@ -20401,14 +20401,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-09-28 returning 2026-10-05"
         },
         {
-          "dates": "Fri, Sep 4 \u2013 Thu, Sep 10",
-          "price": "CA$560",
-          "price_value": 560,
-          "depart_date": "2026-09-04",
-          "return_date": "2026-09-10",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-09-04 returning 2026-09-10"
-        },
-        {
           "dates": "Fri, Jun 19 \u2013 Thu, Jun 25",
           "price": "CA$167",
           "price_value": 167,
@@ -20431,6 +20423,30 @@
           "depart_date": "2026-06-01",
           "return_date": "2026-06-08",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-06-01 returning 2026-06-08"
+        },
+        {
+          "dates": "Mon, Sep 21 \u2013 Tue, Sep 29",
+          "price": "CA$172",
+          "price_value": 172,
+          "depart_date": "2026-09-21",
+          "return_date": "2026-09-29",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-09-21 returning 2026-09-29"
+        },
+        {
+          "dates": "Fri, Sep 4 \u2013 Thu, Sep 10",
+          "price": "CA$334",
+          "price_value": 334,
+          "depart_date": "2026-09-04",
+          "return_date": "2026-09-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-09-04 returning 2026-09-10"
+        },
+        {
+          "dates": "Thu, Sep 24 \u2013 Wed, Sep 30",
+          "price": "CA$334",
+          "price_value": 334,
+          "depart_date": "2026-09-24",
+          "return_date": "2026-09-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Las%20Vegas on 2026-09-24 returning 2026-09-30"
         }
       ]
     },
@@ -28359,7 +28375,8 @@
     "19274",
     "19292",
     "19289",
-    "19288"
+    "19288",
+    "19307"
   ],
-  "last_updated": "2026-04-01T08:32:43.033256"
+  "last_updated": "2026-04-01T09:33:32.756342"
 }
