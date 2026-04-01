@@ -6935,20 +6935,36 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-04-30 returning 2026-05-09"
         },
         {
-          "dates": "Mon, Aug 10 \u2013 Tue, Aug 18",
-          "price": "CA$501",
-          "price_value": 501,
-          "depart_date": "2026-08-10",
-          "return_date": "2026-08-18",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-08-10 returning 2026-08-18"
-        },
-        {
           "dates": "Thu, Aug 27 \u2013 Thu, Sep 3",
           "price": "CA$570",
           "price_value": 570,
           "depart_date": "2026-08-27",
           "return_date": "2026-09-03",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-08-27 returning 2026-09-03"
+        },
+        {
+          "dates": "Mon, Aug 10 \u2013 Tue, Aug 18",
+          "price": "CA$436",
+          "price_value": 436,
+          "depart_date": "2026-08-10",
+          "return_date": "2026-08-18",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-08-10 returning 2026-08-18"
+        },
+        {
+          "dates": "Mon, Aug 24 \u2013 Mon, Aug 31",
+          "price": "CA$461",
+          "price_value": 461,
+          "depart_date": "2026-08-24",
+          "return_date": "2026-08-31",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-08-24 returning 2026-08-31"
+        },
+        {
+          "dates": "Thu, Aug 13 \u2013 Thu, Aug 20",
+          "price": "CA$486",
+          "price_value": 486,
+          "depart_date": "2026-08-13",
+          "return_date": "2026-08-20",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bridgetown on 2026-08-13 returning 2026-08-20"
         }
       ]
     },
@@ -22605,6 +22621,22 @@
           "depart_date": "2026-04-30",
           "return_date": "2026-05-06",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-04-30 returning 2026-05-06"
+        },
+        {
+          "dates": "Fri, Jul 10 \u2013 Thu, Jul 16",
+          "price": "CA$619",
+          "price_value": 619,
+          "depart_date": "2026-07-10",
+          "return_date": "2026-07-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-07-10 returning 2026-07-16"
+        },
+        {
+          "dates": "Sat, Jul 18 \u2013 Fri, Jul 24",
+          "price": "CA$619",
+          "price_value": 619,
+          "depart_date": "2026-07-18",
+          "return_date": "2026-07-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to West%20Palm%20Beach on 2026-07-18 returning 2026-07-24"
         }
       ]
     },
@@ -28570,7 +28602,9 @@
     "19349",
     "19344",
     "19354",
-    "19352"
+    "19352",
+    "19359",
+    "19358"
   ],
-  "last_updated": "2026-04-01T16:38:59.692429"
+  "last_updated": "2026-04-01T19:40:57.022751"
 }
