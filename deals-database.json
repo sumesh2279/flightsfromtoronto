@@ -18983,6 +18983,30 @@
           "depart_date": "2026-07-23",
           "return_date": "2026-07-29",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-07-23 returning 2026-07-29"
+        },
+        {
+          "dates": "Thu, Oct 1 \u2013 Thu, Oct 8",
+          "price": "CA$350",
+          "price_value": 350,
+          "depart_date": "2026-10-01",
+          "return_date": "2026-10-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-10-01 returning 2026-10-08"
+        },
+        {
+          "dates": "Thu, Oct 15 \u2013 Thu, Oct 22",
+          "price": "CA$350",
+          "price_value": 350,
+          "depart_date": "2026-10-15",
+          "return_date": "2026-10-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-10-15 returning 2026-10-22"
+        },
+        {
+          "dates": "Thu, Oct 22 \u2013 Wed, Oct 28",
+          "price": "CA$350",
+          "price_value": 350,
+          "depart_date": "2026-10-22",
+          "return_date": "2026-10-28",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Fort%20Myers on 2026-10-22 returning 2026-10-28"
         }
       ]
     },
@@ -28453,7 +28477,8 @@
     "19312",
     "19330",
     "19321",
-    "19317"
+    "19317",
+    "19336"
   ],
-  "last_updated": "2026-04-01T12:35:49.243876"
+  "last_updated": "2026-04-01T14:37:10.346602"
 }
