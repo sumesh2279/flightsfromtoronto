@@ -26725,14 +26725,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-03-05 returning 2026-03-13"
         },
         {
-          "dates": "Mon, Aug 24 \u2013 Sun, Aug 30",
-          "price": "CA$407",
-          "price_value": 407,
-          "depart_date": "2026-08-24",
-          "return_date": "2026-08-30",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-08-24 returning 2026-08-30"
-        },
-        {
           "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
           "price": "CA$423",
           "price_value": 423,
@@ -26875,6 +26867,38 @@
           "depart_date": "2026-07-11",
           "return_date": "2026-07-17",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-07-11 returning 2026-07-17"
+        },
+        {
+          "dates": "Sun, Aug 2 \u2013 Mon, Aug 10",
+          "price": "CA$478",
+          "price_value": 478,
+          "depart_date": "2026-08-02",
+          "return_date": "2026-08-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-08-02 returning 2026-08-10"
+        },
+        {
+          "dates": "Sat, Aug 1 \u2013 Fri, Aug 7",
+          "price": "CA$332",
+          "price_value": 332,
+          "depart_date": "2026-08-01",
+          "return_date": "2026-08-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-08-01 returning 2026-08-07"
+        },
+        {
+          "dates": "Sun, Aug 9 \u2013 Mon, Aug 17",
+          "price": "CA$397",
+          "price_value": 397,
+          "depart_date": "2026-08-09",
+          "return_date": "2026-08-17",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-08-09 returning 2026-08-17"
+        },
+        {
+          "dates": "Mon, Aug 24 \u2013 Sun, Aug 30",
+          "price": "CA$399",
+          "price_value": 399,
+          "depart_date": "2026-08-24",
+          "return_date": "2026-08-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn%2C%20Cozumel on 2026-08-24 returning 2026-08-30"
         }
       ]
     },
@@ -28957,7 +28981,8 @@
     "19378",
     "19376",
     "19374",
-    "19373"
+    "19373",
+    "19385"
   ],
-  "last_updated": "2026-04-02T08:43:13.526806"
+  "last_updated": "2026-04-02T09:43:37.874593"
 }
