@@ -21987,6 +21987,30 @@
           "depart_date": "2026-05-17",
           "return_date": "2026-05-26",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-05-17 returning 2026-05-26"
+        },
+        {
+          "dates": "Mon, Oct 26 \u2013 Sun, Nov 1",
+          "price": "CA$277",
+          "price_value": 277,
+          "depart_date": "2026-10-26",
+          "return_date": "2026-11-01",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-10-26 returning 2026-11-01"
+        },
+        {
+          "dates": "Thu, Oct 15 \u2013 Wed, Oct 21",
+          "price": "CA$336",
+          "price_value": 336,
+          "depart_date": "2026-10-15",
+          "return_date": "2026-10-21",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-10-15 returning 2026-10-21"
+        },
+        {
+          "dates": "Thu, Oct 1 \u2013 Wed, Oct 7",
+          "price": "CA$350",
+          "price_value": 350,
+          "depart_date": "2026-10-01",
+          "return_date": "2026-10-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Nashville on 2026-10-01 returning 2026-10-07"
         }
       ]
     },
@@ -28982,7 +29006,8 @@
     "19376",
     "19374",
     "19373",
-    "19385"
+    "19385",
+    "19391"
   ],
-  "last_updated": "2026-04-02T09:43:37.874593"
+  "last_updated": "2026-04-02T11:43:39.589616"
 }
