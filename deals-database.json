@@ -18969,6 +18969,30 @@
           "depart_date": "2026-07-23",
           "return_date": "2026-07-31",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Havana on 2026-07-23 returning 2026-07-31"
+        },
+        {
+          "dates": "Sun, Aug 30 \u2013 Mon, Sep 7",
+          "price": "CA$647",
+          "price_value": 647,
+          "depart_date": "2026-08-30",
+          "return_date": "2026-09-07",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Havana on 2026-08-30 returning 2026-09-07"
+        },
+        {
+          "dates": "Thu, Aug 20 \u2013 Wed, Aug 26",
+          "price": "CA$740",
+          "price_value": 740,
+          "depart_date": "2026-08-20",
+          "return_date": "2026-08-26",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Havana on 2026-08-20 returning 2026-08-26"
+        },
+        {
+          "dates": "Sat, Aug 15 \u2013 Mon, Aug 24",
+          "price": "CA$812",
+          "price_value": 812,
+          "depart_date": "2026-08-15",
+          "return_date": "2026-08-24",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Havana on 2026-08-15 returning 2026-08-24"
         }
       ]
     },
@@ -29082,7 +29106,8 @@
     "19391",
     "19392",
     "19401",
-    "19400"
+    "19400",
+    "19404"
   ],
-  "last_updated": "2026-04-02T14:43:39.750189"
+  "last_updated": "2026-04-02T15:43:39.365787"
 }
