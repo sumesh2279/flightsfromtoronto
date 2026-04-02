@@ -13433,14 +13433,6 @@
       "cheapest_current": "CA$569",
       "deals": [
         {
-          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
-          "price": "CA$1,135",
-          "price_value": 1135,
-          "depart_date": "2026-08-31",
-          "return_date": "2026-09-09",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to London on 2026-08-31 returning 2026-09-09"
-        },
-        {
           "dates": "Sun, Aug 30 \u2013 Tue, Sep 8",
           "price": "CA$737",
           "price_value": 737,
@@ -13719,6 +13711,30 @@
           "depart_date": "2026-04-06",
           "return_date": "2026-04-15",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to London on 2026-04-06 returning 2026-04-15"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Wed, Sep 9",
+          "price": "CA$1,060",
+          "price_value": 1060,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-09",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to London on 2026-08-31 returning 2026-09-09"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Tue, Sep 8",
+          "price": "CA$816",
+          "price_value": 816,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to London on 2026-08-31 returning 2026-09-08"
+        },
+        {
+          "dates": "Sun, Aug 16 \u2013 Tue, Aug 25",
+          "price": "CA$926",
+          "price_value": 926,
+          "depart_date": "2026-08-16",
+          "return_date": "2026-08-25",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to London on 2026-08-16 returning 2026-08-25"
         }
       ]
     },
@@ -15917,6 +15933,38 @@
           "depart_date": "2026-04-12",
           "return_date": "2026-04-18",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bermuda on 2026-04-12 returning 2026-04-18"
+        },
+        {
+          "dates": "Sat, May 2 \u2013 Fri, May 8",
+          "price": "CA$568",
+          "price_value": 568,
+          "depart_date": "2026-05-02",
+          "return_date": "2026-05-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bermuda on 2026-05-02 returning 2026-05-08"
+        },
+        {
+          "dates": "Fri, May 29 \u2013 Fri, Jun 5",
+          "price": "CA$496",
+          "price_value": 496,
+          "depart_date": "2026-05-29",
+          "return_date": "2026-06-05",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bermuda on 2026-05-29 returning 2026-06-05"
+        },
+        {
+          "dates": "Sun, May 10 \u2013 Sat, May 16",
+          "price": "CA$496",
+          "price_value": 496,
+          "depart_date": "2026-05-10",
+          "return_date": "2026-05-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bermuda on 2026-05-10 returning 2026-05-16"
+        },
+        {
+          "dates": "Sun, May 24 \u2013 Sat, May 30",
+          "price": "CA$496",
+          "price_value": 496,
+          "depart_date": "2026-05-24",
+          "return_date": "2026-05-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Bermuda on 2026-05-24 returning 2026-05-30"
         }
       ]
     },
@@ -29032,7 +29080,9 @@
     "19373",
     "19385",
     "19391",
-    "19392"
+    "19392",
+    "19401",
+    "19400"
   ],
-  "last_updated": "2026-04-02T12:43:39.906021"
+  "last_updated": "2026-04-02T14:43:39.750189"
 }
