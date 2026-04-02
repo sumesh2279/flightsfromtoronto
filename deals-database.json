@@ -2687,6 +2687,30 @@
           "depart_date": "2026-04-23",
           "return_date": "2026-04-29",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Freeport on 2026-04-23 returning 2026-04-29"
+        },
+        {
+          "dates": "Thu, May 28 \u2013 Wed, Jun 3",
+          "price": "CA$777",
+          "price_value": 777,
+          "depart_date": "2026-05-28",
+          "return_date": "2026-06-03",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Freeport on 2026-05-28 returning 2026-06-03"
+        },
+        {
+          "dates": "Sun, May 24 \u2013 Sat, May 30",
+          "price": "CA$777",
+          "price_value": 777,
+          "depart_date": "2026-05-24",
+          "return_date": "2026-05-30",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Freeport on 2026-05-24 returning 2026-05-30"
+        },
+        {
+          "dates": "Sat, May 16 \u2013 Sat, May 23",
+          "price": "CA$807",
+          "price_value": 807,
+          "depart_date": "2026-05-16",
+          "return_date": "2026-05-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Freeport on 2026-05-16 returning 2026-05-23"
         }
       ]
     },
@@ -29007,7 +29031,8 @@
     "19374",
     "19373",
     "19385",
-    "19391"
+    "19391",
+    "19392"
   ],
-  "last_updated": "2026-04-02T11:43:39.589616"
+  "last_updated": "2026-04-02T12:43:39.906021"
 }
