@@ -3681,6 +3681,30 @@
           "depart_date": "2026-07-24",
           "return_date": "2026-08-01",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-07-24 returning 2026-08-01"
+        },
+        {
+          "dates": "Thu, Sep 3 \u2013 Thu, Sep 10",
+          "price": "CA$583",
+          "price_value": 583,
+          "depart_date": "2026-09-03",
+          "return_date": "2026-09-10",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-09-03 returning 2026-09-10"
+        },
+        {
+          "dates": "Thu, Sep 10 \u2013 Wed, Sep 16",
+          "price": "CA$595",
+          "price_value": 595,
+          "depart_date": "2026-09-10",
+          "return_date": "2026-09-16",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-09-10 returning 2026-09-16"
+        },
+        {
+          "dates": "Thu, Sep 17 \u2013 Wed, Sep 23",
+          "price": "CA$595",
+          "price_value": 595,
+          "depart_date": "2026-09-17",
+          "return_date": "2026-09-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Richmond on 2026-09-17 returning 2026-09-23"
         }
       ]
     },
@@ -3999,6 +4023,30 @@
           "depart_date": "2026-06-01",
           "return_date": "2026-06-08",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sapporo on 2026-06-01 returning 2026-06-08"
+        },
+        {
+          "dates": "Mon, May 4 \u2013 Tue, May 12",
+          "price": "CA$1,443",
+          "price_value": 1443,
+          "depart_date": "2026-05-04",
+          "return_date": "2026-05-12",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sapporo on 2026-05-04 returning 2026-05-12"
+        },
+        {
+          "dates": "Thu, May 7 \u2013 Wed, May 13",
+          "price": "CA$1,587",
+          "price_value": 1587,
+          "depart_date": "2026-05-07",
+          "return_date": "2026-05-13",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sapporo on 2026-05-07 returning 2026-05-13"
+        },
+        {
+          "dates": "Sun, May 31 \u2013 Mon, Jun 8",
+          "price": "CA$1,635",
+          "price_value": 1635,
+          "depart_date": "2026-05-31",
+          "return_date": "2026-06-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Sapporo on 2026-05-31 returning 2026-06-08"
         }
       ]
     },
@@ -7897,6 +7945,30 @@
           "depart_date": "2026-05-24",
           "return_date": "2026-06-02",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Puerto%20Plata on 2026-05-24 returning 2026-06-02"
+        },
+        {
+          "dates": "Mon, Aug 31 \u2013 Tue, Sep 8",
+          "price": "CA$701",
+          "price_value": 701,
+          "depart_date": "2026-08-31",
+          "return_date": "2026-09-08",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Puerto%20Plata on 2026-08-31 returning 2026-09-08"
+        },
+        {
+          "dates": "Sat, Aug 8 \u2013 Sat, Aug 15",
+          "price": "CA$823",
+          "price_value": 823,
+          "depart_date": "2026-08-08",
+          "return_date": "2026-08-15",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Puerto%20Plata on 2026-08-08 returning 2026-08-15"
+        },
+        {
+          "dates": "Sat, Aug 15 \u2013 Sat, Aug 22",
+          "price": "CA$823",
+          "price_value": 823,
+          "depart_date": "2026-08-15",
+          "return_date": "2026-08-22",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Puerto%20Plata on 2026-08-15 returning 2026-08-22"
         }
       ]
     },
@@ -29116,7 +29188,11 @@
     "19401",
     "19400",
     "19404",
-    "19406"
+    "19406",
+    "19410",
+    "19409",
+    "19408",
+    "19407"
   ],
-  "last_updated": "2026-04-02T20:43:44.440515"
+  "last_updated": "2026-04-03T07:44:10.089590"
 }
