@@ -1059,14 +1059,6 @@
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-05-07 returning 2026-05-15"
         },
         {
-          "dates": "Sun, Jun 14 \u2013 Tue, Jun 23",
-          "price": "CA$368",
-          "price_value": 368,
-          "depart_date": "2026-06-14",
-          "return_date": "2026-06-23",
-          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-06-14 returning 2026-06-23"
-        },
-        {
           "dates": "Sat, Apr 4 \u2013 Fri, Apr 10",
           "price": "CA$373",
           "price_value": 373,
@@ -1217,6 +1209,22 @@
           "depart_date": "2026-08-21",
           "return_date": "2026-08-27",
           "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-08-21 returning 2026-08-27"
+        },
+        {
+          "dates": "Sun, Jun 14 \u2013 Tue, Jun 23",
+          "price": "CA$308",
+          "price_value": 308,
+          "depart_date": "2026-06-14",
+          "return_date": "2026-06-23",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-06-14 returning 2026-06-23"
+        },
+        {
+          "dates": "Sat, Jun 20 \u2013 Sat, Jun 27",
+          "price": "CA$318",
+          "price_value": 318,
+          "depart_date": "2026-06-20",
+          "return_date": "2026-06-27",
+          "url": "https://www.google.com/travel/flights?q=flights from Toronto to Canc%C3%BAn on 2026-06-20 returning 2026-06-27"
         }
       ]
     },
@@ -29107,7 +29115,8 @@
     "19392",
     "19401",
     "19400",
-    "19404"
+    "19404",
+    "19406"
   ],
-  "last_updated": "2026-04-02T15:43:39.365787"
+  "last_updated": "2026-04-02T20:43:44.440515"
 }
